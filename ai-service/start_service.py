@@ -43,7 +43,7 @@ def main():
         # Initialize models
         logger.info("🤖 Initializing AI models...")
         if not initialize_models():
-            logger.error("❌ Failed to initialize models")
+            logger.error("  Failed to initialize models")
             sys.exit(1)
         
         # Start the Flask app
@@ -57,7 +57,7 @@ def main():
     except KeyboardInterrupt:
         logger.info("🛑 Service stopped by user")
     except Exception as e:
-        logger.error(f"❌ Failed to start AI service: {e}")
+        logger.error(f"  Failed to start AI service: {e}")
         sys.exit(1)
 
 if __name__ == '__main__':

@@ -85,11 +85,11 @@ class RecommendationModel:
             self._setup_advanced_features()
             
             self.is_initialized = True
-            logger.info("✅ Enhanced recommendation model initialized successfully")
+            logger.info("  Enhanced recommendation model initialized successfully")
             return True
             
         except Exception as e:
-            logger.error(f"❌ Error initializing enhanced recommendation model: {e}")
+            logger.error(f"  Error initializing enhanced recommendation model: {e}")
             return False
     
     def _load_nlp_models(self):
@@ -98,9 +98,9 @@ class RecommendationModel:
             # Load French NLP model
             try:
                 self.nlp = spacy.load('fr_core_news_sm')
-                logger.info("✅ French NLP model loaded")
+                logger.info("  French NLP model loaded")
             except OSError:
-                logger.warning("⚠️ French model not found. Using basic processing")
+                logger.warning("   French model not found. Using basic processing")
                 self.nlp = None
             
             # Load the best multilingual embedding model
@@ -108,10 +108,10 @@ class RecommendationModel:
             
             # Configure for better French understanding
             self.embedder.max_seq_length = 512
-            logger.info("✅ Enhanced embedding model loaded")
+            logger.info("Enhanced embedding model loaded")
             
         except Exception as e:
-            logger.error(f"❌ Error loading NLP models: {e}")
+            logger.error(f"Error loading NLP models: {e}")
             raise
     
     def _load_enhanced_data(self):
@@ -124,17 +124,17 @@ class RecommendationModel:
             if os.path.exists(configs_path) and os.path.exists(prix_path):
                 self.configs = pd.read_csv(configs_path)
                 self.prix_df = pd.read_csv(prix_path)
-                logger.info(f"✅ Loaded real data: {len(self.configs)} configs, {len(self.prix_df)} prices")
+                logger.info(f"Loaded real data: {len(self.configs)} configs, {len(self.prix_df)} prices")
             else:
                 # Create enhanced sample data that matches your Colab structure
                 self._create_enhanced_sample_data()
-                logger.info("✅ Created enhanced sample data")
+                logger.info("  Created enhanced sample data")
             
             # Clean and enhance the data
             self._clean_and_enhance_data()
             
         except Exception as e:
-            logger.error(f"❌ Error loading enhanced data: {e}")
+            logger.error(f"  Error loading enhanced data: {e}")
             raise
     
     def _create_enhanced_sample_data(self):
@@ -219,7 +219,7 @@ class RecommendationModel:
         # Add enhanced features
         self._add_enhanced_features()
         
-        logger.info(f"✅ Data cleaned and enhanced: {len(self.configs)} configurations ready")
+        logger.info(f"  Data cleaned and enhanced: {len(self.configs)} configurations ready")
     
     def _calculate_enhanced_prix(self, config):
         """Enhanced price calculation with fallbacks"""
@@ -328,10 +328,10 @@ class RecommendationModel:
                 embeddings.extend(batch_embeddings)
             
             self.config_embeddings = np.array(embeddings)
-            logger.info("✅ Enhanced configuration embeddings pre-computed")
+            logger.info("  Enhanced configuration embeddings pre-computed")
             
         except Exception as e:
-            logger.error(f"❌ Error pre-computing embeddings: {e}")
+            logger.error(f"  Error pre-computing embeddings: {e}")
             raise
     
     def _setup_advanced_features(self):
@@ -341,10 +341,10 @@ class RecommendationModel:
             if self.config_embeddings is not None:
                 self.pca = PCA(n_components=min(100, self.config_embeddings.shape[1]))
                 self.config_embeddings_pca = self.pca.fit_transform(self.config_embeddings)
-                logger.info("✅ PCA dimensionality reduction applied")
+                logger.info("  PCA dimensionality reduction applied")
             
         except Exception as e:
-            logger.warning(f"⚠️ Advanced features setup failed: {e}")
+            logger.warning(f"   Advanced features setup failed: {e}")
     
     def _enhanced_preprocess_text(self, text):
         """Enhanced text preprocessing with better French handling"""
@@ -512,7 +512,7 @@ class RecommendationModel:
             return final_scores
             
         except Exception as e:
-            logger.error(f"❌ Error calculating enhanced scores: {e}")
+            logger.error(f"  Error calculating enhanced scores: {e}")
             return np.random.uniform(0.1, 0.3, len(self.configs))
     
     def get_recommendations(self, user_query, jours=1):
@@ -521,7 +521,7 @@ class RecommendationModel:
             if not self.is_initialized:
                 raise Exception("Enhanced model not initialized")
             
-            logger.info(f"📝 Processing enhanced query: '{user_query}' for {jours} day(s)")
+            logger.info(f"   Processing enhanced query: '{user_query}' for {jours} day(s)")
             
             if len(user_query.strip()) < 3:
                 return {
@@ -593,7 +593,7 @@ class RecommendationModel:
             }
             
         except Exception as e:
-            logger.error(f"❌ Error getting enhanced recommendations: {e}")
+            logger.error(f"  Error getting enhanced recommendations: {e}")
             return {
                 'success': False,
                 'message': str(e),
@@ -674,7 +674,7 @@ class RecommendationModel:
             return stats
             
         except Exception as e:
-            logger.error(f"❌ Error getting enhanced stats: {e}")
+            logger.error(f"  Error getting enhanced stats: {e}")
             return {}
     
     def get_model_info(self):

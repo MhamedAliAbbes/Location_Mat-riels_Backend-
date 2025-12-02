@@ -29,15 +29,15 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-28 00:44:49,247 - __main__ - INFO - Starting Enhanced AI Service...
 2025-09-28 00:44:49,248 - __main__ - INFO - Starting Enhanced AI Service Initialization...
 2025-09-28 00:45:11,967 - recommendation_model - INFO - 🤖 Initializing Enhanced Recommendation Model...
-2025-09-28 00:45:11,968 - recommendation_model - WARNING - ⚠️ French model not found. Using basic processing
+2025-09-28 00:45:11,968 - recommendation_model - WARNING -    French model not found. Using basic processing
 2025-09-28 00:45:11,970 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
 2025-09-28 00:45:11,971 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
-2025-09-28 00:45:27,619 - recommendation_model - INFO - ✅ Enhanced embedding model loaded
-2025-09-28 00:45:27,652 - recommendation_model - INFO - ✅ Loaded real data: 1000 configs, 55 prices
-2025-09-28 00:45:27,681 - recommendation_model - INFO - ✅ Data cleaned and enhanced: 1000 configurations ready
-2025-09-28 00:46:14,605 - recommendation_model - INFO - ✅ Enhanced configuration embeddings pre-computed
-2025-09-28 00:46:14,842 - recommendation_model - INFO - ✅ PCA dimensionality reduction applied
-2025-09-28 00:46:14,843 - recommendation_model - INFO - ✅ Enhanced recommendation model initialized successfully
+2025-09-28 00:45:27,619 - recommendation_model - INFO -   Enhanced embedding model loaded
+2025-09-28 00:45:27,652 - recommendation_model - INFO -   Loaded real data: 1000 configs, 55 prices
+2025-09-28 00:45:27,681 - recommendation_model - INFO -   Data cleaned and enhanced: 1000 configurations ready
+2025-09-28 00:46:14,605 - recommendation_model - INFO -   Enhanced configuration embeddings pre-computed
+2025-09-28 00:46:14,842 - recommendation_model - INFO -   PCA dimensionality reduction applied
+2025-09-28 00:46:14,843 - recommendation_model - INFO -   Enhanced recommendation model initialized successfully
 2025-09-28 00:46:14,843 - __main__ - INFO - Enhanced recommendation model loaded successfully
 2025-09-28 00:46:14,844 - __main__ - INFO - Model info: {'is_initialized': True, 'embedder_model': 'paraphrase-multilingual-MiniLM-L12-v2', 'nlp_model': 'basic_processing', 'data_records': 1000, 'features': ['enhanced_semantic_similarity', 'advanced_keyword_matching', 'feature_boosting', 'quality_scoring', 'price_appropriateness', 'pca_optimization'], 'accuracy_optimized': True, 'colab_equivalent': True, 'supported_languages': ['French', 'English'], 'version': '2.0_enhanced'}
 2025-09-28 00:46:15,218 - planning_model - INFO - 🚀 Starting enhanced model training...
@@ -47,11 +47,11 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-28 00:46:15,252 - planning_model - INFO - 🧹 Enhanced cleaning of material data...
 2025-09-28 00:46:15,259 - planning_model - INFO - 🔗 Enhanced merging of datasets...
 2025-09-28 00:46:15,296 - planning_model - INFO - ⚙️ Enhanced preprocessing and feature engineering...
-2025-09-28 00:46:15,325 - planning_model - INFO - ✅ date_debut converted to datetime
-2025-09-28 00:46:15,330 - planning_model - INFO - ✅ date_fin converted to datetime
-2025-09-28 00:46:15,435 - planning_model - INFO - ✅ Data preparation complete: 3000 records ready
+2025-09-28 00:46:15,325 - planning_model - INFO -   date_debut converted to datetime
+2025-09-28 00:46:15,330 - planning_model - INFO -   date_fin converted to datetime
+2025-09-28 00:46:15,435 - planning_model - INFO -   Data preparation complete: 3000 records ready
 2025-09-28 00:46:15,436 - planning_model - INFO - 📊 Using 19 features: ['materiel_encoded', 'stock', 'mois', 'semaine', 'jour_semaine', 'est_weekend', 'est_vacances', 'trimestre', 'saison', 'saison_mariage', 'saison_affaires', 'periode_fetes', 'mois_sin', 'mois_cos', 'semaine_sin', 'semaine_cos', 'stock_log', 'taux_utilisation', 'pression_stock']
-2025-09-28 00:46:17,218 - planning_model - INFO - ✅ Enhanced model trained successfully
+2025-09-28 00:46:17,218 - planning_model - INFO -   Enhanced model trained successfully
 2025-09-28 00:46:17,218 - planning_model - INFO - 📊 Accuracy: 0.747 (74.7%)
 2025-09-28 00:46:17,219 - planning_model - INFO - 📊 MAE: 0.495
 2025-09-28 00:46:17,219 - planning_model - INFO - 📊 Top 5 features: [('jour_semaine', np.float64(0.17426777783978403)), ('semaine', np.float64(0.10369015300485929)), ('semaine_sin', np.float64(0.10026801351415171)), ('semaine_cos', np.float64(0.10001457921861935)), ('materiel_encoded', np.float64(0.08648928411714608))]
@@ -87,51 +87,51 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-28 00:46:18,265 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
 2025-09-28 00:46:57,634 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-28 00:46:57,637 - __main__ - INFO - Processing enhanced query: 'court métrage en extérieur avec grand budget' for 4 days
-2025-09-28 00:46:57,637 - recommendation_model - INFO - 📝 Processing enhanced query: 'court métrage en extérieur avec grand budget' for 4 day(s)
+2025-09-28 00:46:57,637 - recommendation_model - INFO -    Processing enhanced query: 'court métrage en extérieur avec grand budget' for 4 day(s)
 2025-09-28 00:46:58,335 - __main__ - INFO - Enhanced recommendations generated: 5 items
 2025-09-28 00:46:58,338 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 00:46:58] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-28 00:49:12,374 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-28 00:49:12,380 - __main__ - INFO - Processing enhanced query: 'court métrage en extérieur avec moyen budget' for 4 days
-2025-09-28 00:49:12,381 - recommendation_model - INFO - 📝 Processing enhanced query: 'court métrage en extérieur avec moyen budget' for 4 day(s)
+2025-09-28 00:49:12,381 - recommendation_model - INFO -    Processing enhanced query: 'court métrage en extérieur avec moyen budget' for 4 day(s)
 2025-09-28 00:49:13,187 - __main__ - INFO - Enhanced recommendations generated: 5 items
 2025-09-28 00:49:13,191 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 00:49:13] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-28 00:50:54,870 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-28 00:50:54,871 - __main__ - INFO - Processing enhanced query: 'court métrage en extérieur avec petit budget' for 4 days
-2025-09-28 00:50:54,871 - recommendation_model - INFO - 📝 Processing enhanced query: 'court métrage en extérieur avec petit budget' for 4 day(s)
+2025-09-28 00:50:54,871 - recommendation_model - INFO -    Processing enhanced query: 'court métrage en extérieur avec petit budget' for 4 day(s)
 2025-09-28 00:50:55,779 - __main__ - INFO - Enhanced recommendations generated: 5 items
 2025-09-28 00:50:55,781 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 00:50:55] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-28 00:51:56,781 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-28 00:51:56,783 - __main__ - INFO - Processing enhanced query: 'court métrage en extérieur avec petit budget' for 1 days
-2025-09-28 00:51:56,783 - recommendation_model - INFO - 📝 Processing enhanced query: 'court métrage en extérieur avec petit budget' for 1 day(s)
+2025-09-28 00:51:56,783 - recommendation_model - INFO -    Processing enhanced query: 'court métrage en extérieur avec petit budget' for 1 day(s)
 2025-09-28 00:51:58,046 - __main__ - INFO - Enhanced recommendations generated: 5 items
 2025-09-28 00:51:58,048 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 00:51:58] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-28 00:54:26,269 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-28 00:54:26,270 - __main__ - INFO - Processing enhanced query: 'court métrage en extérieur avec petit budget' for 1 days
-2025-09-28 00:54:26,270 - recommendation_model - INFO - 📝 Processing enhanced query: 'court métrage en extérieur avec petit budget' for 1 day(s)
+2025-09-28 00:54:26,270 - recommendation_model - INFO -    Processing enhanced query: 'court métrage en extérieur avec petit budget' for 1 day(s)
 2025-09-28 00:54:27,168 - __main__ - INFO - Enhanced recommendations generated: 5 items
 2025-09-28 00:54:27,170 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 00:54:27] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-28 00:55:17,535 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-28 00:55:17,536 - __main__ - INFO - Processing enhanced query: 'court métrage en extérieur avec petit budget' for 4 days
-2025-09-28 00:55:17,537 - recommendation_model - INFO - 📝 Processing enhanced query: 'court métrage en extérieur avec petit budget' for 4 day(s)
+2025-09-28 00:55:17,537 - recommendation_model - INFO -    Processing enhanced query: 'court métrage en extérieur avec petit budget' for 4 day(s)
 2025-09-28 00:55:18,436 - __main__ - INFO - Enhanced recommendations generated: 5 items
 2025-09-28 00:55:18,437 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 00:55:18] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-28 00:57:07,297 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-28 00:57:07,298 - __main__ - INFO - Processing enhanced query: 'longue métrage en extérieur avec grand budget' for 4 days
-2025-09-28 00:57:07,299 - recommendation_model - INFO - 📝 Processing enhanced query: 'longue métrage en extérieur avec grand budget' for 4 day(s)
+2025-09-28 00:57:07,299 - recommendation_model - INFO -    Processing enhanced query: 'longue métrage en extérieur avec grand budget' for 4 day(s)
 2025-09-28 00:57:08,137 - __main__ - INFO - Enhanced recommendations generated: 5 items
 2025-09-28 00:57:08,138 - werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 00:57:08] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-30 00:42:37,384 - __main__ - INFO - Starting Enhanced AI Service...
 2025-09-30 00:42:37,385 - __main__ - INFO - Starting Enhanced AI Service Initialization...
 2025-09-30 00:44:11,282 - recommendation_model - INFO - 🤖 Initializing Enhanced Recommendation Model...
-2025-09-30 00:44:11,289 - recommendation_model - WARNING - ⚠️ French model not found. Using basic processing
+2025-09-30 00:44:11,289 - recommendation_model - WARNING -    French model not found. Using basic processing
 2025-09-30 00:44:11,296 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
 2025-09-30 00:44:11,298 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
-2025-09-30 00:44:17,268 - recommendation_model - INFO - ✅ Enhanced embedding model loaded
-2025-09-30 00:44:17,350 - recommendation_model - INFO - ✅ Loaded real data: 1000 configs, 55 prices
-2025-09-30 00:44:17,454 - recommendation_model - INFO - ✅ Data cleaned and enhanced: 1000 configurations ready
-2025-09-30 00:45:01,796 - recommendation_model - INFO - ✅ Enhanced configuration embeddings pre-computed
-2025-09-30 00:45:02,081 - recommendation_model - INFO - ✅ PCA dimensionality reduction applied
-2025-09-30 00:45:02,083 - recommendation_model - INFO - ✅ Enhanced recommendation model initialized successfully
+2025-09-30 00:44:17,268 - recommendation_model - INFO -   Enhanced embedding model loaded
+2025-09-30 00:44:17,350 - recommendation_model - INFO -   Loaded real data: 1000 configs, 55 prices
+2025-09-30 00:44:17,454 - recommendation_model - INFO -   Data cleaned and enhanced: 1000 configurations ready
+2025-09-30 00:45:01,796 - recommendation_model - INFO -   Enhanced configuration embeddings pre-computed
+2025-09-30 00:45:02,081 - recommendation_model - INFO -   PCA dimensionality reduction applied
+2025-09-30 00:45:02,083 - recommendation_model - INFO -   Enhanced recommendation model initialized successfully
 2025-09-30 00:45:02,084 - __main__ - INFO - Enhanced recommendation model loaded successfully
 2025-09-30 00:45:02,084 - __main__ - INFO - Model info: {'is_initialized': True, 'embedder_model': 'paraphrase-multilingual-MiniLM-L12-v2', 'nlp_model': 'basic_processing', 'data_records': 1000, 'features': ['enhanced_semantic_similarity', 'advanced_keyword_matching', 'feature_boosting', 'quality_scoring', 'price_appropriateness', 'pca_optimization'], 'accuracy_optimized': True, 'colab_equivalent': True, 'supported_languages': ['French', 'English'], 'version': '2.0_enhanced'}
 2025-09-30 00:45:03,261 - planning_model - INFO - 🚀 Starting enhanced model training...
@@ -141,11 +141,11 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 00:45:03,367 - planning_model - INFO - 🧹 Enhanced cleaning of material data...
 2025-09-30 00:45:03,371 - planning_model - INFO - 🔗 Enhanced merging of datasets...
 2025-09-30 00:45:03,413 - planning_model - INFO - ⚙️ Enhanced preprocessing and feature engineering...
-2025-09-30 00:45:03,442 - planning_model - INFO - ✅ date_debut converted to datetime
-2025-09-30 00:45:03,447 - planning_model - INFO - ✅ date_fin converted to datetime
-2025-09-30 00:45:03,537 - planning_model - INFO - ✅ Data preparation complete: 3000 records ready
+2025-09-30 00:45:03,442 - planning_model - INFO -   date_debut converted to datetime
+2025-09-30 00:45:03,447 - planning_model - INFO -   date_fin converted to datetime
+2025-09-30 00:45:03,537 - planning_model - INFO -   Data preparation complete: 3000 records ready
 2025-09-30 00:45:03,539 - planning_model - INFO - 📊 Using 19 features: ['materiel_encoded', 'stock', 'mois', 'semaine', 'jour_semaine', 'est_weekend', 'est_vacances', 'trimestre', 'saison', 'saison_mariage', 'saison_affaires', 'periode_fetes', 'mois_sin', 'mois_cos', 'semaine_sin', 'semaine_cos', 'stock_log', 'taux_utilisation', 'pression_stock']
-2025-09-30 00:45:05,701 - planning_model - INFO - ✅ Enhanced model trained successfully
+2025-09-30 00:45:05,701 - planning_model - INFO -   Enhanced model trained successfully
 2025-09-30 00:45:05,702 - planning_model - INFO - 📊 Accuracy: 0.747 (74.7%)
 2025-09-30 00:45:05,703 - planning_model - INFO - 📊 MAE: 0.495
 2025-09-30 00:45:05,704 - planning_model - INFO - 📊 Top 5 features: [('jour_semaine', np.float64(0.17426777783978403)), ('semaine', np.float64(0.10369015300485929)), ('semaine_sin', np.float64(0.10026801351415171)), ('semaine_cos', np.float64(0.10001457921861935)), ('materiel_encoded', np.float64(0.08648928411714608))]
@@ -181,14 +181,14 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 00:45:06,802 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
 2025-09-30 00:47:07,094 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-30 00:47:07,096 - __main__ - INFO - Processing enhanced query: 'I need equipment for outdoor wedding photography' for 1 days
-2025-09-30 00:47:07,097 - recommendation_model - INFO - 📝 Processing enhanced query: 'I need equipment for outdoor wedding photography' for 1 day(s)
+2025-09-30 00:47:07,097 - recommendation_model - INFO -    Processing enhanced query: 'I need equipment for outdoor wedding photography' for 1 day(s)
 2025-09-30 00:47:07,662 - __main__ - INFO - Enhanced recommendations generated: 5 items
 2025-09-30 00:47:07,664 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 00:47:07] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-30 00:48:18,100 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 00:48:18] "GET /health HTTP/1.1" 200 -
 2025-09-30 00:48:18,113 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 00:48:18] "GET /health HTTP/1.1" 200 -
 2025-09-30 00:48:18,122 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-30 00:48:18,123 - __main__ - INFO - Processing enhanced query: 'test camera equipment' for 1 days
-2025-09-30 00:48:18,124 - recommendation_model - INFO - 📝 Processing enhanced query: 'test camera equipment' for 1 day(s)
+2025-09-30 00:48:18,124 - recommendation_model - INFO -    Processing enhanced query: 'test camera equipment' for 1 day(s)
 2025-09-30 00:48:18,618 - __main__ - INFO - Enhanced recommendations generated: 5 items
 2025-09-30 00:48:18,619 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 00:48:18] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-30 00:49:06,361 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 00:49:06] "GET /health HTTP/1.1" 200 -
@@ -274,15 +274,15 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 01:12:17,761 - __main__ - INFO - Starting Enhanced AI Service...
 2025-09-30 01:12:17,761 - __main__ - INFO - Starting Enhanced AI Service Initialization...
 2025-09-30 01:12:30,467 - recommendation_model - INFO - 🤖 Initializing Enhanced Recommendation Model...
-2025-09-30 01:12:30,470 - recommendation_model - WARNING - ⚠️ French model not found. Using basic processing
+2025-09-30 01:12:30,470 - recommendation_model - WARNING -    French model not found. Using basic processing
 2025-09-30 01:12:30,471 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
 2025-09-30 01:12:30,472 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
-2025-09-30 01:12:35,633 - recommendation_model - INFO - ✅ Enhanced embedding model loaded
-2025-09-30 01:12:35,640 - recommendation_model - INFO - ✅ Loaded real data: 1000 configs, 55 prices
-2025-09-30 01:12:35,659 - recommendation_model - INFO - ✅ Data cleaned and enhanced: 1000 configurations ready
-2025-09-30 01:13:25,034 - recommendation_model - INFO - ✅ Enhanced configuration embeddings pre-computed
-2025-09-30 01:13:25,213 - recommendation_model - INFO - ✅ PCA dimensionality reduction applied
-2025-09-30 01:13:25,215 - recommendation_model - INFO - ✅ Enhanced recommendation model initialized successfully
+2025-09-30 01:12:35,633 - recommendation_model - INFO -   Enhanced embedding model loaded
+2025-09-30 01:12:35,640 - recommendation_model - INFO -   Loaded real data: 1000 configs, 55 prices
+2025-09-30 01:12:35,659 - recommendation_model - INFO -   Data cleaned and enhanced: 1000 configurations ready
+2025-09-30 01:13:25,034 - recommendation_model - INFO -   Enhanced configuration embeddings pre-computed
+2025-09-30 01:13:25,213 - recommendation_model - INFO -   PCA dimensionality reduction applied
+2025-09-30 01:13:25,215 - recommendation_model - INFO -   Enhanced recommendation model initialized successfully
 2025-09-30 01:13:25,215 - __main__ - INFO - Enhanced recommendation model loaded successfully
 2025-09-30 01:13:25,216 - __main__ - INFO - Model info: {'is_initialized': True, 'embedder_model': 'paraphrase-multilingual-MiniLM-L12-v2', 'nlp_model': 'basic_processing', 'data_records': 1000, 'features': ['enhanced_semantic_similarity', 'advanced_keyword_matching', 'feature_boosting', 'quality_scoring', 'price_appropriateness', 'pca_optimization'], 'accuracy_optimized': True, 'colab_equivalent': True, 'supported_languages': ['French', 'English'], 'version': '2.0_enhanced'}
 2025-09-30 01:13:26,165 - planning_model - INFO - Starting enhanced model training...
@@ -333,15 +333,15 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 01:15:07,711 - __main__ - INFO - Starting Enhanced AI Service...
 2025-09-30 01:15:07,711 - __main__ - INFO - Starting Enhanced AI Service Initialization...
 2025-09-30 01:16:16,850 - models.recommendation_model - INFO - 🤖 Initializing Enhanced Recommendation Model...
-2025-09-30 01:16:16,852 - models.recommendation_model - WARNING - ⚠️ French model not found. Using basic processing
+2025-09-30 01:16:16,852 - models.recommendation_model - WARNING -    French model not found. Using basic processing
 2025-09-30 01:16:16,855 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
 2025-09-30 01:16:16,855 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
-2025-09-30 01:16:22,054 - models.recommendation_model - INFO - ✅ Enhanced embedding model loaded
-2025-09-30 01:16:22,076 - models.recommendation_model - INFO - ✅ Loaded real data: 1000 configs, 55 prices
-2025-09-30 01:16:22,096 - models.recommendation_model - INFO - ✅ Data cleaned and enhanced: 1000 configurations ready
-2025-09-30 01:17:11,965 - models.recommendation_model - INFO - ✅ Enhanced configuration embeddings pre-computed
-2025-09-30 01:17:12,136 - models.recommendation_model - INFO - ✅ PCA dimensionality reduction applied
-2025-09-30 01:17:12,136 - models.recommendation_model - INFO - ✅ Enhanced recommendation model initialized successfully
+2025-09-30 01:16:22,054 - models.recommendation_model - INFO -   Enhanced embedding model loaded
+2025-09-30 01:16:22,076 - models.recommendation_model - INFO -   Loaded real data: 1000 configs, 55 prices
+2025-09-30 01:16:22,096 - models.recommendation_model - INFO -   Data cleaned and enhanced: 1000 configurations ready
+2025-09-30 01:17:11,965 - models.recommendation_model - INFO -   Enhanced configuration embeddings pre-computed
+2025-09-30 01:17:12,136 - models.recommendation_model - INFO -   PCA dimensionality reduction applied
+2025-09-30 01:17:12,136 - models.recommendation_model - INFO -   Enhanced recommendation model initialized successfully
 2025-09-30 01:17:12,137 - __main__ - INFO - Enhanced recommendation model loaded successfully
 2025-09-30 01:17:12,137 - __main__ - INFO - Model info: {'is_initialized': True, 'embedder_model': 'paraphrase-multilingual-MiniLM-L12-v2', 'nlp_model': 'basic_processing', 'data_records': 1000, 'features': ['enhanced_semantic_similarity', 'advanced_keyword_matching', 'feature_boosting', 'quality_scoring', 'price_appropriateness', 'pca_optimization'], 'accuracy_optimized': True, 'colab_equivalent': True, 'supported_languages': ['French', 'English'], 'version': '2.0_enhanced'}
 2025-09-30 01:17:12,137 - models.planning_model - INFO - Starting enhanced model training...
@@ -393,12 +393,12 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 01:17:23,288 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:17:23] "GET /health HTTP/1.1" 200 -
 2025-09-30 01:17:23,295 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-30 01:17:23,296 - __main__ - INFO - Processing enhanced query: 'test camera equipment' for 1 days
-2025-09-30 01:17:23,296 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'test camera equipment' for 1 day(s)
+2025-09-30 01:17:23,296 - models.recommendation_model - INFO -    Processing enhanced query: 'test camera equipment' for 1 day(s)
 2025-09-30 01:17:24,213 - __main__ - INFO - Enhanced recommendations generated: 5 items
 2025-09-30 01:17:24,216 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:17:24] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-30 01:17:44,503 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-30 01:17:44,506 - __main__ - INFO - Processing enhanced query: 'Small budget indoor video recording' for 1 days
-2025-09-30 01:17:44,506 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'Small budget indoor video recording' for 1 day(s)
+2025-09-30 01:17:44,506 - models.recommendation_model - INFO -    Processing enhanced query: 'Small budget indoor video recording' for 1 day(s)
 2025-09-30 01:17:45,386 - __main__ - INFO - Enhanced recommendations generated: 5 items
 2025-09-30 01:17:45,388 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:17:45] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-30 01:17:56,424 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:17:56] "GET /health HTTP/1.1" 200 -
@@ -424,19 +424,19 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 01:20:55,484 - __main__ - INFO - Starting Enhanced AI Service...
 2025-09-30 01:20:55,485 - __main__ - INFO - Starting Enhanced AI Service Initialization...
 2025-09-30 01:21:05,886 - models.recommendation_model - INFO - 🤖 Initializing Enhanced Recommendation Model...
-2025-09-30 01:21:05,888 - models.recommendation_model - WARNING - ⚠️ French model not found. Using basic processing
+2025-09-30 01:21:05,888 - models.recommendation_model - WARNING -    French model not found. Using basic processing
 2025-09-30 01:21:05,890 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
 2025-09-30 01:21:05,890 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
-2025-09-30 01:21:11,650 - models.recommendation_model - INFO - ✅ Enhanced embedding model loaded
-2025-09-30 01:21:11,655 - models.recommendation_model - INFO - ✅ Loaded real data: 1000 configs, 55 prices
-2025-09-30 01:21:11,676 - models.recommendation_model - INFO - ✅ Data cleaned and enhanced: 1000 configurations ready
-2025-09-30 01:21:59,784 - models.recommendation_model - INFO - ✅ Enhanced configuration embeddings pre-computed
-2025-09-30 01:21:59,966 - models.recommendation_model - INFO - ✅ PCA dimensionality reduction applied
-2025-09-30 01:21:59,967 - models.recommendation_model - INFO - ✅ Enhanced recommendation model initialized successfully
+2025-09-30 01:21:11,650 - models.recommendation_model - INFO -   Enhanced embedding model loaded
+2025-09-30 01:21:11,655 - models.recommendation_model - INFO -   Loaded real data: 1000 configs, 55 prices
+2025-09-30 01:21:11,676 - models.recommendation_model - INFO -   Data cleaned and enhanced: 1000 configurations ready
+2025-09-30 01:21:59,784 - models.recommendation_model - INFO -   Enhanced configuration embeddings pre-computed
+2025-09-30 01:21:59,966 - models.recommendation_model - INFO -   PCA dimensionality reduction applied
+2025-09-30 01:21:59,967 - models.recommendation_model - INFO -   Enhanced recommendation model initialized successfully
 2025-09-30 01:21:59,968 - __main__ - INFO - Enhanced recommendation model loaded successfully
 2025-09-30 01:21:59,968 - __main__ - INFO - Model info: {'is_initialized': True, 'embedder_model': 'paraphrase-multilingual-MiniLM-L12-v2', 'nlp_model': 'basic_processing', 'data_records': 1000, 'features': ['enhanced_semantic_similarity', 'advanced_keyword_matching', 'feature_boosting', 'quality_scoring', 'price_appropriateness', 'pca_optimization'], 'accuracy_optimized': True, 'colab_equivalent': True, 'supported_languages': ['French', 'English'], 'version': '2.0_enhanced'}
-2025-09-30 01:22:00,008 - models.planning_model - INFO - ✅ Data loaded successfully: 3000 records
-2025-09-30 01:22:01,194 - models.planning_model - INFO - ✅ Model trained successfully
+2025-09-30 01:22:00,008 - models.planning_model - INFO -   Data loaded successfully: 3000 records
+2025-09-30 01:22:01,194 - models.planning_model - INFO -   Model trained successfully
 2025-09-30 01:22:01,195 - models.planning_model - INFO - 📊 Accuracy: 0.632 (63.2%)
 2025-09-30 01:22:01,196 - __main__ - INFO - Enhanced planning model loaded and trained successfully
 2025-09-30 01:22:01,196 - __main__ - ERROR - Enhanced planning model failed: 'PlanningModel' object has no attribute 'mae'
@@ -463,7 +463,7 @@ AttributeError: 'PlanningModel' object has no attribute 'mae'
 2025-09-30 01:23:09,552 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:23:09] "GET /health HTTP/1.1" 200 -
 2025-09-30 01:23:09,559 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-30 01:23:09,559 - __main__ - INFO - Processing enhanced query: 'test camera equipment' for 1 days
-2025-09-30 01:23:09,560 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'test camera equipment' for 1 day(s)
+2025-09-30 01:23:09,560 - models.recommendation_model - INFO -    Processing enhanced query: 'test camera equipment' for 1 day(s)
 2025-09-30 01:23:10,514 - __main__ - INFO - Enhanced recommendations generated: 5 items
 2025-09-30 01:23:10,516 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:23:10] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-30 01:23:17,172 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:23:17] "GET /health HTTP/1.1" 200 -
@@ -479,15 +479,15 @@ AttributeError: 'PlanningModel' object has no attribute 'mae'
 2025-09-30 01:23:45,159 - __main__ - INFO - Starting Enhanced AI Service...
 2025-09-30 01:23:45,159 - __main__ - INFO - Starting Enhanced AI Service Initialization...
 2025-09-30 01:23:54,364 - models.recommendation_model - INFO - 🤖 Initializing Enhanced Recommendation Model...
-2025-09-30 01:23:54,365 - models.recommendation_model - WARNING - ⚠️ French model not found. Using basic processing
+2025-09-30 01:23:54,365 - models.recommendation_model - WARNING -    French model not found. Using basic processing
 2025-09-30 01:23:54,367 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
 2025-09-30 01:23:54,368 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
-2025-09-30 01:23:59,623 - models.recommendation_model - INFO - ✅ Enhanced embedding model loaded
-2025-09-30 01:23:59,629 - models.recommendation_model - INFO - ✅ Loaded real data: 1000 configs, 55 prices
-2025-09-30 01:23:59,655 - models.recommendation_model - INFO - ✅ Data cleaned and enhanced: 1000 configurations ready
-2025-09-30 01:24:46,345 - models.recommendation_model - INFO - ✅ Enhanced configuration embeddings pre-computed
-2025-09-30 01:24:46,575 - models.recommendation_model - INFO - ✅ PCA dimensionality reduction applied
-2025-09-30 01:24:46,576 - models.recommendation_model - INFO - ✅ Enhanced recommendation model initialized successfully
+2025-09-30 01:23:59,623 - models.recommendation_model - INFO -   Enhanced embedding model loaded
+2025-09-30 01:23:59,629 - models.recommendation_model - INFO -   Loaded real data: 1000 configs, 55 prices
+2025-09-30 01:23:59,655 - models.recommendation_model - INFO -   Data cleaned and enhanced: 1000 configurations ready
+2025-09-30 01:24:46,345 - models.recommendation_model - INFO -   Enhanced configuration embeddings pre-computed
+2025-09-30 01:24:46,575 - models.recommendation_model - INFO -   PCA dimensionality reduction applied
+2025-09-30 01:24:46,576 - models.recommendation_model - INFO -   Enhanced recommendation model initialized successfully
 2025-09-30 01:24:46,576 - __main__ - INFO - Enhanced recommendation model loaded successfully
 2025-09-30 01:24:46,576 - __main__ - INFO - Model info: {'is_initialized': True, 'embedder_model': 'paraphrase-multilingual-MiniLM-L12-v2', 'nlp_model': 'basic_processing', 'data_records': 1000, 'features': ['enhanced_semantic_similarity', 'advanced_keyword_matching', 'feature_boosting', 'quality_scoring', 'price_appropriateness', 'pca_optimization'], 'accuracy_optimized': True, 'colab_equivalent': True, 'supported_languages': ['French', 'English'], 'version': '2.0_enhanced'}
 2025-09-30 01:24:46,577 - models.planning_model - INFO - Starting enhanced model training...
@@ -539,7 +539,7 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 01:25:57,832 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:25:57] "GET /health HTTP/1.1" 200 -
 2025-09-30 01:25:57,849 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-30 01:25:57,851 - __main__ - INFO - Processing enhanced query: 'test camera equipment' for 1 days
-2025-09-30 01:25:57,852 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'test camera equipment' for 1 day(s)
+2025-09-30 01:25:57,852 - models.recommendation_model - INFO -    Processing enhanced query: 'test camera equipment' for 1 day(s)
 2025-09-30 01:25:58,722 - __main__ - INFO - Enhanced recommendations generated: 5 items
 2025-09-30 01:25:58,724 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:25:58] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-30 01:26:57,183 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:26:57] "GET /health HTTP/1.1" 200 -
@@ -576,7 +576,7 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 01:30:09,499 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:30:09] "GET /health HTTP/1.1" 200 -
 2025-09-30 01:30:09,507 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-30 01:30:09,508 - __main__ - INFO - Processing enhanced query: 'test camera equipment' for 1 days
-2025-09-30 01:30:09,508 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'test camera equipment' for 1 day(s)
+2025-09-30 01:30:09,508 - models.recommendation_model - INFO -    Processing enhanced query: 'test camera equipment' for 1 day(s)
 2025-09-30 01:30:10,096 - __main__ - INFO - Enhanced recommendations generated: 5 items
 2025-09-30 01:30:10,098 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:30:10] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-30 01:30:44,432 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:30:44] "GET /health HTTP/1.1" 200 -
@@ -602,15 +602,15 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 01:31:03,962 - __main__ - INFO - Starting Enhanced AI Service...
 2025-09-30 01:31:03,962 - __main__ - INFO - Starting Enhanced AI Service Initialization...
 2025-09-30 01:31:15,271 - models.recommendation_model - INFO - 🤖 Initializing Enhanced Recommendation Model...
-2025-09-30 01:31:15,274 - models.recommendation_model - WARNING - ⚠️ French model not found. Using basic processing
+2025-09-30 01:31:15,274 - models.recommendation_model - WARNING -    French model not found. Using basic processing
 2025-09-30 01:31:15,277 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
 2025-09-30 01:31:15,278 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
-2025-09-30 01:31:21,439 - models.recommendation_model - INFO - ✅ Enhanced embedding model loaded
-2025-09-30 01:31:21,447 - models.recommendation_model - INFO - ✅ Loaded real data: 1000 configs, 55 prices
-2025-09-30 01:31:21,488 - models.recommendation_model - INFO - ✅ Data cleaned and enhanced: 1000 configurations ready
-2025-09-30 01:32:09,152 - models.recommendation_model - INFO - ✅ Enhanced configuration embeddings pre-computed
-2025-09-30 01:32:09,313 - models.recommendation_model - INFO - ✅ PCA dimensionality reduction applied
-2025-09-30 01:32:09,314 - models.recommendation_model - INFO - ✅ Enhanced recommendation model initialized successfully
+2025-09-30 01:31:21,439 - models.recommendation_model - INFO -   Enhanced embedding model loaded
+2025-09-30 01:31:21,447 - models.recommendation_model - INFO -   Loaded real data: 1000 configs, 55 prices
+2025-09-30 01:31:21,488 - models.recommendation_model - INFO -   Data cleaned and enhanced: 1000 configurations ready
+2025-09-30 01:32:09,152 - models.recommendation_model - INFO -   Enhanced configuration embeddings pre-computed
+2025-09-30 01:32:09,313 - models.recommendation_model - INFO -   PCA dimensionality reduction applied
+2025-09-30 01:32:09,314 - models.recommendation_model - INFO -   Enhanced recommendation model initialized successfully
 2025-09-30 01:32:09,314 - __main__ - INFO - Enhanced recommendation model loaded successfully
 2025-09-30 01:32:09,314 - __main__ - INFO - Model info: {'is_initialized': True, 'embedder_model': 'paraphrase-multilingual-MiniLM-L12-v2', 'nlp_model': 'basic_processing', 'data_records': 1000, 'features': ['enhanced_semantic_similarity', 'advanced_keyword_matching', 'feature_boosting', 'quality_scoring', 'price_appropriateness', 'pca_optimization'], 'accuracy_optimized': True, 'colab_equivalent': True, 'supported_languages': ['French', 'English'], 'version': '2.0_enhanced'}
 2025-09-30 01:32:09,315 - models.planning_model - INFO - Starting enhanced model training...
@@ -662,7 +662,7 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 01:36:29,475 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:36:29] "GET /health HTTP/1.1" 200 -
 2025-09-30 01:36:29,482 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-30 01:36:29,483 - __main__ - INFO - Processing enhanced query: 'test camera equipment' for 1 days
-2025-09-30 01:36:29,483 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'test camera equipment' for 1 day(s)
+2025-09-30 01:36:29,483 - models.recommendation_model - INFO -    Processing enhanced query: 'test camera equipment' for 1 day(s)
 2025-09-30 01:36:30,320 - __main__ - INFO - Enhanced recommendations generated: 5 items
 2025-09-30 01:36:30,321 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:36:30] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-30 01:37:08,845 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:37:08] "GET /health HTTP/1.1" 200 -
@@ -697,14 +697,14 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 01:37:14,236 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:37:14] "[33mGET /api/ai/model-info HTTP/1.1[0m" 404 -
 2025-09-30 01:37:20,434 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-30 01:37:20,435 - __main__ - INFO - Processing enhanced query: 'Small budget indoor video recording' for 1 days
-2025-09-30 01:37:20,435 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'Small budget indoor video recording' for 1 day(s)
+2025-09-30 01:37:20,435 - models.recommendation_model - INFO -    Processing enhanced query: 'Small budget indoor video recording' for 1 day(s)
 2025-09-30 01:37:21,290 - __main__ - INFO - Enhanced recommendations generated: 5 items
 2025-09-30 01:37:21,292 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:37:21] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-30 01:37:39,253 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:37:39] "GET /health HTTP/1.1" 200 -
 2025-09-30 01:37:39,260 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:37:39] "GET /health HTTP/1.1" 200 -
 2025-09-30 01:37:39,271 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-30 01:37:39,273 - __main__ - INFO - Processing enhanced query: 'test camera equipment' for 1 days
-2025-09-30 01:37:39,273 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'test camera equipment' for 1 day(s)
+2025-09-30 01:37:39,273 - models.recommendation_model - INFO -    Processing enhanced query: 'test camera equipment' for 1 day(s)
 2025-09-30 01:37:40,098 - __main__ - INFO - Enhanced recommendations generated: 5 items
 2025-09-30 01:37:40,099 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:37:40] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-30 01:38:16,932 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:38:16] "GET /health HTTP/1.1" 200 -
@@ -720,15 +720,15 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 01:45:13,486 - __main__ - INFO - Starting Enhanced AI Service...
 2025-09-30 01:45:13,486 - __main__ - INFO - Starting Enhanced AI Service Initialization...
 2025-09-30 01:45:23,135 - models.recommendation_model - INFO - 🤖 Initializing Enhanced Recommendation Model...
-2025-09-30 01:45:23,137 - models.recommendation_model - WARNING - ⚠️ French model not found. Using basic processing
+2025-09-30 01:45:23,137 - models.recommendation_model - WARNING -    French model not found. Using basic processing
 2025-09-30 01:45:23,139 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
 2025-09-30 01:45:23,139 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
-2025-09-30 01:45:29,637 - models.recommendation_model - INFO - ✅ Enhanced embedding model loaded
-2025-09-30 01:45:29,646 - models.recommendation_model - INFO - ✅ Loaded real data: 1000 configs, 55 prices
-2025-09-30 01:45:29,692 - models.recommendation_model - INFO - ✅ Data cleaned and enhanced: 1000 configurations ready
-2025-09-30 01:46:18,192 - models.recommendation_model - INFO - ✅ Enhanced configuration embeddings pre-computed
-2025-09-30 01:46:18,439 - models.recommendation_model - INFO - ✅ PCA dimensionality reduction applied
-2025-09-30 01:46:18,439 - models.recommendation_model - INFO - ✅ Enhanced recommendation model initialized successfully
+2025-09-30 01:45:29,637 - models.recommendation_model - INFO -   Enhanced embedding model loaded
+2025-09-30 01:45:29,646 - models.recommendation_model - INFO -   Loaded real data: 1000 configs, 55 prices
+2025-09-30 01:45:29,692 - models.recommendation_model - INFO -   Data cleaned and enhanced: 1000 configurations ready
+2025-09-30 01:46:18,192 - models.recommendation_model - INFO -   Enhanced configuration embeddings pre-computed
+2025-09-30 01:46:18,439 - models.recommendation_model - INFO -   PCA dimensionality reduction applied
+2025-09-30 01:46:18,439 - models.recommendation_model - INFO -   Enhanced recommendation model initialized successfully
 2025-09-30 01:46:18,440 - __main__ - INFO - Enhanced recommendation model loaded successfully
 2025-09-30 01:46:18,440 - __main__ - INFO - Model info: {'is_initialized': True, 'embedder_model': 'paraphrase-multilingual-MiniLM-L12-v2', 'nlp_model': 'basic_processing', 'data_records': 1000, 'features': ['enhanced_semantic_similarity', 'advanced_keyword_matching', 'feature_boosting', 'quality_scoring', 'price_appropriateness', 'pca_optimization'], 'accuracy_optimized': True, 'colab_equivalent': True, 'supported_languages': ['French', 'English'], 'version': '2.0_enhanced'}
 2025-09-30 01:46:18,441 - models.planning_model - INFO - Starting enhanced model training...
@@ -782,15 +782,15 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 01:50:15,226 - __main__ - INFO - Starting Enhanced AI Service...
 2025-09-30 01:50:15,226 - __main__ - INFO - Starting Enhanced AI Service Initialization...
 2025-09-30 01:50:25,080 - models.recommendation_model - INFO - 🤖 Initializing Enhanced Recommendation Model...
-2025-09-30 01:50:25,081 - models.recommendation_model - WARNING - ⚠️ French model not found. Using basic processing
+2025-09-30 01:50:25,081 - models.recommendation_model - WARNING -    French model not found. Using basic processing
 2025-09-30 01:50:25,083 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
 2025-09-30 01:50:25,084 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
-2025-09-30 01:50:30,060 - models.recommendation_model - INFO - ✅ Enhanced embedding model loaded
-2025-09-30 01:50:30,063 - models.recommendation_model - INFO - ✅ Loaded real data: 1000 configs, 55 prices
-2025-09-30 01:50:30,082 - models.recommendation_model - INFO - ✅ Data cleaned and enhanced: 1000 configurations ready
-2025-09-30 01:51:20,548 - models.recommendation_model - INFO - ✅ Enhanced configuration embeddings pre-computed
-2025-09-30 01:51:20,744 - models.recommendation_model - INFO - ✅ PCA dimensionality reduction applied
-2025-09-30 01:51:20,744 - models.recommendation_model - INFO - ✅ Enhanced recommendation model initialized successfully
+2025-09-30 01:50:30,060 - models.recommendation_model - INFO -   Enhanced embedding model loaded
+2025-09-30 01:50:30,063 - models.recommendation_model - INFO -   Loaded real data: 1000 configs, 55 prices
+2025-09-30 01:50:30,082 - models.recommendation_model - INFO -   Data cleaned and enhanced: 1000 configurations ready
+2025-09-30 01:51:20,548 - models.recommendation_model - INFO -   Enhanced configuration embeddings pre-computed
+2025-09-30 01:51:20,744 - models.recommendation_model - INFO -   PCA dimensionality reduction applied
+2025-09-30 01:51:20,744 - models.recommendation_model - INFO -   Enhanced recommendation model initialized successfully
 2025-09-30 01:51:20,745 - __main__ - INFO - Enhanced recommendation model loaded successfully
 2025-09-30 01:51:20,745 - __main__ - INFO - Model info: {'is_initialized': True, 'embedder_model': 'paraphrase-multilingual-MiniLM-L12-v2', 'nlp_model': 'basic_processing', 'data_records': 1000, 'features': ['enhanced_semantic_similarity', 'advanced_keyword_matching', 'feature_boosting', 'quality_scoring', 'price_appropriateness', 'pca_optimization'], 'accuracy_optimized': True, 'colab_equivalent': True, 'supported_languages': ['French', 'English'], 'version': '2.0_enhanced'}
 2025-09-30 01:51:20,746 - models.planning_model - INFO - Starting enhanced model training...
@@ -842,7 +842,7 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 01:51:36,700 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:51:36] "GET /health HTTP/1.1" 200 -
 2025-09-30 01:51:36,707 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-30 01:51:36,709 - __main__ - INFO - Processing enhanced query: 'test camera equipment' for 1 days
-2025-09-30 01:51:36,710 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'test camera equipment' for 1 day(s)
+2025-09-30 01:51:36,710 - models.recommendation_model - INFO -    Processing enhanced query: 'test camera equipment' for 1 day(s)
 2025-09-30 01:51:37,563 - __main__ - INFO - Enhanced recommendations generated: 5 items
 2025-09-30 01:51:37,566 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:51:37] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-30 01:52:09,821 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:52:09] "GET /health HTTP/1.1" 200 -
@@ -858,15 +858,15 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 01:54:30,368 - __main__ - INFO - Starting Enhanced AI Service...
 2025-09-30 01:54:30,369 - __main__ - INFO - Starting Enhanced AI Service Initialization...
 2025-09-30 01:55:24,242 - models.recommendation_model - INFO - 🤖 Initializing Enhanced Recommendation Model...
-2025-09-30 01:55:24,243 - models.recommendation_model - WARNING - ⚠️ French model not found. Using basic processing
+2025-09-30 01:55:24,243 - models.recommendation_model - WARNING -    French model not found. Using basic processing
 2025-09-30 01:55:24,248 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
 2025-09-30 01:55:24,248 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
-2025-09-30 01:55:30,184 - models.recommendation_model - INFO - ✅ Enhanced embedding model loaded
-2025-09-30 01:55:30,228 - models.recommendation_model - INFO - ✅ Loaded real data: 1000 configs, 55 prices
-2025-09-30 01:55:30,372 - models.recommendation_model - INFO - ✅ Data cleaned and enhanced: 1000 configurations ready
-2025-09-30 01:56:22,347 - models.recommendation_model - INFO - ✅ Enhanced configuration embeddings pre-computed
-2025-09-30 01:56:22,521 - models.recommendation_model - INFO - ✅ PCA dimensionality reduction applied
-2025-09-30 01:56:22,522 - models.recommendation_model - INFO - ✅ Enhanced recommendation model initialized successfully
+2025-09-30 01:55:30,184 - models.recommendation_model - INFO -   Enhanced embedding model loaded
+2025-09-30 01:55:30,228 - models.recommendation_model - INFO -   Loaded real data: 1000 configs, 55 prices
+2025-09-30 01:55:30,372 - models.recommendation_model - INFO -   Data cleaned and enhanced: 1000 configurations ready
+2025-09-30 01:56:22,347 - models.recommendation_model - INFO -   Enhanced configuration embeddings pre-computed
+2025-09-30 01:56:22,521 - models.recommendation_model - INFO -   PCA dimensionality reduction applied
+2025-09-30 01:56:22,522 - models.recommendation_model - INFO -   Enhanced recommendation model initialized successfully
 2025-09-30 01:56:22,523 - __main__ - INFO - Enhanced recommendation model loaded successfully
 2025-09-30 01:56:22,523 - __main__ - INFO - Model info: {'is_initialized': True, 'embedder_model': 'paraphrase-multilingual-MiniLM-L12-v2', 'nlp_model': 'basic_processing', 'data_records': 1000, 'features': ['enhanced_semantic_similarity', 'advanced_keyword_matching', 'feature_boosting', 'quality_scoring', 'price_appropriateness', 'pca_optimization'], 'accuracy_optimized': True, 'colab_equivalent': True, 'supported_languages': ['French', 'English'], 'version': '2.0_enhanced'}
 2025-09-30 01:56:22,524 - models.planning_model - INFO - Starting enhanced model training...
@@ -918,7 +918,7 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 01:56:53,840 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:56:53] "GET /health HTTP/1.1" 200 -
 2025-09-30 01:56:53,847 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-30 01:56:53,849 - __main__ - INFO - Processing enhanced query: 'test camera equipment' for 1 days
-2025-09-30 01:56:53,849 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'test camera equipment' for 1 day(s)
+2025-09-30 01:56:53,849 - models.recommendation_model - INFO -    Processing enhanced query: 'test camera equipment' for 1 day(s)
 2025-09-30 01:56:54,673 - __main__ - INFO - Enhanced recommendations generated: 5 items
 2025-09-30 01:56:54,674 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:56:54] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-30 01:57:10,014 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 01:57:10] "GET /health HTTP/1.1" 200 -
@@ -944,15 +944,15 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 02:09:43,331 - __main__ - INFO - Starting Enhanced AI Service...
 2025-09-30 02:09:43,331 - __main__ - INFO - Starting Enhanced AI Service Initialization...
 2025-09-30 02:10:52,080 - models.recommendation_model - INFO - 🤖 Initializing Enhanced Recommendation Model...
-2025-09-30 02:10:52,081 - models.recommendation_model - WARNING - ⚠️ French model not found. Using basic processing
+2025-09-30 02:10:52,081 - models.recommendation_model - WARNING -    French model not found. Using basic processing
 2025-09-30 02:10:52,084 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
 2025-09-30 02:10:52,084 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
-2025-09-30 02:10:59,333 - models.recommendation_model - INFO - ✅ Enhanced embedding model loaded
-2025-09-30 02:10:59,357 - models.recommendation_model - INFO - ✅ Loaded real data: 1000 configs, 55 prices
-2025-09-30 02:10:59,376 - models.recommendation_model - INFO - ✅ Data cleaned and enhanced: 1000 configurations ready
-2025-09-30 02:11:49,851 - models.recommendation_model - INFO - ✅ Enhanced configuration embeddings pre-computed
-2025-09-30 02:11:50,021 - models.recommendation_model - INFO - ✅ PCA dimensionality reduction applied
-2025-09-30 02:11:50,022 - models.recommendation_model - INFO - ✅ Enhanced recommendation model initialized successfully
+2025-09-30 02:10:59,333 - models.recommendation_model - INFO -   Enhanced embedding model loaded
+2025-09-30 02:10:59,357 - models.recommendation_model - INFO -   Loaded real data: 1000 configs, 55 prices
+2025-09-30 02:10:59,376 - models.recommendation_model - INFO -   Data cleaned and enhanced: 1000 configurations ready
+2025-09-30 02:11:49,851 - models.recommendation_model - INFO -   Enhanced configuration embeddings pre-computed
+2025-09-30 02:11:50,021 - models.recommendation_model - INFO -   PCA dimensionality reduction applied
+2025-09-30 02:11:50,022 - models.recommendation_model - INFO -   Enhanced recommendation model initialized successfully
 2025-09-30 02:11:50,022 - __main__ - INFO - Enhanced recommendation model loaded successfully
 2025-09-30 02:11:50,023 - __main__ - INFO - Model info: {'is_initialized': True, 'embedder_model': 'paraphrase-multilingual-MiniLM-L12-v2', 'nlp_model': 'basic_processing', 'data_records': 1000, 'features': ['enhanced_semantic_similarity', 'advanced_keyword_matching', 'feature_boosting', 'quality_scoring', 'price_appropriateness', 'pca_optimization'], 'accuracy_optimized': True, 'colab_equivalent': True, 'supported_languages': ['French', 'English'], 'version': '2.0_enhanced'}
 2025-09-30 02:11:50,023 - models.planning_model - INFO - Starting enhanced model training...
@@ -1002,7 +1002,7 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 02:12:04,770 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 02:12:04] "GET /health HTTP/1.1" 200 -
 2025-09-30 02:12:04,779 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-30 02:12:04,780 - __main__ - INFO - Processing query: 'test camera equipment' for 1 days
-2025-09-30 02:12:04,781 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'test camera equipment' for 1 day(s)
+2025-09-30 02:12:04,781 - models.recommendation_model - INFO -    Processing enhanced query: 'test camera equipment' for 1 day(s)
 2025-09-30 02:12:05,519 - __main__ - INFO - Recommendations generated: 5 items
 2025-09-30 02:12:05,521 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 02:12:05] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-30 02:12:24,647 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 02:12:24] "GET /health HTTP/1.1" 200 -
@@ -1015,7 +1015,7 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 02:12:24,690 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 02:12:24] "GET /api/ai/model-info HTTP/1.1" 200 -
 2025-09-30 02:12:38,821 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-30 02:12:38,823 - __main__ - INFO - Processing query: 'Small budget indoor video recording' for 1 days
-2025-09-30 02:12:38,823 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'Small budget indoor video recording' for 1 day(s)
+2025-09-30 02:12:38,823 - models.recommendation_model - INFO -    Processing enhanced query: 'Small budget indoor video recording' for 1 day(s)
 2025-09-30 02:12:39,612 - __main__ - INFO - Recommendations generated: 5 items
 2025-09-30 02:12:39,614 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 02:12:39] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-30 02:12:52,491 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 02:12:52] "GET /health HTTP/1.1" 200 -
@@ -1037,15 +1037,15 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 23:28:29,032 - __main__ - INFO - Starting Enhanced AI Service...
 2025-09-30 23:28:29,032 - __main__ - INFO - Starting Enhanced AI Service Initialization...
 2025-09-30 23:29:42,766 - models.recommendation_model - INFO - 🤖 Initializing Enhanced Recommendation Model...
-2025-09-30 23:29:42,767 - models.recommendation_model - WARNING - ⚠️ French model not found. Using basic processing
+2025-09-30 23:29:42,767 - models.recommendation_model - WARNING -    French model not found. Using basic processing
 2025-09-30 23:29:42,768 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
 2025-09-30 23:29:42,769 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
-2025-09-30 23:29:59,505 - models.recommendation_model - INFO - ✅ Enhanced embedding model loaded
-2025-09-30 23:29:59,533 - models.recommendation_model - INFO - ✅ Loaded real data: 1000 configs, 55 prices
-2025-09-30 23:29:59,562 - models.recommendation_model - INFO - ✅ Data cleaned and enhanced: 1000 configurations ready
-2025-09-30 23:30:50,883 - models.recommendation_model - INFO - ✅ Enhanced configuration embeddings pre-computed
-2025-09-30 23:30:51,069 - models.recommendation_model - INFO - ✅ PCA dimensionality reduction applied
-2025-09-30 23:30:51,070 - models.recommendation_model - INFO - ✅ Enhanced recommendation model initialized successfully
+2025-09-30 23:29:59,505 - models.recommendation_model - INFO -   Enhanced embedding model loaded
+2025-09-30 23:29:59,533 - models.recommendation_model - INFO -   Loaded real data: 1000 configs, 55 prices
+2025-09-30 23:29:59,562 - models.recommendation_model - INFO -   Data cleaned and enhanced: 1000 configurations ready
+2025-09-30 23:30:50,883 - models.recommendation_model - INFO -   Enhanced configuration embeddings pre-computed
+2025-09-30 23:30:51,069 - models.recommendation_model - INFO -   PCA dimensionality reduction applied
+2025-09-30 23:30:51,070 - models.recommendation_model - INFO -   Enhanced recommendation model initialized successfully
 2025-09-30 23:30:51,070 - __main__ - INFO - Enhanced recommendation model loaded successfully
 2025-09-30 23:30:51,071 - __main__ - INFO - Model info: {'is_initialized': True, 'embedder_model': 'paraphrase-multilingual-MiniLM-L12-v2', 'nlp_model': 'basic_processing', 'data_records': 1000, 'features': ['enhanced_semantic_similarity', 'advanced_keyword_matching', 'feature_boosting', 'quality_scoring', 'price_appropriateness', 'pca_optimization'], 'accuracy_optimized': True, 'colab_equivalent': True, 'supported_languages': ['French', 'English'], 'version': '2.0_enhanced'}
 2025-09-30 23:30:51,071 - models.planning_model - INFO - Starting enhanced model training...
@@ -1095,7 +1095,7 @@ weighted avg       0.75      0.75      0.75       600
 2025-09-30 23:31:00,342 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 23:31:00] "GET /health HTTP/1.1" 200 -
 2025-09-30 23:31:00,350 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-09-30 23:31:00,351 - __main__ - INFO - Processing query: 'test camera equipment' for 1 days
-2025-09-30 23:31:00,352 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'test camera equipment' for 1 day(s)
+2025-09-30 23:31:00,352 - models.recommendation_model - INFO -    Processing enhanced query: 'test camera equipment' for 1 day(s)
 2025-09-30 23:31:01,364 - __main__ - INFO - Recommendations generated: 5 items
 2025-09-30 23:31:01,366 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 23:31:01] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-09-30 23:46:43,434 - werkzeug - INFO - 127.0.0.1 - - [30/Sep/2025 23:46:43] "GET /health HTTP/1.1" 200 -
@@ -1109,15 +1109,15 @@ weighted avg       0.75      0.75      0.75       600
 2025-10-02 13:27:32,297 - __main__ - INFO - Starting Enhanced AI Service...
 2025-10-02 13:27:32,297 - __main__ - INFO - Starting Enhanced AI Service Initialization...
 2025-10-02 13:28:34,060 - models.recommendation_model - INFO - 🤖 Initializing Enhanced Recommendation Model...
-2025-10-02 13:28:34,062 - models.recommendation_model - WARNING - ⚠️ French model not found. Using basic processing
+2025-10-02 13:28:34,062 - models.recommendation_model - WARNING -    French model not found. Using basic processing
 2025-10-02 13:28:34,064 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
 2025-10-02 13:28:34,065 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
-2025-10-02 13:28:40,221 - models.recommendation_model - INFO - ✅ Enhanced embedding model loaded
-2025-10-02 13:28:40,245 - models.recommendation_model - INFO - ✅ Loaded real data: 1000 configs, 55 prices
-2025-10-02 13:28:40,275 - models.recommendation_model - INFO - ✅ Data cleaned and enhanced: 1000 configurations ready
-2025-10-02 13:29:34,050 - models.recommendation_model - INFO - ✅ Enhanced configuration embeddings pre-computed
-2025-10-02 13:29:34,272 - models.recommendation_model - INFO - ✅ PCA dimensionality reduction applied
-2025-10-02 13:29:34,274 - models.recommendation_model - INFO - ✅ Enhanced recommendation model initialized successfully
+2025-10-02 13:28:40,221 - models.recommendation_model - INFO -   Enhanced embedding model loaded
+2025-10-02 13:28:40,245 - models.recommendation_model - INFO -   Loaded real data: 1000 configs, 55 prices
+2025-10-02 13:28:40,275 - models.recommendation_model - INFO -   Data cleaned and enhanced: 1000 configurations ready
+2025-10-02 13:29:34,050 - models.recommendation_model - INFO -   Enhanced configuration embeddings pre-computed
+2025-10-02 13:29:34,272 - models.recommendation_model - INFO -   PCA dimensionality reduction applied
+2025-10-02 13:29:34,274 - models.recommendation_model - INFO -   Enhanced recommendation model initialized successfully
 2025-10-02 13:29:34,275 - __main__ - INFO - Enhanced recommendation model loaded successfully
 2025-10-02 13:29:34,275 - __main__ - INFO - Model info: {'is_initialized': True, 'embedder_model': 'paraphrase-multilingual-MiniLM-L12-v2', 'nlp_model': 'basic_processing', 'data_records': 1000, 'features': ['enhanced_semantic_similarity', 'advanced_keyword_matching', 'feature_boosting', 'quality_scoring', 'price_appropriateness', 'pca_optimization'], 'accuracy_optimized': True, 'colab_equivalent': True, 'supported_languages': ['French', 'English'], 'version': '2.0_enhanced'}
 2025-10-02 13:29:34,275 - models.planning_model - INFO - Starting enhanced model training...
@@ -1167,7 +1167,7 @@ weighted avg       0.75      0.75      0.75       600
 2025-10-02 13:29:48,963 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 13:29:48] "GET /health HTTP/1.1" 200 -
 2025-10-02 13:29:48,970 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-10-02 13:29:48,972 - __main__ - INFO - Processing query: 'test camera equipment' for 1 days
-2025-10-02 13:29:48,974 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'test camera equipment' for 1 day(s)
+2025-10-02 13:29:48,974 - models.recommendation_model - INFO -    Processing enhanced query: 'test camera equipment' for 1 day(s)
 2025-10-02 13:29:49,792 - __main__ - INFO - Recommendations generated: 5 items
 2025-10-02 13:29:49,794 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 13:29:49] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-10-02 13:31:16,275 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 13:31:16] "GET /health HTTP/1.1" 200 -
@@ -1190,7 +1190,7 @@ weighted avg       0.75      0.75      0.75       600
 2025-10-02 13:45:03,515 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 13:45:03] "GET /health HTTP/1.1" 200 -
 2025-10-02 13:45:03,525 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-10-02 13:45:03,526 - __main__ - INFO - Processing query: 'test camera equipment' for 1 days
-2025-10-02 13:45:03,527 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'test camera equipment' for 1 day(s)
+2025-10-02 13:45:03,527 - models.recommendation_model - INFO -    Processing enhanced query: 'test camera equipment' for 1 day(s)
 2025-10-02 13:45:04,275 - __main__ - INFO - Recommendations generated: 5 items
 2025-10-02 13:45:04,276 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 13:45:04] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-10-02 13:45:04,454 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 13:45:04] "GET /health HTTP/1.1" 200 -
@@ -1826,7 +1826,7 @@ TypeError: not all arguments converted during string formatting
 2025-10-02 13:49:08,957 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 13:49:08] "GET /health HTTP/1.1" 200 -
 2025-10-02 13:49:08,963 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-10-02 13:49:08,964 - __main__ - INFO - Processing query: 'test camera equipment' for 1 days
-2025-10-02 13:49:08,964 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'test camera equipment' for 1 day(s)
+2025-10-02 13:49:08,964 - models.recommendation_model - INFO -    Processing enhanced query: 'test camera equipment' for 1 day(s)
 2025-10-02 13:49:09,839 - __main__ - INFO - Recommendations generated: 5 items
 2025-10-02 13:49:09,841 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 13:49:09] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-10-02 13:49:14,861 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 13:49:14] "GET /health HTTP/1.1" 200 -
@@ -1841,7 +1841,7 @@ TypeError: not all arguments converted during string formatting
 2025-10-02 13:58:28,944 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 13:58:28] "GET /health HTTP/1.1" 200 -
 2025-10-02 13:58:28,951 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-10-02 13:58:28,953 - __main__ - INFO - Processing query: 'test camera equipment' for 1 days
-2025-10-02 13:58:28,953 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'test camera equipment' for 1 day(s)
+2025-10-02 13:58:28,953 - models.recommendation_model - INFO -    Processing enhanced query: 'test camera equipment' for 1 day(s)
 2025-10-02 13:58:29,785 - __main__ - INFO - Recommendations generated: 5 items
 2025-10-02 13:58:29,786 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 13:58:29] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-10-02 13:58:39,384 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 13:58:39] "GET /health HTTP/1.1" 200 -
@@ -2477,7 +2477,7 @@ TypeError: not all arguments converted during string formatting
 2025-10-02 13:59:31,499 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 13:59:31] "GET /health HTTP/1.1" 200 -
 2025-10-02 13:59:31,506 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-10-02 13:59:31,506 - __main__ - INFO - Processing query: 'test camera equipment' for 1 days
-2025-10-02 13:59:31,506 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'test camera equipment' for 1 day(s)
+2025-10-02 13:59:31,506 - models.recommendation_model - INFO -    Processing enhanced query: 'test camera equipment' for 1 day(s)
 2025-10-02 13:59:32,346 - __main__ - INFO - Recommendations generated: 5 items
 2025-10-02 13:59:32,348 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 13:59:32] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-10-02 13:59:45,351 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 13:59:45] "GET /health HTTP/1.1" 200 -
@@ -2488,7 +2488,7 @@ TypeError: not all arguments converted during string formatting
 2025-10-02 14:00:13,647 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 14:00:13] "GET /health HTTP/1.1" 200 -
 2025-10-02 14:00:13,654 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-10-02 14:00:13,655 - __main__ - INFO - Processing query: 'test camera equipment' for 1 days
-2025-10-02 14:00:13,655 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'test camera equipment' for 1 day(s)
+2025-10-02 14:00:13,655 - models.recommendation_model - INFO -    Processing enhanced query: 'test camera equipment' for 1 day(s)
 2025-10-02 14:00:14,121 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 14:00:14] "GET /health HTTP/1.1" 200 -
 2025-10-02 14:00:14,215 - __main__ - INFO - Model info request received
 2025-10-02 14:00:14,223 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 14:00:14] "GET /api/ai/equipment-stats HTTP/1.1" 200 -
@@ -2511,7 +2511,7 @@ TypeError: not all arguments converted during string formatting
 2025-10-02 14:04:41,843 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 14:04:41] "GET /health HTTP/1.1" 200 -
 2025-10-02 14:04:41,851 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-10-02 14:04:41,852 - __main__ - INFO - Processing query: 'test camera equipment' for 1 days
-2025-10-02 14:04:41,852 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'test camera equipment' for 1 day(s)
+2025-10-02 14:04:41,852 - models.recommendation_model - INFO -    Processing enhanced query: 'test camera equipment' for 1 day(s)
 2025-10-02 14:04:42,483 - __main__ - INFO - Recommendations generated: 5 items
 2025-10-02 14:04:42,484 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 14:04:42] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-10-02 14:04:49,966 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 14:04:49] "GET /health HTTP/1.1" 200 -
@@ -3170,15 +3170,15 @@ TypeError: not all arguments converted during string formatting
 2025-10-02 14:10:43,577 - __main__ - INFO - Starting Enhanced AI Service...
 2025-10-02 14:10:43,577 - __main__ - INFO - Starting Enhanced AI Service Initialization...
 2025-10-02 14:10:57,258 - models.recommendation_model - INFO - 🤖 Initializing Enhanced Recommendation Model...
-2025-10-02 14:10:57,259 - models.recommendation_model - WARNING - ⚠️ French model not found. Using basic processing
+2025-10-02 14:10:57,259 - models.recommendation_model - WARNING -    French model not found. Using basic processing
 2025-10-02 14:10:57,261 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
 2025-10-02 14:10:57,261 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
-2025-10-02 14:11:02,392 - models.recommendation_model - INFO - ✅ Enhanced embedding model loaded
-2025-10-02 14:11:02,402 - models.recommendation_model - INFO - ✅ Loaded real data: 1000 configs, 55 prices
-2025-10-02 14:11:02,459 - models.recommendation_model - INFO - ✅ Data cleaned and enhanced: 1000 configurations ready
-2025-10-02 14:11:49,313 - models.recommendation_model - INFO - ✅ Enhanced configuration embeddings pre-computed
-2025-10-02 14:11:49,467 - models.recommendation_model - INFO - ✅ PCA dimensionality reduction applied
-2025-10-02 14:11:49,468 - models.recommendation_model - INFO - ✅ Enhanced recommendation model initialized successfully
+2025-10-02 14:11:02,392 - models.recommendation_model - INFO -   Enhanced embedding model loaded
+2025-10-02 14:11:02,402 - models.recommendation_model - INFO -   Loaded real data: 1000 configs, 55 prices
+2025-10-02 14:11:02,459 - models.recommendation_model - INFO -   Data cleaned and enhanced: 1000 configurations ready
+2025-10-02 14:11:49,313 - models.recommendation_model - INFO -   Enhanced configuration embeddings pre-computed
+2025-10-02 14:11:49,467 - models.recommendation_model - INFO -   PCA dimensionality reduction applied
+2025-10-02 14:11:49,468 - models.recommendation_model - INFO -   Enhanced recommendation model initialized successfully
 2025-10-02 14:11:49,468 - __main__ - INFO - Enhanced recommendation model loaded successfully
 2025-10-02 14:11:49,468 - __main__ - INFO - Model info: {'is_initialized': True, 'embedder_model': 'paraphrase-multilingual-MiniLM-L12-v2', 'nlp_model': 'basic_processing', 'data_records': 1000, 'features': ['enhanced_semantic_similarity', 'advanced_keyword_matching', 'feature_boosting', 'quality_scoring', 'price_appropriateness', 'pca_optimization'], 'accuracy_optimized': True, 'colab_equivalent': True, 'supported_languages': ['French', 'English'], 'version': '2.0_enhanced'}
 2025-10-02 14:11:49,468 - models.planning_model - INFO - Starting enhanced model training...
@@ -3228,7 +3228,7 @@ weighted avg       0.75      0.75      0.75       600
 2025-10-02 14:12:03,053 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 14:12:03] "GET /health HTTP/1.1" 200 -
 2025-10-02 14:12:03,060 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-10-02 14:12:03,061 - __main__ - INFO - Processing query: 'test camera equipment' for 1 days
-2025-10-02 14:12:03,061 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'test camera equipment' for 1 day(s)
+2025-10-02 14:12:03,061 - models.recommendation_model - INFO -    Processing enhanced query: 'test camera equipment' for 1 day(s)
 2025-10-02 14:12:03,954 - __main__ - INFO - Recommendations generated: 5 items
 2025-10-02 14:12:03,956 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 14:12:03] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-10-02 14:12:39,856 - werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 14:12:39] "GET /health HTTP/1.1" 200 -
@@ -3289,12 +3289,12 @@ weighted avg       0.75      0.75      0.75       600
 2025-10-02 17:14:42,582 - __main__ - INFO - Starting Enhanced AI Service...
 2025-10-02 17:14:42,583 - __main__ - INFO - Starting Enhanced AI Service Initialization...
 2025-10-02 17:16:07,332 - models.recommendation_model - INFO - 🤖 Initializing Enhanced Recommendation Model...
-2025-10-02 17:16:07,334 - models.recommendation_model - WARNING - ⚠️ French model not found. Using basic processing
+2025-10-02 17:16:07,334 - models.recommendation_model - WARNING -    French model not found. Using basic processing
 2025-10-02 17:16:07,336 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
 2025-10-02 17:16:07,337 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
-2025-10-02 17:16:11,889 - models.recommendation_model - INFO - ✅ Enhanced embedding model loaded
-2025-10-02 17:16:11,920 - models.recommendation_model - INFO - ✅ Loaded real data: 1000 configs, 55 prices
-2025-10-02 17:16:11,959 - models.recommendation_model - INFO - ✅ Data cleaned and enhanced: 1000 configurations ready
+2025-10-02 17:16:11,889 - models.recommendation_model - INFO -   Enhanced embedding model loaded
+2025-10-02 17:16:11,920 - models.recommendation_model - INFO -   Loaded real data: 1000 configs, 55 prices
+2025-10-02 17:16:11,959 - models.recommendation_model - INFO -   Data cleaned and enhanced: 1000 configurations ready
 2025-10-08 18:25:31,846 - __main__ - INFO - Starting Enhanced AI Service...
 2025-10-08 18:25:31,877 - __main__ - INFO - Starting Enhanced AI Service Initialization...
 2025-10-08 18:26:06,595 - __main__ - ERROR - Enhanced recommendation model failed: No module named 'spacy'
@@ -3860,26 +3860,26 @@ weighted avg       0.75      0.75      0.75       600
 2025-11-27 22:03:51,881 - __main__ - INFO - Starting Enhanced AI Service...
 2025-11-27 22:03:51,882 - __main__ - INFO - Starting Enhanced AI Service Initialization...
 2025-11-27 22:04:43,948 - models.recommendation_model - INFO - 🤖 Initializing Enhanced Recommendation Model...
-2025-11-27 22:06:41,494 - models.recommendation_model - WARNING - ⚠️ French model not found. Using basic processing
+2025-11-27 22:06:41,494 - models.recommendation_model - WARNING -    French model not found. Using basic processing
 2025-11-27 22:06:41,497 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
 2025-11-27 22:06:41,498 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
 2025-11-27 22:06:45,496 - huggingface_hub.file_download - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
 2025-11-27 22:08:44,359 - huggingface_hub.file_download - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
-2025-11-27 22:08:49,681 - models.recommendation_model - INFO - ✅ Enhanced embedding model loaded
-2025-11-27 22:08:49,818 - models.recommendation_model - INFO - ✅ Loaded real data: 1000 configs, 55 prices
-2025-11-27 22:08:49,926 - models.recommendation_model - INFO - ✅ Data cleaned and enhanced: 1000 configurations ready
+2025-11-27 22:08:49,681 - models.recommendation_model - INFO -   Enhanced embedding model loaded
+2025-11-27 22:08:49,818 - models.recommendation_model - INFO -   Loaded real data: 1000 configs, 55 prices
+2025-11-27 22:08:49,926 - models.recommendation_model - INFO -   Data cleaned and enhanced: 1000 configurations ready
 2025-11-27 22:09:15,657 - __main__ - INFO - Starting Enhanced AI Service...
 2025-11-27 22:09:15,658 - __main__ - INFO - Starting Enhanced AI Service Initialization...
 2025-11-27 22:09:31,427 - models.recommendation_model - INFO - 🤖 Initializing Enhanced Recommendation Model...
-2025-11-27 22:09:31,429 - models.recommendation_model - WARNING - ⚠️ French model not found. Using basic processing
+2025-11-27 22:09:31,429 - models.recommendation_model - WARNING -    French model not found. Using basic processing
 2025-11-27 22:09:31,431 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
 2025-11-27 22:09:31,432 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
-2025-11-27 22:09:38,552 - models.recommendation_model - INFO - ✅ Enhanced embedding model loaded
-2025-11-27 22:09:38,571 - models.recommendation_model - INFO - ✅ Loaded real data: 1000 configs, 55 prices
-2025-11-27 22:09:38,672 - models.recommendation_model - INFO - ✅ Data cleaned and enhanced: 1000 configurations ready
-2025-11-27 22:09:57,658 - models.recommendation_model - INFO - ✅ Enhanced configuration embeddings pre-computed
-2025-11-27 22:09:57,787 - models.recommendation_model - INFO - ✅ PCA dimensionality reduction applied
-2025-11-27 22:09:57,788 - models.recommendation_model - INFO - ✅ Enhanced recommendation model initialized successfully
+2025-11-27 22:09:38,552 - models.recommendation_model - INFO -   Enhanced embedding model loaded
+2025-11-27 22:09:38,571 - models.recommendation_model - INFO -   Loaded real data: 1000 configs, 55 prices
+2025-11-27 22:09:38,672 - models.recommendation_model - INFO -   Data cleaned and enhanced: 1000 configurations ready
+2025-11-27 22:09:57,658 - models.recommendation_model - INFO -   Enhanced configuration embeddings pre-computed
+2025-11-27 22:09:57,787 - models.recommendation_model - INFO -   PCA dimensionality reduction applied
+2025-11-27 22:09:57,788 - models.recommendation_model - INFO -   Enhanced recommendation model initialized successfully
 2025-11-27 22:09:57,788 - __main__ - INFO - Enhanced recommendation model loaded successfully
 2025-11-27 22:09:57,788 - __main__ - INFO - Model info: {'is_initialized': True, 'embedder_model': 'paraphrase-multilingual-MiniLM-L12-v2', 'nlp_model': 'basic_processing', 'data_records': 1000, 'features': ['enhanced_semantic_similarity', 'advanced_keyword_matching', 'feature_boosting', 'quality_scoring', 'price_appropriateness', 'pca_optimization'], 'accuracy_optimized': True, 'colab_equivalent': True, 'supported_languages': ['French', 'English'], 'version': '2.0_enhanced'}
 2025-11-27 22:09:57,789 - models.planning_model - INFO - Starting enhanced model training...
@@ -3929,22 +3929,22 @@ weighted avg       0.75      0.75      0.75       600
 2025-11-27 22:10:13,029 - werkzeug - INFO - 127.0.0.1 - - [27/Nov/2025 22:10:13] "GET /health HTTP/1.1" 200 -
 2025-11-27 22:10:13,048 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-11-27 22:10:13,049 - __main__ - INFO - Processing query: 'test camera equipment' for 1 days
-2025-11-27 22:10:13,050 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'test camera equipment' for 1 day(s)
+2025-11-27 22:10:13,050 - models.recommendation_model - INFO -    Processing enhanced query: 'test camera equipment' for 1 day(s)
 2025-11-27 22:10:13,754 - __main__ - INFO - Recommendations generated: 5 items
 2025-11-27 22:10:13,755 - werkzeug - INFO - 127.0.0.1 - - [27/Nov/2025 22:10:13] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-11-27 22:10:30,897 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-11-27 22:10:30,899 - __main__ - INFO - Processing query: 'I need equipment for outdoor wedding photography' for 1 days
-2025-11-27 22:10:30,903 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'I need equipment for outdoor wedding photography' for 1 day(s)
+2025-11-27 22:10:30,903 - models.recommendation_model - INFO -    Processing enhanced query: 'I need equipment for outdoor wedding photography' for 1 day(s)
 2025-11-27 22:10:32,302 - __main__ - INFO - Recommendations generated: 5 items
 2025-11-27 22:10:32,304 - werkzeug - INFO - 127.0.0.1 - - [27/Nov/2025 22:10:32] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-11-28 08:24:43,974 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-11-28 08:24:43,976 - __main__ - INFO - Processing query: 'Small budget indoor video recording' for 4 days
-2025-11-28 08:24:43,977 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'Small budget indoor video recording' for 4 day(s)
+2025-11-28 08:24:43,977 - models.recommendation_model - INFO -    Processing enhanced query: 'Small budget indoor video recording' for 4 day(s)
 2025-11-28 08:24:44,949 - __main__ - INFO - Recommendations generated: 5 items
 2025-11-28 08:24:44,953 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 08:24:44] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-11-28 08:25:18,486 - __main__ - INFO - Enhanced equipment recommendation request received
 2025-11-28 08:25:18,487 - __main__ - INFO - Processing query: 'big budget' for 4 days
-2025-11-28 08:25:18,490 - models.recommendation_model - INFO - 📝 Processing enhanced query: 'big budget' for 4 day(s)
+2025-11-28 08:25:18,490 - models.recommendation_model - INFO -    Processing enhanced query: 'big budget' for 4 day(s)
 2025-11-28 08:25:19,411 - __main__ - INFO - Recommendations generated: 5 items
 2025-11-28 08:25:19,413 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 08:25:19] "POST /api/ai/recommend-equipment HTTP/1.1" 200 -
 2025-11-28 08:26:02,945 - werkzeug - INFO - 127.0.0.1 - - [28/Nov/2025 08:26:02] "GET /health HTTP/1.1" 200 -

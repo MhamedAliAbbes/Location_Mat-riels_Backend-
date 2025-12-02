@@ -20,7 +20,7 @@ const getRecommendations = async (req, res) => {
 
     // Enhanced input validation with detailed feedback
     if (!query || typeof query !== 'string' || query.trim().length < 3) {
-      console.log('❌ Invalid query provided:', { query, type: typeof query });
+      console.log('  Invalid query provided:', { query, type: typeof query });
       return res.status(400).json({
         success: false,
         message: 'Query must be at least 3 characters long',
@@ -65,7 +65,7 @@ const getRecommendations = async (req, res) => {
       });
     }
 
-    console.log('✅ Enhanced AI Recommendations Success:', {
+    console.log('  Enhanced AI Recommendations Success:', {
       recommendationCount: result.data.recommendations.length,
       confidence: result.data.confidence,
       totalCost: result.data.totalEstimatedCost,
@@ -177,7 +177,7 @@ const predictDemand = async (req, res) => {
     // Enhanced equipment verification
     const equipment = await Equipment.findById(equipmentId);
     if (!equipment) {
-      console.log(`❌ Equipment not found: ${equipmentId}`);
+      console.log(`  Equipment not found: ${equipmentId}`);
       return res.status(404).json({
         success: false,
         message: 'Equipment not found',
@@ -312,7 +312,7 @@ const predictDemand = async (req, res) => {
       confidence_factors: analyzePredictionConfidence(result, enhancedContext)
     };
 
-    console.log('✅ Enhanced demand prediction completed successfully');
+    console.log('  Enhanced demand prediction completed successfully');
 
     res.json({
       success: true,

@@ -70,7 +70,7 @@ class EnhancedAIService {
         this.connectionStats.lastSuccessfulConnection = new Date();
         this.updateAverageResponseTime(responseTime);
         
-        console.log(`✅ Enhanced AI Response: ${response.status} - ${response.config.url} (${responseTime}ms)`);
+        console.log(`  Enhanced AI Response: ${response.status} - ${response.config.url} (${responseTime}ms)`);
         
         return response;
       },
@@ -81,7 +81,7 @@ class EnhancedAIService {
         this.connectionStats.failedRequests++;
         this.connectionStats.lastFailedConnection = new Date();
         
-        console.error(`❌ Enhanced AI Response Error: ${error.message} (${responseTime}ms)`);
+        console.error(`  Enhanced AI Response Error: ${error.message} (${responseTime}ms)`);
         
         return Promise.reject(error);
       }
@@ -128,7 +128,7 @@ class EnhancedAIService {
         }
         
         const response = await axios(config);
-        console.log(`✅ Enhanced AI: Success with ${baseURL}`);
+        console.log(`  Enhanced AI: Success with ${baseURL}`);
         
         // Cache the working URL and update client base URL
         this.workingURL = baseURL;
@@ -137,7 +137,7 @@ class EnhancedAIService {
         
         return response;
       } catch (error) {
-        console.log(`❌ Enhanced AI: Failed with ${baseURL}: ${error.message}`);
+        console.log(`  Enhanced AI: Failed with ${baseURL}: ${error.message}`);
         lastError = error;
         
         // If this was our cached working URL, clear it
@@ -197,14 +197,14 @@ class EnhancedAIService {
         }
       };
       
-      console.log('✅ Enhanced AI Health Check Success:', healthData.enhanced_metrics);
+      console.log('  Enhanced AI Health Check Success:', healthData.enhanced_metrics);
       
       return {
         success: true,
         data: healthData
       };
     } catch (error) {
-      console.error('❌ Enhanced AI Health Check Failed:', error.message);
+      console.error('  Enhanced AI Health Check Failed:', error.message);
       return {
         success: false,
         message: 'Enhanced AI Service health check failed',
@@ -287,14 +287,14 @@ class EnhancedAIService {
         });
       });
 
-      console.log('✅ Enhanced AI: Demand prediction completed successfully');
+      console.log('  Enhanced AI: Demand prediction completed successfully');
       
       return {
         success: true,
         data: this.enhancePredictionResponse(response.data.data || response.data)
       };
     } catch (error) {
-      console.error('❌ Enhanced AI: Predict Demand Error:', error.message);
+      console.error('  Enhanced AI: Predict Demand Error:', error.message);
       return {
         success: false,
         message: 'Enhanced demand prediction failed',
@@ -345,7 +345,7 @@ class EnhancedAIService {
         });
       });
 
-      console.log('✅ Enhanced AI: Recommendations generated successfully');
+      console.log('  Enhanced AI: Recommendations generated successfully');
       
       if (response.data.success) {
         return {
@@ -356,7 +356,7 @@ class EnhancedAIService {
         throw new Error(response.data.message || 'AI service returned unsuccessful response');
       }
     } catch (error) {
-      console.error('❌ Enhanced AI: Equipment Recommendations Error:', error.message);
+      console.error('  Enhanced AI: Equipment Recommendations Error:', error.message);
       
       // Enhanced fallback with better categorization
       console.log('🔄 Enhanced AI: Providing enhanced fallback recommendations');
@@ -1003,7 +1003,7 @@ class EnhancedAIService {
       };
       
     } catch (error) {
-      console.error('❌ Enhanced AI: Connection test failed:', error);
+      console.error('  Enhanced AI: Connection test failed:', error);
       return {
         success: false,
         connected: false,
@@ -1067,7 +1067,7 @@ class EnhancedAIService {
         }
       };
     } catch (error) {
-      console.error('❌ Enhanced AI: Equipment Stats Error:', error.message);
+      console.error('  Enhanced AI: Equipment Stats Error:', error.message);
       
       // Enhanced fallback stats
       return {
@@ -1125,7 +1125,7 @@ class EnhancedAIService {
         }
       };
     } catch (error) {
-      console.error('❌ Enhanced AI: Model Info Error:', error.message);
+      console.error('  Enhanced AI: Model Info Error:', error.message);
       
       return {
         success: false,

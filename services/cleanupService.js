@@ -52,12 +52,12 @@ class ReservationCleanupService {
       const results = await Reservation.autoExpireReservations();
       
       if (results.expired > 0) {
-        console.log(`✅ Auto-expired ${results.expired} reservations`);
+        console.log(`  Auto-expired ${results.expired} reservations`);
         console.log(`📦 Released equipment back to available pool`);
       }
       
       if (results.errors.length > 0) {
-        console.error(`❌ ${results.errors.length} errors during expiration:`, results.errors);
+        console.error(`  ${results.errors.length} errors during expiration:`, results.errors);
       }
       
       // Update equipment status for orphaned items

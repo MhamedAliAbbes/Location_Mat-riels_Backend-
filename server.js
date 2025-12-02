@@ -151,7 +151,7 @@ app.use((req, res) => {
 
 // Global error handling middleware
 app.use((err, req, res, next) => {
-  console.error('❌ Global Error Handler:', err.message);
+  console.error('  Global Error Handler:', err.message);
   console.error('Stack:', err.stack);
 
   // CORS error
@@ -194,12 +194,12 @@ const startServer = async () => {
     // Initialize cleanup service after database connection
     console.log('🔧 Initializing cleanup service...');
     cleanupService.start();
-    console.log('✅ Cleanup service started');
+    console.log('  Cleanup service started');
     
     // Run initial cleanup on startup
     console.log('🧹 Running initial cleanup...');
     const initialCleanup = await cleanupService.runImmediateCleanup();
-    console.log('✅ Initial cleanup completed:', {
+    console.log('  Initial cleanup completed:', {
       expired: initialCleanup.expired,
       processed: initialCleanup.processed
     });
@@ -214,7 +214,7 @@ const startServer = async () => {
       console.log(`🤖 AI Service: ${process.env.AI_SERVICE_URL || 'http://localhost:5001'}`);
       console.log(`🔧 Environment: ${process.env.NODE_ENV || 'development'}`);
       console.log(`🌍 CORS Origins: ${process.env.CORS_ORIGINS || 'http://localhost:3000'}`);
-      console.log('⚠️  Rate limiting: DISABLED');
+      console.log('    Rate limiting: DISABLED');
       console.log('👥 User Management: ENABLED');
       console.log('🧹 Cleanup Service: ENABLED');
       console.log('============================================');
@@ -225,9 +225,9 @@ const startServer = async () => {
       try {
         const aiService = require('./services/aiService');
         const isConnected = await aiService.testConnection();
-        console.log(`🤖 AI Service Connection: ${isConnected ? '✅ Connected' : '❌ Failed'}`);
+        console.log(`🤖 AI Service Connection: ${isConnected ? '  Connected' : '  Failed'}`);
       } catch (error) {
-        console.log(`🤖 AI Service Connection: ❌ Failed - ${error.message}`);
+        console.log(`🤖 AI Service Connection:   Failed - ${error.message}`);
       }
     }, 2000);
 
@@ -238,19 +238,19 @@ const startServer = async () => {
       try {
         // Stop cleanup service
         cleanupService.stop();
-        console.log('✅ Cleanup service stopped');
+        console.log('  Cleanup service stopped');
         
         // Close server
         server.close(() => {
           // Close database connection
           mongoose.connection.close();
-          console.log('✅ Database connection closed');
-          console.log('✅ Graceful shutdown completed');
+          console.log('  Database connection closed');
+          console.log('  Graceful shutdown completed');
           process.exit(0);
         });
         
       } catch (error) {
-        console.error('❌ Error during shutdown:', error);
+        console.error('  Error during shutdown:', error);
         process.exit(1);
       }
     };
@@ -259,7 +259,7 @@ const startServer = async () => {
     process.on('SIGINT', () => gracefulShutdown('SIGINT'));
 
   } catch (error) {
-    console.error('❌ Server startup failed:', error.message);
+    console.error('  Server startup failed:', error.message);
     process.exit(1);
   }
 };

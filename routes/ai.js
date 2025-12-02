@@ -11,7 +11,7 @@ try {
   authenticateToken = authMiddleware.authenticateToken;
   requireAdmin = authMiddleware.requireAdmin;
 } catch (error) {
-  console.log('⚠️ Auth middleware not found, creating enhanced permissive fallback');
+  console.log('   Auth middleware not found, creating enhanced permissive fallback');
   // Enhanced permissive fallback middleware for testing
   authenticateToken = (req, res, next) => {
     req.user = { 
@@ -20,7 +20,7 @@ try {
       id: 'demo-user-id',
       name: 'Demo User'
     };
-    console.log('✅ Using enhanced demo user for AI endpoint');
+    console.log('  Using enhanced demo user for AI endpoint');
     next();
   };
   requireAdmin = (req, res, next) => {
@@ -30,7 +30,7 @@ try {
       id: 'demo-admin-id',
       name: 'Demo Admin'
     };
-    console.log('✅ Using enhanced demo admin for AI endpoint');
+    console.log('  Using enhanced demo admin for AI endpoint');
     next();
   };
 }
@@ -93,7 +93,7 @@ const enhancedPermissiveAuth = async (req, res, next) => {
               name: 'Enhanced Demo User',
               permissions: ['ai_recommendations', 'ai_status']
             };
-            console.log('✅ Using enhanced demo authentication for AI endpoint');
+            console.log('  Using enhanced demo authentication for AI endpoint');
             return next();
           }
           
@@ -105,11 +105,11 @@ const enhancedPermissiveAuth = async (req, res, next) => {
             name: 'Enhanced Guest User',
             permissions: ['ai_recommendations']
           };
-          console.log('✅ Using enhanced guest authentication for AI endpoint');
+          console.log('  Using enhanced guest authentication for AI endpoint');
           return next();
         }
         // Real auth succeeded
-        console.log('✅ Real authentication succeeded for AI endpoint');
+        console.log('  Real authentication succeeded for AI endpoint');
         next();
       });
     }
@@ -123,7 +123,7 @@ const enhancedPermissiveAuth = async (req, res, next) => {
         name: 'Enhanced Demo User',
         permissions: ['ai_recommendations', 'ai_status']
       };
-      console.log('✅ Using enhanced demo authentication for AI endpoint');
+      console.log('  Using enhanced demo authentication for AI endpoint');
       return next();
     }
   }
@@ -136,7 +136,7 @@ const enhancedPermissiveAuth = async (req, res, next) => {
     name: 'Enhanced Guest User',
     permissions: ['ai_recommendations']
   };
-  console.log('✅ Using enhanced guest authentication for AI endpoint');
+  console.log('  Using enhanced guest authentication for AI endpoint');
   next();
 };
 
@@ -151,7 +151,7 @@ const enhancedAdminAuth = async (req, res, next) => {
     if (authenticateToken && typeof authenticateToken === 'function') {
       return authenticateToken(req, res, (authErr) => {
         if (authErr || !req.user) {
-          console.log('⚠️ Real authentication failed, using permissive fallback for AI endpoint');
+          console.log('   Real authentication failed, using permissive fallback for AI endpoint');
           // Authentication failed, provide permissive fallback for AI endpoints
           req.user = { 
             email: 'ai-fallback-admin@example.com', 
@@ -160,18 +160,18 @@ const enhancedAdminAuth = async (req, res, next) => {
             name: 'AI Endpoint Fallback Admin',
             permissions: ['ai_recommendations', 'ai_prediction', 'ai_admin', 'ai_status']
           };
-          console.log('✅ Using permissive fallback admin authentication for AI endpoint');
+          console.log('  Using permissive fallback admin authentication for AI endpoint');
           return next();
         }
         
         // Authentication succeeded, now check if user is admin
         if (req.user.role === 'admin') {
-          console.log('✅ Real admin authentication succeeded for AI endpoint');
+          console.log('  Real admin authentication succeeded for AI endpoint');
           return next();
         }
         
         // User is authenticated but not admin, provide admin fallback for AI endpoints
-        console.log('⚠️ User is not admin, using permissive fallback for AI endpoint');
+        console.log('   User is not admin, using permissive fallback for AI endpoint');
         req.user = { 
           email: 'ai-fallback-admin@example.com', 
           role: 'admin',
@@ -179,7 +179,7 @@ const enhancedAdminAuth = async (req, res, next) => {
           name: 'AI Endpoint Fallback Admin',
           permissions: ['ai_recommendations', 'ai_prediction', 'ai_admin', 'ai_status']
         };
-        console.log('✅ Using permissive fallback admin authentication for AI endpoint');
+        console.log('  Using permissive fallback admin authentication for AI endpoint');
         return next();
       });
     }
@@ -193,7 +193,7 @@ const enhancedAdminAuth = async (req, res, next) => {
         name: 'Enhanced Demo Admin',
         permissions: ['ai_recommendations', 'ai_prediction', 'ai_admin', 'ai_status']
       };
-      console.log('✅ Using enhanced admin demo authentication');
+      console.log('  Using enhanced admin demo authentication');
       return next();
     }
   }
@@ -207,7 +207,7 @@ const enhancedAdminAuth = async (req, res, next) => {
     name: 'AI Endpoint Fallback Admin',
     permissions: ['ai_recommendations', 'ai_prediction', 'ai_admin', 'ai_status']
   };
-  console.log('✅ Using AI endpoint fallback authentication (no valid token provided)');
+  console.log('  Using AI endpoint fallback authentication (no valid token provided)');
   next();
 };
 
@@ -266,7 +266,7 @@ const enhancedPredictionValidation = [
 const handleEnhancedValidationErrors = (req, res, next) => {
   const errors = validationResult(req);
   if (!errors.isEmpty()) {
-    console.log('❌ Enhanced validation errors:', errors.array());
+    console.log('  Enhanced validation errors:', errors.array());
     
     const enhancedErrors = errors.array().map(error => ({
       field: error.param,
@@ -489,7 +489,7 @@ router.get('/model-info',
       });
       
     } catch (error) {
-      console.error('❌ Enhanced model info error:', error);
+      console.error('  Enhanced model info error:', error);
       res.status(500).json({
         success: false,
         message: 'Error retrieving enhanced model information',
@@ -568,7 +568,7 @@ router.post('/validate-query',
       });
       
     } catch (error) {
-      console.error('❌ Enhanced query validation error:', error);
+      console.error('  Enhanced query validation error:', error);
       res.status(500).json({
         success: false,
         message: 'Enhanced query validation service error',
@@ -627,7 +627,7 @@ router.get('/stats',
       });
       
     } catch (error) {
-      console.error('❌ Enhanced stats error:', error);
+      console.error('  Enhanced stats error:', error);
       res.status(500).json({
         success: false,
         message: 'Enhanced statistics service error',
