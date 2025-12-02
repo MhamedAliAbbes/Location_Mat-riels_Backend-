@@ -1,0 +1,56 @@
+materiel_id,materiel,quantite,disponible,quantite_reservee,quantite_en_attente,quantite_disponible
+1,Blackmagic Pocket Cinema Camera HD,7,True,3,0,4
+2,Blackmagic Pocket 4K,2,True,0,0,2
+3,Sony A6400,5,True,0,0,5
+4,Sony VENICE,1,True,0,0,1
+5,Fujifilm X-H2,4,True,3,0,1
+6,RED Komodo,3,True,1,2,2
+7,Sony FX6,8,True,1,6,7
+8,Panasonic GH6,6,False,6,0,0
+9,Fujifilm X-T200,9,True,1,0,8
+10,Canon R6,3,False,3,0,0
+11,ARRI Alexa Mini,1,True,0,0,1
+12,Blackmagic URSA Mini Pro 12K,4,True,0,0,4
+13,Sony FX30,5,True,0,0,5
+14,Nikon Z6 II,2,True,0,0,2
+15,Nikon Z30,10,True,0,0,10
+16,Canon M50,3,True,0,0,3
+17,Panasonic G7,7,True,0,0,7
+18,Canon C70,1,True,0,0,1
+19,Kit 18-55mm,6,True,0,0,6
+20,Tamron 28-75mm,4,True,0,0,4
+21,Canon 50mm f/1.8,5,True,0,0,5
+22,Sony G Master 35mm f/1.4,2,True,0,0,2
+23,Tokina 11-20mm f/2.8,8,True,0,0,8
+24,Canon L 24-70mm f/2.8,3,True,0,0,3
+25,Sigma 24-70mm f/2.8,7,True,0,0,7
+26,Sony 18-105mm f/4 G,5,True,0,0,5
+27,Yongnuo 35mm f/2,1,True,0,0,1
+28,Sigma 16mm f/1.4,4,True,0,0,4
+29,Viltrox 23mm f/1.4,6,True,0,0,6
+30,Meike 25mm T2.2,2,True,0,0,2
+31,Canon RF 24-70mm,5,True,0,0,5
+32,Sigma 30mm f/1.4,3,True,0,0,3
+33,ARRI Signature Prime 35mm,1,True,0,0,1
+34,Zeiss CP.3 50mm T2.1,9,True,0,0,9
+35,Leica Summilux-C 29mm,5,True,0,0,5
+36,Canon CN-E 85mm T1.3,2,True,0,0,2
+37,Ring Light,4,True,0,0,4
+38,Aputure Amaran 100x,7,True,0,0,7
+39,Ulanzi VL49,3,True,0,0,3
+40,ARRI SkyPanel S60,1,True,0,0,1
+41,Godox SL60W,6,True,0,0,6
+42,Nanlite PavoTube 6C,4,True,0,0,4
+43,Andoer 660 LED,5,True,0,0,5
+44,Aputure 300x,3,True,0,0,3
+45,SmallRig RC120B,8,True,0,0,8
+46,GVM LED RGB,2,True,0,0,2
+47,Creamsource Vortex8,5,True,0,0,5
+48,Litepanels Gemini 2x1,1,True,0,0,1
+49,FalconEyes RX-18T,6,True,0,0,6
+50,Neewer LED Panel,4,True,0,0,4
+51,Softbox 135W,7,True,0,0,7
+52,Astera Titan Tube,3,True,0,0,3
+53,Nanlite Forza 300,9,True,0,0,9
+54,Sony A7 IV,2,True,0,0,2
+55,Aputure AL-MC RGB,5,True,0,0,5

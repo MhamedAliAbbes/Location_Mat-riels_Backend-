@@ -1,0 +1,56 @@
+type,materiel,prix_location_par_jour
+camera,Blackmagic Pocket Cinema Camera HD,300
+camera,Blackmagic Pocket 4K,350
+camera,Sony A6400,250
+camera,Sony VENICE,1500
+camera,Fujifilm X-H2,400
+camera,RED Komodo,1200
+camera,Sony FX6,1000
+camera,Panasonic GH6,350
+camera,Fujifilm X-T200,200
+camera,Canon R6,450
+camera,ARRI Alexa Mini,1800
+camera,Blackmagic URSA Mini Pro 12K,2000
+camera,Sony FX30,300
+camera,Nikon Z6 II,400
+camera,Nikon Z30,150
+camera,Canon M50,180
+camera,Panasonic G7,200
+objectif,Canon C70,800
+objectif,Kit 18-55mm,50
+objectif,Tamron 28-75mm,100
+objectif,Canon 50mm f/1.8,60
+objectif,Sony G Master 35mm f/1.4,300
+objectif,Tokina 11-20mm f/2.8,120
+objectif,Canon L 24-70mm f/2.8,250
+objectif,Sigma 24-70mm f/2.8,150
+objectif,Sony 18-105mm f/4 G,80
+objectif,Yongnuo 35mm f/2,40
+objectif,Sigma 16mm f/1.4,70
+objectif,Viltrox 23mm f/1.4,60
+objectif,Meike 25mm T2.2,50
+objectif,Canon RF 24-70mm,200
+objectif,Sigma 30mm f/1.4,90
+objectif,ARRI Signature Prime 35mm,500
+objectif,Zeiss CP.3 50mm T2.1,400
+objectif,Leica Summilux-C 29mm,600
+objectif,Canon CN-E 85mm T1.3,450
+lumieres,Ring Light,30
+lumieres,Aputure Amaran 100x,100
+lumieres,Ulanzi VL49,20
+lumieres,ARRI SkyPanel S60,500
+lumieres,Godox SL60W,80
+lumieres,Nanlite PavoTube 6C,120
+lumieres,Andoer 660 LED,25
+lumieres,Aputure 300x,300
+lumieres,SmallRig RC120B,60
+lumieres,GVM LED RGB,40
+lumieres,Creamsource Vortex8,600
+lumieres,Litepanels Gemini 2x1,400
+lumieres,FalconEyes RX-18T,70
+lumieres,Neewer LED Panel,20
+lumieres,Softbox 135W,35
+lumieres,Astera Titan Tube,700
+lumieres,Nanlite Forza 300,350
+camera,Sony A7 IV,400
+lumieres,Aputure AL-MC RGB,90

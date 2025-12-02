@@ -1,0 +1,62 @@
+Collecting sentence-transformers
+  Downloading sentence_transformers-5.1.1-py3-none-any.whl.metadata (16 kB)
+Collecting transformers<5.0.0,>=4.41.0 (from sentence-transformers)
+  Downloading transformers-4.56.2-py3-none-any.whl.metadata (40 kB)
+Requirement already satisfied: tqdm in c:\python313\lib\site-packages (from sentence-transformers) (4.67.1)
+Collecting torch>=1.11.0 (from sentence-transformers)
+  Using cached torch-2.8.0-cp313-cp313-win_amd64.whl.metadata (30 kB)
+Requirement already satisfied: scikit-learn in c:\python313\lib\site-packages (from sentence-transformers) (1.7.0)
+Requirement already satisfied: scipy in c:\python313\lib\site-packages (from sentence-transformers) (1.16.0)
+Requirement already satisfied: huggingface-hub>=0.20.0 in c:\python313\lib\site-packages (from sentence-transformers) (0.33.4)
+Collecting Pillow (from sentence-transformers)
+  Using cached pillow-11.3.0-cp313-cp313-win_amd64.whl.metadata (9.2 kB)
+Requirement already satisfied: typing_extensions>=4.5.0 in c:\python313\lib\site-packages (from sentence-transformers) (4.14.1)
+Requirement already satisfied: filelock in c:\python313\lib\site-packages (from transformers<5.0.0,>=4.41.0->sentence-transformers) (3.18.0)
+Collecting huggingface-hub>=0.20.0 (from sentence-transformers)
+  Downloading huggingface_hub-0.35.1-py3-none-any.whl.metadata (14 kB)
+Requirement already satisfied: numpy>=1.17 in c:\python313\lib\site-packages (from transformers<5.0.0,>=4.41.0->sentence-transformers) (2.2.3)
+Requirement already satisfied: packaging>=20.0 in c:\python313\lib\site-packages (from transformers<5.0.0,>=4.41.0->sentence-transformers) (25.0)
+Requirement already satisfied: pyyaml>=5.1 in c:\python313\lib\site-packages (from transformers<5.0.0,>=4.41.0->sentence-transformers) (6.0.2)
+Requirement already satisfied: regex!=2019.12.17 in c:\python313\lib\site-packages (from transformers<5.0.0,>=4.41.0->sentence-transformers) (2024.11.6)
+Requirement already satisfied: requests in c:\python313\lib\site-packages (from transformers<5.0.0,>=4.41.0->sentence-transformers) (2.32.4)
+Collecting tokenizers<=0.23.0,>=0.22.0 (from transformers<5.0.0,>=4.41.0->sentence-transformers)
+  Downloading tokenizers-0.22.1-cp39-abi3-win_amd64.whl.metadata (6.9 kB)
+Collecting safetensors>=0.4.3 (from transformers<5.0.0,>=4.41.0->sentence-transformers)
+  Using cached safetensors-0.6.2-cp38-abi3-win_amd64.whl.metadata (4.1 kB)
+Requirement already satisfied: fsspec>=2023.5.0 in c:\python313\lib\site-packages (from huggingface-hub>=0.20.0->sentence-transformers) (2025.5.1)
+Collecting sympy>=1.13.3 (from torch>=1.11.0->sentence-transformers)
+  Using cached sympy-1.14.0-py3-none-any.whl.metadata (12 kB)
+Collecting networkx (from torch>=1.11.0->sentence-transformers)
+  Using cached networkx-3.5-py3-none-any.whl.metadata (6.3 kB)
+Requirement already satisfied: jinja2 in c:\python313\lib\site-packages (from torch>=1.11.0->sentence-transformers) (3.1.5)
+Requirement already satisfied: setuptools in c:\python313\lib\site-packages (from torch>=1.11.0->sentence-transformers) (75.8.2)
+Collecting mpmath<1.4,>=1.1.0 (from sympy>=1.13.3->torch>=1.11.0->sentence-transformers)
+  Using cached mpmath-1.3.0-py3-none-any.whl.metadata (8.6 kB)
+Requirement already satisfied: colorama in c:\python313\lib\site-packages (from tqdm->sentence-transformers) (0.4.6)
+Requirement already satisfied: MarkupSafe>=2.0 in c:\python313\lib\site-packages (from jinja2->torch>=1.11.0->sentence-transformers) (3.0.2)
+Requirement already satisfied: charset_normalizer<4,>=2 in c:\python313\lib\site-packages (from requests->transformers<5.0.0,>=4.41.0->sentence-transformers) (3.4.2)
+Requirement already satisfied: idna<4,>=2.5 in c:\python313\lib\site-packages (from requests->transformers<5.0.0,>=4.41.0->sentence-transformers) (3.10)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\python313\lib\site-packages (from requests->transformers<5.0.0,>=4.41.0->sentence-transformers) (2.5.0)
+Requirement already satisfied: certifi>=2017.4.17 in c:\python313\lib\site-packages (from requests->transformers<5.0.0,>=4.41.0->sentence-transformers) (2025.7.9)
+Requirement already satisfied: joblib>=1.2.0 in c:\python313\lib\site-packages (from scikit-learn->sentence-transformers) (1.5.1)
+Requirement already satisfied: threadpoolctl>=3.1.0 in c:\python313\lib\site-packages (from scikit-learn->sentence-transformers) (3.6.0)
+Downloading sentence_transformers-5.1.1-py3-none-any.whl (486 kB)
+Downloading transformers-4.56.2-py3-none-any.whl (11.6 MB)
+   ---------------------------------------- 11.6/11.6 MB 827.0 kB/s  0:00:14
+Downloading huggingface_hub-0.35.1-py3-none-any.whl (563 kB)
+   ---------------------------------------- 563.3/563.3 kB 718.3 kB/s  0:00:00
+Downloading tokenizers-0.22.1-cp39-abi3-win_amd64.whl (2.7 MB)
+   ---------------------------------------- 2.7/2.7 MB 710.6 kB/s  0:00:03
+Using cached safetensors-0.6.2-cp38-abi3-win_amd64.whl (320 kB)
+Using cached torch-2.8.0-cp313-cp313-win_amd64.whl (241.3 MB)
+Using cached sympy-1.14.0-py3-none-any.whl (6.3 MB)
+Using cached mpmath-1.3.0-py3-none-any.whl (536 kB)
+Using cached networkx-3.5-py3-none-any.whl (2.0 MB)
+Using cached pillow-11.3.0-cp313-cp313-win_amd64.whl (7.0 MB)
+Installing collected packages: mpmath, sympy, safetensors, Pillow, networkx, torch, huggingface-hub, tokenizers, transformers, sentence-transformers
+  Attempting uninstall: huggingface-hub
+    Found existing installation: huggingface-hub 0.33.4
+    Uninstalling huggingface-hub-0.33.4:
+      Successfully uninstalled huggingface-hub-0.33.4
+
+Successfully installed Pillow-11.3.0 huggingface-hub-0.35.1 mpmath-1.3.0 networkx-3.5 safetensors-0.6.2 sentence-transformers-5.1.1 sympy-1.14.0 tokenizers-0.22.1 torch-2.8.0 transformers-4.56.2

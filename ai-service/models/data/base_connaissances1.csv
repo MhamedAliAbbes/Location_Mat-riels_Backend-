@@ -1,0 +1,1001 @@
+type,budget,lieu,camera,objectif,lumieres,prix_estime
+clip,low,intérieur,Blackmagic Pocket Cinema Camera HD,Kit 18-55mm,Ring Light,2708
+interview,medium,intérieur,Blackmagic Pocket 4K,Tamron 28-75mm,Aputure Amaran 100x,9728
+court-métrage,low,intérieur,Sony A6400,Canon 50mm f/1.8,Ulanzi VL49,2638
+documentaire,high,intérieur,Sony VENICE,Sony G Master 35mm f/1.4,ARRI SkyPanel S60,441367
+interview,medium,studio,Fujifilm X-H2,Tokina 11-20mm f/2.8,Godox SL60W,6865
+court-métrage,high,studio,RED Komodo,Sony G Master 35mm f/1.4,ARRI SkyPanel S60,140303
+court-métrage,high,extérieur,Sony FX6,Canon L 24-70mm f/2.8,Aputure 300x,240478
+clip,medium,studio,Panasonic GH6,Tokina 11-20mm f/2.8,Nanlite PavoTube 6C,9792
+court-métrage,medium,studio,Fujifilm X-H2,Tokina 11-20mm f/2.8,Aputure Amaran 100x,6964
+documentaire,medium,intérieur,Sony FX30,Canon RF 24-70mm,Godox SL60W,5571
+court-métrage,high,intérieur,ARRI Alexa Mini,Canon L 24-70mm f/2.8,ARRI SkyPanel S60,350555
+court-métrage,high,studio,Blackmagic URSA Mini Pro 12K,Sony G Master 35mm f/1.4,Creamsource Vortex8,407760
+documentaire,high,extérieur,Canon C70,Sony G Master 35mm f/1.4,ARRI SkyPanel S60,286847
+clip,high,studio,Sony VENICE,Canon CN-E 85mm T1.3,Nanlite Forza 300,206649
+clip,medium,intérieur,Nikon Z6 II,Sony 18-105mm f/4 G,Aputure AL-MC RGB,4661
+court-métrage,low,studio,Blackmagic Pocket Cinema Camera HD,Sigma 16mm f/1.4,Andoer 660 LED,1772
+interview,low,intérieur,Nikon Z30,Yongnuo 35mm f/2,Ring Light,2269
+interview,low,extérieur,Blackmagic Pocket Cinema Camera HD,Canon 50mm f/1.8,Andoer 660 LED,2346
+pub,medium,studio,Sony A7 IV,Tokina 11-20mm f/2.8,Nanlite PavoTube 6C,8060
+interview,low,studio,Fujifilm X-T200,Viltrox 23mm f/1.4,Ulanzi VL49,1718
+documentaire,medium,extérieur,Fujifilm X-H2,Sigma 24-70mm f/2.8,Aputure AL-MC RGB,7321
+pub,medium,studio,Canon R6,Sigma 24-70mm f/2.8,SmallRig RC120B,5367
+pub,high,intérieur,RED Komodo,Sony G Master 35mm f/1.4,ARRI SkyPanel S60,394488
+court-métrage,medium,intérieur,Fujifilm X-H2,Sigma 24-70mm f/2.8,Godox SL60W,8419
+court-métrage,low,intérieur,Fujifilm X-T200,Canon 50mm f/1.8,Andoer 660 LED,2406
+documentaire,medium,studio,Sony FX30,Sigma 24-70mm f/2.8,SmallRig RC120B,8099
+interview,high,extérieur,Sony VENICE,Zeiss CP.3 50mm T2.1,Nanlite Forza 300,69793
+interview,low,intérieur,Blackmagic Pocket Cinema Camera HD,Meike 25mm T2.2,GVM LED RGB,1632
+court-métrage,medium,studio,Canon R6,Sony 18-105mm f/4 G,FalconEyes RX-18T,8149
+pub,high,extérieur,ARRI Alexa Mini,ARRI Signature Prime 35mm,Aputure 300x,149515
+court-métrage,high,extérieur,Sony FX6,ARRI Signature Prime 35mm,Aputure 300x,374816
+documentaire,low,studio,Nikon Z30,Viltrox 23mm f/1.4,Andoer 660 LED,3926
+court-métrage,low,extérieur,Fujifilm X-T200,Sigma 16mm f/1.4,Neewer LED Panel,3867
+documentaire,medium,studio,Canon R6,Sony 18-105mm f/4 G,SmallRig RC120B,5044
+documentaire,low,intérieur,Nikon Z30,Canon 50mm f/1.8,Andoer 660 LED,2225
+court-métrage,high,extérieur,Canon C70,Canon CN-E 85mm T1.3,ARRI SkyPanel S60,29106
+interview,low,studio,Blackmagic Pocket Cinema Camera HD,Canon 50mm f/1.8,Ring Light,3064
+pub,high,intérieur,Canon C70,Canon CN-E 85mm T1.3,Aputure 300x,28445
+clip,high,intérieur,ARRI Alexa Mini,Leica Summilux-C 29mm,ARRI SkyPanel S60,119097
+clip,high,intérieur,Blackmagic URSA Mini Pro 12K,Leica Summilux-C 29mm,Creamsource Vortex8,442857
+interview,high,studio,Blackmagic URSA Mini Pro 12K,ARRI Signature Prime 35mm,Nanlite Forza 300,444668
+clip,medium,extérieur,Nikon Z6 II,Sony 18-105mm f/4 G,Godox SL60W,6467
+interview,high,studio,ARRI Alexa Mini,Canon L 24-70mm f/2.8,Litepanels Gemini 2x1,282128
+court-métrage,low,studio,Nikon Z30,Meike 25mm T2.2,GVM LED RGB,1826
+documentaire,high,studio,RED Komodo,Sony G Master 35mm f/1.4,Nanlite Forza 300,425844
+interview,low,intérieur,Blackmagic Pocket Cinema Camera HD,Kit 18-55mm,Softbox 135W,2996
+interview,medium,extérieur,Blackmagic Pocket 4K,Sony 18-105mm f/4 G,Aputure Amaran 100x,8144
+documentaire,medium,extérieur,Sony FX30,Tamron 28-75mm,Godox SL60W,9051
+documentaire,low,extérieur,Panasonic G7,Meike 25mm T2.2,Ring Light,2463
+court-métrage,high,intérieur,Canon C70,Sony G Master 35mm f/1.4,Aputure 300x,468297
+documentaire,high,extérieur,Sony VENICE,Zeiss CP.3 50mm T2.1,Aputure 300x,21016
+court-métrage,low,extérieur,Fujifilm X-T200,Viltrox 23mm f/1.4,Softbox 135W,3025
+pub,low,extérieur,Sony A6400,Yongnuo 35mm f/2,Andoer 660 LED,2805
+court-métrage,medium,studio,Fujifilm X-H2,Canon RF 24-70mm,SmallRig RC120B,6803
+pub,medium,intérieur,Sony A7 IV,Canon RF 24-70mm,SmallRig RC120B,8758
+documentaire,high,intérieur,Blackmagic URSA Mini Pro 12K,Leica Summilux-C 29mm,Astera Titan Tube,292645
+court-métrage,high,studio,Blackmagic URSA Mini Pro 12K,Canon CN-E 85mm T1.3,Litepanels Gemini 2x1,241308
+clip,high,extérieur,Sony VENICE,Leica Summilux-C 29mm,ARRI SkyPanel S60,204884
+pub,low,extérieur,Sony A6400,Kit 18-55mm,Neewer LED Panel,3350
+clip,high,studio,RED Komodo,Zeiss CP.3 50mm T2.1,ARRI SkyPanel S60,210760
+court-métrage,high,intérieur,Canon C70,Canon CN-E 85mm T1.3,Litepanels Gemini 2x1,225885
+documentaire,high,studio,RED Komodo,Canon CN-E 85mm T1.3,Creamsource Vortex8,442459
+court-métrage,medium,extérieur,Blackmagic Pocket 4K,Canon RF 24-70mm,Godox SL60W,6816
+clip,low,extérieur,Sony A6400,Canon 50mm f/1.8,Andoer 660 LED,2635
+interview,low,studio,Nikon Z30,Canon 50mm f/1.8,Ulanzi VL49,3658
+pub,low,extérieur,Sony A6400,Viltrox 23mm f/1.4,Ring Light,2605
+interview,high,studio,Sony VENICE,ARRI Signature Prime 35mm,Aputure 300x,71055
+interview,medium,studio,Sony FX30,Tamron 28-75mm,Aputure Amaran 100x,6561
+interview,medium,intérieur,Canon R6,Tokina 11-20mm f/2.8,Aputure Amaran 100x,7713
+documentaire,high,extérieur,RED Komodo,Zeiss CP.3 50mm T2.1,Nanlite Forza 300,469894
+documentaire,medium,studio,Sony FX30,Sigma 30mm f/1.4,SmallRig RC120B,6032
+court-métrage,medium,intérieur,Fujifilm X-H2,Sony 18-105mm f/4 G,SmallRig RC120B,5106
+interview,high,intérieur,Blackmagic URSA Mini Pro 12K,Canon CN-E 85mm T1.3,Nanlite Forza 300,492503
+clip,medium,studio,Sony A7 IV,Sony 18-105mm f/4 G,Godox SL60W,7264
+court-métrage,low,extérieur,Nikon Z30,Kit 18-55mm,Ring Light,3458
+documentaire,high,intérieur,ARRI Alexa Mini,Canon CN-E 85mm T1.3,Aputure 300x,422208
+pub,low,extérieur,Canon M50,Canon 50mm f/1.8,Ring Light,2444
+pub,medium,extérieur,Blackmagic Pocket 4K,Sigma 30mm f/1.4,Nanlite PavoTube 6C,6550
+interview,low,intérieur,Sony A6400,Canon 50mm f/1.8,GVM LED RGB,1755
+clip,high,extérieur,Sony FX6,Leica Summilux-C 29mm,Nanlite Forza 300,318073
+clip,low,intérieur,Nikon Z30,Kit 18-55mm,Softbox 135W,3482
+documentaire,high,intérieur,Sony VENICE,ARRI Signature Prime 35mm,ARRI SkyPanel S60,464942
+clip,medium,studio,Nikon Z6 II,Tamron 28-75mm,FalconEyes RX-18T,9429
+documentaire,medium,extérieur,Canon R6,Tamron 28-75mm,Aputure Amaran 100x,9648
+documentaire,low,studio,Blackmagic Pocket Cinema Camera HD,Yongnuo 35mm f/2,Ulanzi VL49,1557
+court-métrage,high,intérieur,RED Komodo,Canon L 24-70mm f/2.8,Litepanels Gemini 2x1,66600
+court-métrage,low,extérieur,Nikon Z30,Sigma 16mm f/1.4,GVM LED RGB,2098
+pub,high,extérieur,Sony FX6,Sony G Master 35mm f/1.4,Nanlite Forza 300,340870
+clip,high,studio,Sony VENICE,ARRI Signature Prime 35mm,Creamsource Vortex8,86582
+documentaire,high,intérieur,Blackmagic URSA Mini Pro 12K,Zeiss CP.3 50mm T2.1,ARRI SkyPanel S60,385253
+documentaire,medium,intérieur,Fujifilm X-H2,Sigma 30mm f/1.4,Nanlite PavoTube 6C,4984
+interview,low,studio,Blackmagic Pocket Cinema Camera HD,Yongnuo 35mm f/2,GVM LED RGB,3661
+clip,medium,intérieur,Blackmagic Pocket 4K,Tokina 11-20mm f/2.8,SmallRig RC120B,8819
+court-métrage,high,intérieur,Canon C70,Canon L 24-70mm f/2.8,Nanlite Forza 300,72652
+documentaire,low,studio,Nikon Z30,Canon 50mm f/1.8,Ulanzi VL49,3625
+clip,high,intérieur,Blackmagic URSA Mini Pro 12K,ARRI Signature Prime 35mm,Nanlite Forza 300,211273
+interview,low,intérieur,Fujifilm X-T200,Viltrox 23mm f/1.4,Ulanzi VL49,2985
+clip,high,intérieur,Blackmagic URSA Mini Pro 12K,Leica Summilux-C 29mm,Nanlite Forza 300,227777
+pub,medium,intérieur,Blackmagic Pocket 4K,Tamron 28-75mm,FalconEyes RX-18T,5857
+court-métrage,medium,intérieur,Nikon Z6 II,Sigma 24-70mm f/2.8,Aputure Amaran 100x,6100
+documentaire,low,intérieur,Nikon Z30,Sigma 16mm f/1.4,Ring Light,1906
+interview,low,studio,Fujifilm X-T200,Kit 18-55mm,Neewer LED Panel,2435
+documentaire,medium,intérieur,Canon R6,Tokina 11-20mm f/2.8,SmallRig RC120B,5794
+clip,low,intérieur,Panasonic G7,Viltrox 23mm f/1.4,Andoer 660 LED,3763
+documentaire,low,extérieur,Canon M50,Canon 50mm f/1.8,Ring Light,3229
+court-métrage,high,intérieur,RED Komodo,Sony G Master 35mm f/1.4,Creamsource Vortex8,155775
+documentaire,low,intérieur,Nikon Z30,Kit 18-55mm,Ring Light,1720
+documentaire,medium,extérieur,Panasonic GH6,Sigma 24-70mm f/2.8,Aputure AL-MC RGB,9099
+clip,high,studio,Sony VENICE,Leica Summilux-C 29mm,ARRI SkyPanel S60,464179
+pub,high,extérieur,ARRI Alexa Mini,ARRI Signature Prime 35mm,Litepanels Gemini 2x1,354058
+interview,low,extérieur,Panasonic G7,Yongnuo 35mm f/2,Softbox 135W,2330
+pub,medium,extérieur,Sony FX30,Tamron 28-75mm,SmallRig RC120B,8852
+interview,medium,extérieur,Sony FX30,Sigma 24-70mm f/2.8,Aputure Amaran 100x,7229
+court-métrage,medium,extérieur,Canon R6,Sigma 30mm f/1.4,Aputure Amaran 100x,8634
+clip,low,intérieur,Panasonic G7,Sigma 16mm f/1.4,Softbox 135W,2913
+pub,low,studio,Panasonic G7,Meike 25mm T2.2,Softbox 135W,1577
+interview,medium,studio,Panasonic GH6,Sigma 30mm f/1.4,Aputure AL-MC RGB,8383
+interview,low,extérieur,Fujifilm X-T200,Meike 25mm T2.2,Ring Light,2074
+pub,low,extérieur,Sony A6400,Kit 18-55mm,GVM LED RGB,3134
+pub,low,intérieur,Canon M50,Kit 18-55mm,GVM LED RGB,2166
+clip,high,studio,Canon C70,Leica Summilux-C 29mm,Nanlite Forza 300,176951
+documentaire,medium,studio,Panasonic GH6,Tamron 28-75mm,Godox SL60W,5982
+pub,high,intérieur,Canon C70,Canon CN-E 85mm T1.3,Creamsource Vortex8,383298
+documentaire,medium,intérieur,Canon R6,Tokina 11-20mm f/2.8,Nanlite PavoTube 6C,5076
+documentaire,high,intérieur,Sony VENICE,Sony G Master 35mm f/1.4,Creamsource Vortex8,286970
+documentaire,medium,intérieur,Sony A7 IV,Tokina 11-20mm f/2.8,SmallRig RC120B,5917
+interview,low,extérieur,Nikon Z30,Yongnuo 35mm f/2,Ring Light,2313
+interview,low,studio,Sony A6400,Yongnuo 35mm f/2,Neewer LED Panel,1618
+documentaire,high,intérieur,RED Komodo,Canon L 24-70mm f/2.8,Aputure 300x,348302
+interview,low,intérieur,Fujifilm X-T200,Sigma 16mm f/1.4,Ulanzi VL49,3983
+court-métrage,high,extérieur,ARRI Alexa Mini,ARRI Signature Prime 35mm,Aputure 300x,322097
+pub,high,extérieur,Sony FX6,Leica Summilux-C 29mm,Astera Titan Tube,401779
+documentaire,high,studio,Blackmagic URSA Mini Pro 12K,Sony G Master 35mm f/1.4,Nanlite Forza 300,359396
+pub,medium,extérieur,Canon R6,Sony 18-105mm f/4 G,Nanlite PavoTube 6C,9796
+interview,high,studio,Sony FX6,ARRI Signature Prime 35mm,Creamsource Vortex8,53726
+interview,medium,studio,Sony A7 IV,Canon RF 24-70mm,Godox SL60W,8355
+interview,low,studio,Blackmagic Pocket Cinema Camera HD,Kit 18-55mm,Softbox 135W,2436
+clip,medium,studio,Sony FX30,Tokina 11-20mm f/2.8,Aputure AL-MC RGB,7153
+documentaire,low,intérieur,Nikon Z30,Sigma 16mm f/1.4,Ulanzi VL49,2618
+clip,low,extérieur,Canon M50,Meike 25mm T2.2,Neewer LED Panel,2326
+clip,high,studio,ARRI Alexa Mini,Leica Summilux-C 29mm,ARRI SkyPanel S60,330583
+pub,high,studio,RED Komodo,Zeiss CP.3 50mm T2.1,Litepanels Gemini 2x1,347454
+clip,medium,studio,Blackmagic Pocket 4K,Sony 18-105mm f/4 G,Godox SL60W,7909
+clip,high,extérieur,Canon C70,ARRI Signature Prime 35mm,Nanlite Forza 300,104684
+court-métrage,medium,intérieur,Sony FX30,Sigma 30mm f/1.4,Godox SL60W,6496
+clip,low,studio,Canon M50,Yongnuo 35mm f/2,GVM LED RGB,3250
+clip,medium,intérieur,Blackmagic Pocket 4K,Sony 18-105mm f/4 G,Nanlite PavoTube 6C,5084
+documentaire,high,studio,Sony VENICE,Canon L 24-70mm f/2.8,Creamsource Vortex8,227739
+clip,medium,extérieur,Canon R6,Sigma 30mm f/1.4,Aputure AL-MC RGB,8890
+court-métrage,low,studio,Sony A6400,Meike 25mm T2.2,Neewer LED Panel,2203
+pub,medium,extérieur,Panasonic GH6,Sony 18-105mm f/4 G,Godox SL60W,6383
+clip,high,studio,Sony VENICE,Zeiss CP.3 50mm T2.1,Litepanels Gemini 2x1,205082
+pub,high,extérieur,RED Komodo,Sony G Master 35mm f/1.4,Astera Titan Tube,292773
+documentaire,medium,intérieur,Sony A7 IV,Sony 18-105mm f/4 G,Godox SL60W,7180
+documentaire,medium,extérieur,Fujifilm X-H2,Tamron 28-75mm,Aputure Amaran 100x,6307
+interview,medium,intérieur,Sony A7 IV,Sigma 24-70mm f/2.8,FalconEyes RX-18T,9383
+interview,low,studio,Sony A6400,Kit 18-55mm,Ring Light,3359
+interview,high,intérieur,ARRI Alexa Mini,Canon L 24-70mm f/2.8,Nanlite Forza 300,201205
+pub,high,studio,Sony FX6,Zeiss CP.3 50mm T2.1,Nanlite Forza 300,423146
+documentaire,high,intérieur,Sony FX6,Sony G Master 35mm f/1.4,Aputure 300x,265984
+clip,medium,extérieur,Blackmagic Pocket 4K,Sony 18-105mm f/4 G,Nanlite PavoTube 6C,7489
+pub,high,intérieur,ARRI Alexa Mini,ARRI Signature Prime 35mm,ARRI SkyPanel S60,28468
+pub,low,intérieur,Canon M50,Sigma 16mm f/1.4,GVM LED RGB,3340
+clip,low,intérieur,Panasonic G7,Canon 50mm f/1.8,Neewer LED Panel,2463
+interview,low,extérieur,Fujifilm X-T200,Canon 50mm f/1.8,Softbox 135W,1590
+interview,high,extérieur,RED Komodo,Canon CN-E 85mm T1.3,Aputure 300x,14044
+documentaire,medium,intérieur,Blackmagic Pocket 4K,Tokina 11-20mm f/2.8,Nanlite PavoTube 6C,5440
+documentaire,high,studio,Canon C70,Canon CN-E 85mm T1.3,Creamsource Vortex8,440506
+documentaire,low,extérieur,Panasonic G7,Viltrox 23mm f/1.4,Softbox 135W,2842
+clip,low,studio,Panasonic G7,Canon 50mm f/1.8,Ring Light,3974
+court-métrage,medium,extérieur,Canon R6,Sony 18-105mm f/4 G,FalconEyes RX-18T,8214
+documentaire,high,intérieur,ARRI Alexa Mini,ARRI Signature Prime 35mm,Nanlite Forza 300,128453
+clip,low,intérieur,Blackmagic Pocket Cinema Camera HD,Viltrox 23mm f/1.4,Neewer LED Panel,3433
+interview,medium,studio,Sony FX30,Sigma 24-70mm f/2.8,Aputure AL-MC RGB,5714
+interview,low,extérieur,Fujifilm X-T200,Canon 50mm f/1.8,Ring Light,3069
+documentaire,high,studio,Sony VENICE,Leica Summilux-C 29mm,Nanlite Forza 300,392662
+pub,low,extérieur,Panasonic G7,Sigma 16mm f/1.4,Ring Light,3543
+court-métrage,high,extérieur,ARRI Alexa Mini,Sony G Master 35mm f/1.4,Litepanels Gemini 2x1,173879
+documentaire,high,studio,Blackmagic URSA Mini Pro 12K,Canon L 24-70mm f/2.8,Creamsource Vortex8,289211
+clip,high,extérieur,Blackmagic URSA Mini Pro 12K,ARRI Signature Prime 35mm,Aputure 300x,374287
+clip,medium,studio,Canon R6,Sony 18-105mm f/4 G,FalconEyes RX-18T,7272
+interview,medium,studio,Panasonic GH6,Sigma 24-70mm f/2.8,Aputure Amaran 100x,9368
+documentaire,low,intérieur,Canon M50,Sigma 16mm f/1.4,Neewer LED Panel,2449
+documentaire,low,studio,Fujifilm X-T200,Canon 50mm f/1.8,Neewer LED Panel,1892
+documentaire,high,extérieur,RED Komodo,Canon CN-E 85mm T1.3,Astera Titan Tube,252059
+interview,high,studio,Canon C70,Sony G Master 35mm f/1.4,Aputure 300x,430569
+documentaire,low,extérieur,Nikon Z30,Yongnuo 35mm f/2,Andoer 660 LED,1840
+court-métrage,medium,studio,Nikon Z6 II,Sigma 30mm f/1.4,Aputure Amaran 100x,7495
+pub,high,intérieur,Canon C70,Leica Summilux-C 29mm,Creamsource Vortex8,379383
+court-métrage,high,extérieur,Sony VENICE,Leica Summilux-C 29mm,Creamsource Vortex8,448995
+clip,low,intérieur,Fujifilm X-T200,Viltrox 23mm f/1.4,Softbox 135W,3566
+interview,medium,extérieur,Canon R6,Sony 18-105mm f/4 G,Godox SL60W,4825
+clip,medium,intérieur,Nikon Z6 II,Sigma 24-70mm f/2.8,Godox SL60W,4556
+clip,medium,studio,Sony A7 IV,Sigma 24-70mm f/2.8,SmallRig RC120B,9910
+documentaire,low,studio,Blackmagic Pocket Cinema Camera HD,Viltrox 23mm f/1.4,Neewer LED Panel,3159
+documentaire,high,intérieur,Sony VENICE,Zeiss CP.3 50mm T2.1,Creamsource Vortex8,217524
+interview,medium,studio,Blackmagic Pocket 4K,Sigma 30mm f/1.4,SmallRig RC120B,6304
+interview,low,studio,Canon M50,Viltrox 23mm f/1.4,Andoer 660 LED,3557
+clip,low,intérieur,Panasonic G7,Viltrox 23mm f/1.4,Ring Light,2458
+pub,low,intérieur,Fujifilm X-T200,Meike 25mm T2.2,Ulanzi VL49,3527
+documentaire,medium,extérieur,Panasonic GH6,Sigma 24-70mm f/2.8,Aputure Amaran 100x,8106
+pub,low,intérieur,Nikon Z30,Meike 25mm T2.2,Ulanzi VL49,2736
+pub,high,intérieur,Sony FX6,Zeiss CP.3 50mm T2.1,Aputure 300x,238417
+pub,low,extérieur,Blackmagic Pocket Cinema Camera HD,Canon 50mm f/1.8,Andoer 660 LED,2613
+court-métrage,high,studio,RED Komodo,ARRI Signature Prime 35mm,Creamsource Vortex8,191440
+interview,low,studio,Fujifilm X-T200,Meike 25mm T2.2,Ring Light,2598
+interview,low,studio,Blackmagic Pocket Cinema Camera HD,Canon 50mm f/1.8,Andoer 660 LED,2628
+documentaire,medium,intérieur,Sony FX30,Sony 18-105mm f/4 G,FalconEyes RX-18T,5074
+interview,high,studio,Canon C70,Sony G Master 35mm f/1.4,ARRI SkyPanel S60,325403
+pub,medium,intérieur,Sony A7 IV,Tamron 28-75mm,Godox SL60W,7760
+interview,medium,extérieur,Canon R6,Sigma 24-70mm f/2.8,Aputure Amaran 100x,8023
+clip,low,studio,Sony A6400,Viltrox 23mm f/1.4,Softbox 135W,3618
+documentaire,medium,extérieur,Blackmagic Pocket 4K,Tamron 28-75mm,FalconEyes RX-18T,6204
+court-métrage,medium,extérieur,Sony A7 IV,Sigma 24-70mm f/2.8,Aputure Amaran 100x,9718
+court-métrage,low,extérieur,Canon M50,Canon 50mm f/1.8,Neewer LED Panel,3183
+clip,high,intérieur,Sony VENICE,Canon CN-E 85mm T1.3,Litepanels Gemini 2x1,344581
+documentaire,high,studio,Blackmagic URSA Mini Pro 12K,Canon L 24-70mm f/2.8,Nanlite Forza 300,222972
+documentaire,low,studio,Fujifilm X-T200,Meike 25mm T2.2,Ring Light,3481
+court-métrage,medium,extérieur,Blackmagic Pocket 4K,Canon RF 24-70mm,FalconEyes RX-18T,7025
+documentaire,low,extérieur,Fujifilm X-T200,Kit 18-55mm,Neewer LED Panel,3041
+pub,low,intérieur,Nikon Z30,Sigma 16mm f/1.4,Softbox 135W,1716
+interview,high,intérieur,Canon C70,Zeiss CP.3 50mm T2.1,Creamsource Vortex8,158459
+documentaire,medium,studio,Fujifilm X-H2,Canon RF 24-70mm,Aputure Amaran 100x,8769
+interview,high,studio,Canon C70,ARRI Signature Prime 35mm,ARRI SkyPanel S60,309996
+pub,medium,studio,Panasonic GH6,Tokina 11-20mm f/2.8,Aputure Amaran 100x,7532
+documentaire,high,intérieur,RED Komodo,Canon CN-E 85mm T1.3,Astera Titan Tube,433226
+pub,high,studio,Canon C70,Zeiss CP.3 50mm T2.1,Nanlite Forza 300,379083
+interview,low,intérieur,Canon M50,Meike 25mm T2.2,Ring Light,3909
+clip,high,studio,Sony FX6,Zeiss CP.3 50mm T2.1,Litepanels Gemini 2x1,240705
+interview,medium,extérieur,Canon R6,Sony 18-105mm f/4 G,Godox SL60W,5305
+pub,low,extérieur,Nikon Z30,Yongnuo 35mm f/2,Andoer 660 LED,2179
+interview,low,intérieur,Blackmagic Pocket Cinema Camera HD,Yongnuo 35mm f/2,GVM LED RGB,2035
+court-métrage,low,extérieur,Blackmagic Pocket Cinema Camera HD,Kit 18-55mm,Neewer LED Panel,3646
+documentaire,medium,intérieur,Blackmagic Pocket 4K,Canon RF 24-70mm,Aputure Amaran 100x,7640
+pub,medium,extérieur,Blackmagic Pocket 4K,Tamron 28-75mm,Nanlite PavoTube 6C,6127
+interview,medium,intérieur,Blackmagic Pocket 4K,Sigma 30mm f/1.4,Godox SL60W,8516
+court-métrage,high,extérieur,Canon C70,Canon CN-E 85mm T1.3,ARRI SkyPanel S60,173097
+interview,low,extérieur,Fujifilm X-T200,Meike 25mm T2.2,Neewer LED Panel,1658
+court-métrage,low,extérieur,Sony A6400,Sigma 16mm f/1.4,Neewer LED Panel,2261
+documentaire,low,intérieur,Fujifilm X-T200,Sigma 16mm f/1.4,Ulanzi VL49,3291
+pub,high,extérieur,Canon C70,Canon L 24-70mm f/2.8,Aputure 300x,39694
+court-métrage,medium,intérieur,Canon R6,Sigma 24-70mm f/2.8,Nanlite PavoTube 6C,8529
+documentaire,medium,intérieur,Sony A7 IV,Tamron 28-75mm,Godox SL60W,4776
+documentaire,medium,extérieur,Sony A7 IV,Sigma 24-70mm f/2.8,FalconEyes RX-18T,5532
+interview,medium,extérieur,Canon R6,Tokina 11-20mm f/2.8,Aputure Amaran 100x,6235
+pub,low,studio,Blackmagic Pocket Cinema Camera HD,Meike 25mm T2.2,Softbox 135W,1987
+documentaire,low,extérieur,Nikon Z30,Canon 50mm f/1.8,Neewer LED Panel,3514
+pub,low,studio,Fujifilm X-T200,Meike 25mm T2.2,Softbox 135W,1718
+documentaire,medium,extérieur,Blackmagic Pocket 4K,Sigma 24-70mm f/2.8,Godox SL60W,7990
+clip,high,intérieur,Sony VENICE,Zeiss CP.3 50mm T2.1,Litepanels Gemini 2x1,288959
+court-métrage,medium,extérieur,Canon R6,Sony 18-105mm f/4 G,Aputure Amaran 100x,9343
+pub,medium,extérieur,Nikon Z6 II,Canon RF 24-70mm,Aputure AL-MC RGB,7413
+interview,high,extérieur,ARRI Alexa Mini,Sony G Master 35mm f/1.4,ARRI SkyPanel S60,211176
+clip,low,extérieur,Fujifilm X-T200,Meike 25mm T2.2,Neewer LED Panel,3957
+court-métrage,low,extérieur,Nikon Z30,Canon 50mm f/1.8,Ring Light,3078
+clip,medium,studio,Blackmagic Pocket 4K,Canon RF 24-70mm,Godox SL60W,4513
+pub,low,extérieur,Sony A6400,Yongnuo 35mm f/2,GVM LED RGB,3338
+court-métrage,medium,extérieur,Nikon Z6 II,Sigma 24-70mm f/2.8,Godox SL60W,5249
+clip,medium,studio,Panasonic GH6,Tokina 11-20mm f/2.8,Aputure AL-MC RGB,7928
+clip,medium,intérieur,Sony A7 IV,Sigma 30mm f/1.4,SmallRig RC120B,9404
+interview,low,extérieur,Canon M50,Meike 25mm T2.2,Softbox 135W,1758
+pub,low,intérieur,Fujifilm X-T200,Sigma 16mm f/1.4,Andoer 660 LED,3988
+interview,high,studio,ARRI Alexa Mini,Leica Summilux-C 29mm,Litepanels Gemini 2x1,264775
+interview,medium,intérieur,Panasonic GH6,Tamron 28-75mm,Aputure AL-MC RGB,4580
+pub,medium,intérieur,Nikon Z6 II,Tamron 28-75mm,Godox SL60W,8056
+pub,low,intérieur,Canon M50,Meike 25mm T2.2,Andoer 660 LED,2081
+interview,medium,extérieur,Nikon Z6 II,Sigma 24-70mm f/2.8,Godox SL60W,5844
+documentaire,medium,studio,Nikon Z6 II,Sigma 24-70mm f/2.8,Aputure AL-MC RGB,7102
+documentaire,medium,studio,Panasonic GH6,Tamron 28-75mm,SmallRig RC120B,7282
+court-métrage,low,intérieur,Fujifilm X-T200,Meike 25mm T2.2,Softbox 135W,3301
+documentaire,medium,extérieur,Fujifilm X-H2,Sigma 30mm f/1.4,Nanlite PavoTube 6C,9066
+documentaire,low,studio,Canon M50,Kit 18-55mm,Andoer 660 LED,2797
+documentaire,high,intérieur,ARRI Alexa Mini,Zeiss CP.3 50mm T2.1,Astera Titan Tube,178546
+court-métrage,medium,studio,Sony FX30,Sony 18-105mm f/4 G,SmallRig RC120B,9535
+clip,high,extérieur,RED Komodo,ARRI Signature Prime 35mm,Astera Titan Tube,169032
+pub,low,extérieur,Nikon Z30,Yongnuo 35mm f/2,Neewer LED Panel,1670
+pub,low,extérieur,Panasonic G7,Viltrox 23mm f/1.4,Ulanzi VL49,2710
+documentaire,medium,extérieur,Sony FX30,Canon RF 24-70mm,Aputure Amaran 100x,8092
+documentaire,high,extérieur,Sony FX6,Sony G Master 35mm f/1.4,Nanlite Forza 300,72492
+documentaire,high,intérieur,Sony FX6,Leica Summilux-C 29mm,Creamsource Vortex8,499304
+court-métrage,high,intérieur,Blackmagic URSA Mini Pro 12K,Canon L 24-70mm f/2.8,Astera Titan Tube,404256
+pub,medium,extérieur,Blackmagic Pocket 4K,Tokina 11-20mm f/2.8,Aputure Amaran 100x,6706
+pub,high,studio,Sony FX6,Leica Summilux-C 29mm,Litepanels Gemini 2x1,216685
+clip,medium,intérieur,Sony FX30,Sigma 30mm f/1.4,Nanlite PavoTube 6C,8394
+pub,high,extérieur,Blackmagic URSA Mini Pro 12K,Sony G Master 35mm f/1.4,Astera Titan Tube,39771
+clip,medium,studio,Sony A7 IV,Tokina 11-20mm f/2.8,FalconEyes RX-18T,9538
+clip,high,extérieur,ARRI Alexa Mini,ARRI Signature Prime 35mm,Creamsource Vortex8,257188
+pub,low,extérieur,Panasonic G7,Yongnuo 35mm f/2,GVM LED RGB,2517
+clip,medium,studio,Canon R6,Sigma 24-70mm f/2.8,FalconEyes RX-18T,9468
+clip,medium,extérieur,Sony A7 IV,Tokina 11-20mm f/2.8,Godox SL60W,4690
+documentaire,medium,studio,Sony A7 IV,Tamron 28-75mm,Aputure Amaran 100x,6812
+court-métrage,low,intérieur,Fujifilm X-T200,Kit 18-55mm,GVM LED RGB,2021
+court-métrage,high,extérieur,Sony FX6,Canon L 24-70mm f/2.8,Creamsource Vortex8,304528
+court-métrage,medium,extérieur,Blackmagic Pocket 4K,Canon RF 24-70mm,Nanlite PavoTube 6C,5870
+interview,low,studio,Nikon Z30,Canon 50mm f/1.8,GVM LED RGB,2656
+interview,low,studio,Fujifilm X-T200,Yongnuo 35mm f/2,Ulanzi VL49,3853
+documentaire,low,extérieur,Fujifilm X-T200,Kit 18-55mm,Neewer LED Panel,3838
+documentaire,high,studio,RED Komodo,Canon L 24-70mm f/2.8,ARRI SkyPanel S60,283367
+documentaire,low,extérieur,Sony A6400,Canon 50mm f/1.8,Neewer LED Panel,1704
+interview,low,studio,Canon M50,Kit 18-55mm,Ulanzi VL49,3634
+documentaire,medium,studio,Sony A7 IV,Tamron 28-75mm,Aputure Amaran 100x,7181
+interview,low,intérieur,Fujifilm X-T200,Sigma 16mm f/1.4,Softbox 135W,2069
+interview,medium,intérieur,Fujifilm X-H2,Tokina 11-20mm f/2.8,Aputure Amaran 100x,6497
+court-métrage,low,studio,Nikon Z30,Canon 50mm f/1.8,Andoer 660 LED,1682
+court-métrage,high,intérieur,RED Komodo,ARRI Signature Prime 35mm,Litepanels Gemini 2x1,374934
+court-métrage,low,studio,Panasonic G7,Meike 25mm T2.2,Ulanzi VL49,3572
+interview,medium,extérieur,Nikon Z6 II,Tokina 11-20mm f/2.8,SmallRig RC120B,5043
+interview,medium,studio,Blackmagic Pocket 4K,Tokina 11-20mm f/2.8,Aputure Amaran 100x,7904
+documentaire,medium,extérieur,Nikon Z6 II,Canon RF 24-70mm,Nanlite PavoTube 6C,5158
+interview,low,intérieur,Panasonic G7,Viltrox 23mm f/1.4,Neewer LED Panel,2220
+interview,high,extérieur,Sony VENICE,ARRI Signature Prime 35mm,Litepanels Gemini 2x1,355123
+documentaire,medium,intérieur,Sony A7 IV,Tamron 28-75mm,SmallRig RC120B,8744
+interview,low,intérieur,Blackmagic Pocket Cinema Camera HD,Meike 25mm T2.2,Andoer 660 LED,3457
+documentaire,medium,intérieur,Canon R6,Sigma 24-70mm f/2.8,Godox SL60W,9941
+pub,low,intérieur,Nikon Z30,Sigma 16mm f/1.4,Ulanzi VL49,2689
+documentaire,low,intérieur,Sony A6400,Viltrox 23mm f/1.4,Andoer 660 LED,2474
+pub,medium,extérieur,Panasonic GH6,Sigma 30mm f/1.4,FalconEyes RX-18T,7816
+interview,low,intérieur,Panasonic G7,Sigma 16mm f/1.4,Neewer LED Panel,1814
+court-métrage,high,studio,Sony VENICE,Leica Summilux-C 29mm,Aputure 300x,475327
+court-métrage,medium,studio,Canon R6,Sigma 30mm f/1.4,Godox SL60W,5830
+clip,high,intérieur,ARRI Alexa Mini,Zeiss CP.3 50mm T2.1,Astera Titan Tube,493002
+documentaire,high,extérieur,Blackmagic URSA Mini Pro 12K,ARRI Signature Prime 35mm,Creamsource Vortex8,409287
+documentaire,low,studio,Sony A6400,Yongnuo 35mm f/2,Neewer LED Panel,2768
+court-métrage,medium,intérieur,Fujifilm X-H2,Canon RF 24-70mm,Godox SL60W,9842
+interview,medium,studio,Nikon Z6 II,Sony 18-105mm f/4 G,FalconEyes RX-18T,6138
+court-métrage,medium,studio,Fujifilm X-H2,Sigma 30mm f/1.4,Godox SL60W,9677
+pub,low,studio,Sony A6400,Kit 18-55mm,Ulanzi VL49,2547
+documentaire,medium,studio,Sony FX30,Tokina 11-20mm f/2.8,FalconEyes RX-18T,7580
+documentaire,medium,studio,Sony FX30,Sigma 30mm f/1.4,Aputure AL-MC RGB,6051
+pub,low,intérieur,Fujifilm X-T200,Canon 50mm f/1.8,Softbox 135W,3606
+interview,high,studio,RED Komodo,Zeiss CP.3 50mm T2.1,Astera Titan Tube,393619
+clip,medium,intérieur,Sony FX30,Canon RF 24-70mm,SmallRig RC120B,6883
+documentaire,low,intérieur,Blackmagic Pocket Cinema Camera HD,Kit 18-55mm,Neewer LED Panel,3645
+interview,medium,intérieur,Blackmagic Pocket 4K,Sony 18-105mm f/4 G,SmallRig RC120B,4843
+court-métrage,low,extérieur,Blackmagic Pocket Cinema Camera HD,Viltrox 23mm f/1.4,Softbox 135W,3371
+clip,low,intérieur,Nikon Z30,Sigma 16mm f/1.4,Softbox 135W,2394
+pub,low,intérieur,Nikon Z30,Meike 25mm T2.2,Ulanzi VL49,2454
+pub,high,extérieur,Sony FX6,Sony G Master 35mm f/1.4,Aputure 300x,18582
+pub,low,studio,Canon M50,Canon 50mm f/1.8,Andoer 660 LED,2961
+documentaire,high,intérieur,ARRI Alexa Mini,Leica Summilux-C 29mm,Astera Titan Tube,218840
+interview,low,extérieur,Sony A6400,Yongnuo 35mm f/2,Andoer 660 LED,3902
+court-métrage,medium,extérieur,Sony FX30,Sigma 24-70mm f/2.8,Aputure Amaran 100x,9067
+clip,medium,intérieur,Sony FX30,Tamron 28-75mm,Aputure AL-MC RGB,8348
+court-métrage,high,intérieur,Sony FX6,Canon CN-E 85mm T1.3,Litepanels Gemini 2x1,248939
+documentaire,low,intérieur,Fujifilm X-T200,Meike 25mm T2.2,GVM LED RGB,2216
+documentaire,high,studio,RED Komodo,Canon L 24-70mm f/2.8,Aputure 300x,27849
+court-métrage,high,studio,Sony VENICE,ARRI Signature Prime 35mm,Creamsource Vortex8,178880
+court-métrage,high,studio,Canon C70,ARRI Signature Prime 35mm,Litepanels Gemini 2x1,132595
+clip,high,intérieur,RED Komodo,Sony G Master 35mm f/1.4,Creamsource Vortex8,436616
+court-métrage,medium,studio,Nikon Z6 II,Sigma 30mm f/1.4,Aputure Amaran 100x,9092
+court-métrage,low,intérieur,Canon M50,Sigma 16mm f/1.4,Softbox 135W,2258
+interview,high,studio,Sony VENICE,Canon CN-E 85mm T1.3,Aputure 300x,149603
+interview,low,studio,Sony A6400,Canon 50mm f/1.8,Softbox 135W,2847
+documentaire,high,intérieur,Sony FX6,Canon CN-E 85mm T1.3,Astera Titan Tube,185022
+interview,high,studio,Sony FX6,Leica Summilux-C 29mm,Astera Titan Tube,192507
+pub,high,extérieur,Sony VENICE,Canon CN-E 85mm T1.3,Nanlite Forza 300,317981
+clip,low,studio,Sony A6400,Yongnuo 35mm f/2,GVM LED RGB,3546
+pub,high,extérieur,Blackmagic URSA Mini Pro 12K,Canon L 24-70mm f/2.8,ARRI SkyPanel S60,65209
+interview,low,studio,Blackmagic Pocket Cinema Camera HD,Canon 50mm f/1.8,Ring Light,1739
+clip,medium,intérieur,Sony FX30,Sony 18-105mm f/4 G,Godox SL60W,7030
+interview,low,extérieur,Fujifilm X-T200,Kit 18-55mm,Softbox 135W,1911
+documentaire,medium,intérieur,Sony A7 IV,Tamron 28-75mm,FalconEyes RX-18T,6972
+documentaire,medium,extérieur,Canon R6,Canon RF 24-70mm,Aputure AL-MC RGB,8155
+pub,low,studio,Fujifilm X-T200,Yongnuo 35mm f/2,Neewer LED Panel,1984
+interview,medium,intérieur,Fujifilm X-H2,Sigma 24-70mm f/2.8,FalconEyes RX-18T,8657
+pub,high,studio,Blackmagic URSA Mini Pro 12K,Canon L 24-70mm f/2.8,Litepanels Gemini 2x1,163957
+documentaire,medium,extérieur,Fujifilm X-H2,Tamron 28-75mm,SmallRig RC120B,5299
+pub,medium,studio,Sony A7 IV,Canon RF 24-70mm,Nanlite PavoTube 6C,5841
+documentaire,low,intérieur,Fujifilm X-T200,Viltrox 23mm f/1.4,Neewer LED Panel,1793
+interview,low,intérieur,Sony A6400,Meike 25mm T2.2,Andoer 660 LED,3750
+clip,low,intérieur,Canon M50,Sigma 16mm f/1.4,Andoer 660 LED,2251
+interview,high,intérieur,Blackmagic URSA Mini Pro 12K,Canon L 24-70mm f/2.8,Aputure 300x,239422
+documentaire,medium,studio,Panasonic GH6,Sigma 24-70mm f/2.8,Nanlite PavoTube 6C,4713
+clip,medium,studio,Blackmagic Pocket 4K,Tokina 11-20mm f/2.8,Aputure Amaran 100x,6788
+documentaire,low,extérieur,Canon M50,Kit 18-55mm,Neewer LED Panel,2958
+interview,medium,intérieur,Panasonic GH6,Tamron 28-75mm,Aputure Amaran 100x,9622
+clip,medium,studio,Fujifilm X-H2,Canon RF 24-70mm,Aputure Amaran 100x,8104
+documentaire,low,studio,Sony A6400,Yongnuo 35mm f/2,GVM LED RGB,1846
+pub,medium,extérieur,Blackmagic Pocket 4K,Tokina 11-20mm f/2.8,Nanlite PavoTube 6C,6600
+interview,high,extérieur,Sony FX6,Leica Summilux-C 29mm,Litepanels Gemini 2x1,326503
+clip,low,extérieur,Blackmagic Pocket Cinema Camera HD,Sigma 16mm f/1.4,Neewer LED Panel,3672
+pub,medium,intérieur,Sony FX30,Sigma 30mm f/1.4,Aputure AL-MC RGB,7200
+clip,medium,extérieur,Blackmagic Pocket 4K,Canon RF 24-70mm,FalconEyes RX-18T,7853
+documentaire,low,studio,Fujifilm X-T200,Kit 18-55mm,Softbox 135W,3926
+documentaire,high,studio,Sony VENICE,Zeiss CP.3 50mm T2.1,Aputure 300x,251352
+court-métrage,low,intérieur,Blackmagic Pocket Cinema Camera HD,Meike 25mm T2.2,Andoer 660 LED,2522
+documentaire,high,extérieur,Sony VENICE,Canon L 24-70mm f/2.8,Astera Titan Tube,455417
+documentaire,low,intérieur,Sony A6400,Meike 25mm T2.2,GVM LED RGB,1565
+documentaire,low,intérieur,Fujifilm X-T200,Canon 50mm f/1.8,Ring Light,1921
+clip,medium,studio,Sony FX30,Canon RF 24-70mm,FalconEyes RX-18T,4953
+clip,low,extérieur,Fujifilm X-T200,Kit 18-55mm,Ring Light,3456
+pub,low,intérieur,Nikon Z30,Yongnuo 35mm f/2,Andoer 660 LED,2388
+court-métrage,medium,intérieur,Panasonic GH6,Tokina 11-20mm f/2.8,Godox SL60W,5979
+court-métrage,medium,studio,Canon R6,Sigma 30mm f/1.4,Godox SL60W,8166
+documentaire,high,studio,Canon C70,Leica Summilux-C 29mm,Nanlite Forza 300,328548
+pub,high,extérieur,Blackmagic URSA Mini Pro 12K,Leica Summilux-C 29mm,Aputure 300x,58021
+documentaire,low,extérieur,Blackmagic Pocket Cinema Camera HD,Canon 50mm f/1.8,Ring Light,2758
+court-métrage,high,studio,Blackmagic URSA Mini Pro 12K,Canon CN-E 85mm T1.3,Litepanels Gemini 2x1,167403
+interview,low,intérieur,Canon M50,Sigma 16mm f/1.4,Ring Light,3580
+clip,low,intérieur,Nikon Z30,Yongnuo 35mm f/2,Ulanzi VL49,3269
+pub,low,intérieur,Sony A6400,Viltrox 23mm f/1.4,Andoer 660 LED,3781
+clip,high,intérieur,Sony VENICE,ARRI Signature Prime 35mm,ARRI SkyPanel S60,332009
+clip,medium,intérieur,Fujifilm X-H2,Sigma 30mm f/1.4,Nanlite PavoTube 6C,8940
+clip,medium,extérieur,Blackmagic Pocket 4K,Tamron 28-75mm,FalconEyes RX-18T,5184
+clip,low,intérieur,Sony A6400,Sigma 16mm f/1.4,GVM LED RGB,3208
+pub,medium,extérieur,Nikon Z6 II,Sigma 30mm f/1.4,SmallRig RC120B,7029
+court-métrage,medium,intérieur,Panasonic GH6,Sigma 30mm f/1.4,Aputure Amaran 100x,5137
+interview,low,studio,Canon M50,Kit 18-55mm,Andoer 660 LED,3438
+interview,low,extérieur,Fujifilm X-T200,Meike 25mm T2.2,Softbox 135W,3119
+interview,high,studio,Sony FX6,ARRI Signature Prime 35mm,ARRI SkyPanel S60,94496
+court-métrage,high,intérieur,Sony VENICE,ARRI Signature Prime 35mm,Nanlite Forza 300,151795
+pub,low,extérieur,Panasonic G7,Yongnuo 35mm f/2,Ulanzi VL49,2431
+documentaire,low,studio,Sony A6400,Kit 18-55mm,Ring Light,2175
+clip,medium,intérieur,Panasonic GH6,Tokina 11-20mm f/2.8,SmallRig RC120B,9787
+pub,medium,extérieur,Canon R6,Sony 18-105mm f/4 G,Aputure AL-MC RGB,9858
+pub,medium,intérieur,Fujifilm X-H2,Tamron 28-75mm,FalconEyes RX-18T,6827
+court-métrage,high,intérieur,Sony VENICE,Canon L 24-70mm f/2.8,Creamsource Vortex8,244336
+clip,medium,intérieur,Nikon Z6 II,Tamron 28-75mm,Aputure Amaran 100x,9877
+clip,medium,intérieur,Sony A7 IV,Sigma 24-70mm f/2.8,FalconEyes RX-18T,7169
+pub,high,intérieur,Sony VENICE,Zeiss CP.3 50mm T2.1,Litepanels Gemini 2x1,233449
+interview,low,intérieur,Nikon Z30,Sigma 16mm f/1.4,GVM LED RGB,3371
+pub,medium,extérieur,Sony A7 IV,Sigma 30mm f/1.4,Godox SL60W,4667
+court-métrage,low,extérieur,Sony A6400,Viltrox 23mm f/1.4,Softbox 135W,2418
+pub,medium,studio,Canon R6,Tokina 11-20mm f/2.8,Aputure AL-MC RGB,9795
+court-métrage,medium,intérieur,Blackmagic Pocket 4K,Tamron 28-75mm,SmallRig RC120B,9966
+court-métrage,low,intérieur,Canon M50,Yongnuo 35mm f/2,Andoer 660 LED,3946
+court-métrage,medium,studio,Canon R6,Canon RF 24-70mm,Aputure AL-MC RGB,9543
+pub,medium,studio,Blackmagic Pocket 4K,Tokina 11-20mm f/2.8,Aputure Amaran 100x,5261
+documentaire,low,studio,Sony A6400,Meike 25mm T2.2,Ring Light,3906
+court-métrage,low,studio,Blackmagic Pocket Cinema Camera HD,Canon 50mm f/1.8,Softbox 135W,1751
+documentaire,low,studio,Panasonic G7,Meike 25mm T2.2,Ulanzi VL49,2200
+clip,low,intérieur,Canon M50,Meike 25mm T2.2,Andoer 660 LED,1726
+interview,high,intérieur,Canon C70,Canon CN-E 85mm T1.3,Nanlite Forza 300,493640
+court-métrage,medium,studio,Panasonic GH6,Tamron 28-75mm,Aputure AL-MC RGB,5991
+documentaire,medium,studio,Fujifilm X-H2,Sigma 24-70mm f/2.8,Aputure Amaran 100x,9324
+documentaire,medium,intérieur,Fujifilm X-H2,Canon RF 24-70mm,Aputure AL-MC RGB,7337
+interview,medium,intérieur,Sony A7 IV,Sigma 24-70mm f/2.8,Aputure AL-MC RGB,7135
+pub,high,studio,ARRI Alexa Mini,ARRI Signature Prime 35mm,Astera Titan Tube,174194
+documentaire,high,studio,Sony VENICE,Sony G Master 35mm f/1.4,Aputure 300x,172339
+documentaire,high,extérieur,RED Komodo,Canon CN-E 85mm T1.3,Creamsource Vortex8,228529
+pub,medium,intérieur,Nikon Z6 II,Sony 18-105mm f/4 G,Aputure Amaran 100x,6521
+pub,low,studio,Sony A6400,Viltrox 23mm f/1.4,GVM LED RGB,1622
+pub,high,extérieur,Sony FX6,Canon CN-E 85mm T1.3,Astera Titan Tube,258310
+interview,medium,studio,Blackmagic Pocket 4K,Tokina 11-20mm f/2.8,SmallRig RC120B,9527
+clip,low,intérieur,Sony A6400,Canon 50mm f/1.8,Andoer 660 LED,2363
+court-métrage,medium,extérieur,Panasonic GH6,Sigma 30mm f/1.4,Nanlite PavoTube 6C,9376
+pub,low,intérieur,Blackmagic Pocket Cinema Camera HD,Yongnuo 35mm f/2,GVM LED RGB,3422
+clip,low,extérieur,Blackmagic Pocket Cinema Camera HD,Kit 18-55mm,Neewer LED Panel,2821
+court-métrage,high,studio,Canon C70,Canon L 24-70mm f/2.8,ARRI SkyPanel S60,236923
+court-métrage,high,studio,RED Komodo,Zeiss CP.3 50mm T2.1,Creamsource Vortex8,307278
+pub,high,extérieur,RED Komodo,Zeiss CP.3 50mm T2.1,Creamsource Vortex8,448935
+court-métrage,high,intérieur,Canon C70,Sony G Master 35mm f/1.4,Creamsource Vortex8,328122
+pub,high,extérieur,Blackmagic URSA Mini Pro 12K,Canon L 24-70mm f/2.8,Aputure 300x,372262
+court-métrage,high,studio,RED Komodo,Canon CN-E 85mm T1.3,Litepanels Gemini 2x1,191340
+court-métrage,low,extérieur,Nikon Z30,Viltrox 23mm f/1.4,Ring Light,3405
+pub,low,intérieur,Sony A6400,Canon 50mm f/1.8,Ring Light,3070
+pub,medium,studio,Canon R6,Tamron 28-75mm,SmallRig RC120B,8218
+interview,medium,extérieur,Fujifilm X-H2,Canon RF 24-70mm,Godox SL60W,8262
+pub,low,studio,Blackmagic Pocket Cinema Camera HD,Kit 18-55mm,Ulanzi VL49,2722
+documentaire,low,extérieur,Canon M50,Yongnuo 35mm f/2,Neewer LED Panel,3299
+clip,medium,extérieur,Fujifilm X-H2,Tamron 28-75mm,Aputure AL-MC RGB,6937
+interview,high,extérieur,Canon C70,ARRI Signature Prime 35mm,Aputure 300x,266435
+documentaire,low,studio,Sony A6400,Viltrox 23mm f/1.4,Ulanzi VL49,3209
+documentaire,low,studio,Panasonic G7,Canon 50mm f/1.8,Andoer 660 LED,1765
+pub,low,intérieur,Panasonic G7,Meike 25mm T2.2,Ulanzi VL49,2859
+interview,low,intérieur,Nikon Z30,Yongnuo 35mm f/2,Neewer LED Panel,1970
+pub,high,studio,RED Komodo,Leica Summilux-C 29mm,Astera Titan Tube,119524
+documentaire,high,extérieur,Sony FX6,Leica Summilux-C 29mm,Aputure 300x,469717
+documentaire,high,intérieur,ARRI Alexa Mini,Leica Summilux-C 29mm,Astera Titan Tube,395949
+court-métrage,low,studio,Canon M50,Meike 25mm T2.2,Andoer 660 LED,2397
+clip,high,extérieur,Canon C70,Leica Summilux-C 29mm,Nanlite Forza 300,482734
+court-métrage,high,studio,RED Komodo,Canon L 24-70mm f/2.8,Litepanels Gemini 2x1,222393
+interview,high,intérieur,ARRI Alexa Mini,Zeiss CP.3 50mm T2.1,ARRI SkyPanel S60,92873
+court-métrage,high,studio,Canon C70,Canon CN-E 85mm T1.3,Aputure 300x,447753
+pub,medium,studio,Canon R6,Sigma 30mm f/1.4,Aputure AL-MC RGB,7055
+court-métrage,medium,extérieur,Nikon Z6 II,Tamron 28-75mm,Godox SL60W,6295
+pub,low,studio,Nikon Z30,Kit 18-55mm,Neewer LED Panel,3911
+court-métrage,low,studio,Panasonic G7,Meike 25mm T2.2,Ring Light,2550
+court-métrage,medium,studio,Blackmagic Pocket 4K,Sony 18-105mm f/4 G,Aputure Amaran 100x,8358
+documentaire,high,extérieur,Canon C70,ARRI Signature Prime 35mm,Litepanels Gemini 2x1,313688
+clip,high,intérieur,Sony FX6,Leica Summilux-C 29mm,ARRI SkyPanel S60,137871
+documentaire,high,intérieur,Sony VENICE,Canon CN-E 85mm T1.3,Nanlite Forza 300,406134
+clip,medium,intérieur,Sony FX30,Sigma 24-70mm f/2.8,FalconEyes RX-18T,4637
+pub,medium,intérieur,Panasonic GH6,Canon RF 24-70mm,Nanlite PavoTube 6C,8107
+clip,medium,extérieur,Blackmagic Pocket 4K,Canon RF 24-70mm,Godox SL60W,4511
+interview,low,extérieur,Blackmagic Pocket Cinema Camera HD,Sigma 16mm f/1.4,Ulanzi VL49,3195
+documentaire,low,extérieur,Canon M50,Kit 18-55mm,GVM LED RGB,3557
+court-métrage,low,extérieur,Fujifilm X-T200,Canon 50mm f/1.8,Softbox 135W,2773
+pub,medium,extérieur,Panasonic GH6,Sony 18-105mm f/4 G,FalconEyes RX-18T,8427
+court-métrage,medium,intérieur,Nikon Z6 II,Tokina 11-20mm f/2.8,Godox SL60W,5650
+interview,medium,intérieur,Sony FX30,Sigma 30mm f/1.4,Godox SL60W,8901
+pub,high,extérieur,Canon C70,ARRI Signature Prime 35mm,Litepanels Gemini 2x1,173785
+pub,high,intérieur,RED Komodo,Sony G Master 35mm f/1.4,Litepanels Gemini 2x1,412990
+documentaire,high,studio,Sony VENICE,Leica Summilux-C 29mm,Nanlite Forza 300,41396
+pub,high,extérieur,ARRI Alexa Mini,Canon CN-E 85mm T1.3,ARRI SkyPanel S60,197849
+documentaire,medium,studio,Canon R6,Canon RF 24-70mm,SmallRig RC120B,7293
+court-métrage,low,intérieur,Blackmagic Pocket Cinema Camera HD,Canon 50mm f/1.8,Ulanzi VL49,2019
+clip,high,extérieur,RED Komodo,Canon L 24-70mm f/2.8,Litepanels Gemini 2x1,451471
+documentaire,low,extérieur,Canon M50,Kit 18-55mm,Ring Light,2729
+documentaire,high,extérieur,ARRI Alexa Mini,ARRI Signature Prime 35mm,Creamsource Vortex8,125685
+documentaire,medium,extérieur,Canon R6,Sigma 30mm f/1.4,FalconEyes RX-18T,6903
+court-métrage,medium,intérieur,Canon R6,Tamron 28-75mm,Godox SL60W,7621
+documentaire,medium,studio,Fujifilm X-H2,Canon RF 24-70mm,FalconEyes RX-18T,5215
+documentaire,medium,extérieur,Nikon Z6 II,Sigma 24-70mm f/2.8,Nanlite PavoTube 6C,9345
+clip,medium,studio,Sony A7 IV,Sony 18-105mm f/4 G,SmallRig RC120B,8364
+clip,high,studio,Canon C70,Sony G Master 35mm f/1.4,Astera Titan Tube,476975
+documentaire,medium,extérieur,Blackmagic Pocket 4K,Sigma 24-70mm f/2.8,Aputure AL-MC RGB,5846
+clip,low,intérieur,Blackmagic Pocket Cinema Camera HD,Meike 25mm T2.2,Andoer 660 LED,3834
+documentaire,high,extérieur,Sony VENICE,Leica Summilux-C 29mm,Creamsource Vortex8,137984
+pub,low,extérieur,Canon M50,Sigma 16mm f/1.4,Andoer 660 LED,3682
+court-métrage,medium,intérieur,Canon R6,Canon RF 24-70mm,Nanlite PavoTube 6C,9777
+clip,medium,studio,Blackmagic Pocket 4K,Tamron 28-75mm,SmallRig RC120B,9318
+court-métrage,medium,intérieur,Sony FX30,Sony 18-105mm f/4 G,Nanlite PavoTube 6C,7063
+interview,high,extérieur,RED Komodo,Canon L 24-70mm f/2.8,ARRI SkyPanel S60,32766
+clip,medium,extérieur,Fujifilm X-H2,Sony 18-105mm f/4 G,Aputure AL-MC RGB,8982
+clip,high,intérieur,ARRI Alexa Mini,Leica Summilux-C 29mm,ARRI SkyPanel S60,498568
+court-métrage,medium,intérieur,Fujifilm X-H2,Canon RF 24-70mm,Aputure AL-MC RGB,8463
+court-métrage,medium,extérieur,Canon R6,Sigma 24-70mm f/2.8,Nanlite PavoTube 6C,9912
+court-métrage,medium,extérieur,Canon R6,Sigma 24-70mm f/2.8,Godox SL60W,6348
+interview,medium,studio,Fujifilm X-H2,Sigma 24-70mm f/2.8,SmallRig RC120B,8132
+documentaire,medium,extérieur,Sony A7 IV,Canon RF 24-70mm,SmallRig RC120B,8677
+court-métrage,high,intérieur,Canon C70,Canon L 24-70mm f/2.8,Aputure 300x,476709
+pub,low,extérieur,Panasonic G7,Kit 18-55mm,GVM LED RGB,2284
+interview,low,intérieur,Canon M50,Sigma 16mm f/1.4,Softbox 135W,3513
+documentaire,low,extérieur,Blackmagic Pocket Cinema Camera HD,Canon 50mm f/1.8,GVM LED RGB,2462
+interview,medium,intérieur,Panasonic GH6,Canon RF 24-70mm,Aputure AL-MC RGB,7947
+documentaire,high,studio,RED Komodo,Zeiss CP.3 50mm T2.1,Astera Titan Tube,323999
+clip,low,studio,Sony A6400,Canon 50mm f/1.8,Andoer 660 LED,2423
+clip,high,studio,RED Komodo,Zeiss CP.3 50mm T2.1,Creamsource Vortex8,250470
+pub,medium,extérieur,Nikon Z6 II,Sony 18-105mm f/4 G,Nanlite PavoTube 6C,6238
+documentaire,medium,studio,Nikon Z6 II,Tokina 11-20mm f/2.8,Godox SL60W,8298
+interview,high,intérieur,RED Komodo,Canon L 24-70mm f/2.8,Litepanels Gemini 2x1,134768
+clip,high,intérieur,Sony VENICE,Sony G Master 35mm f/1.4,Nanlite Forza 300,159940
+documentaire,high,extérieur,Canon C70,Zeiss CP.3 50mm T2.1,ARRI SkyPanel S60,256811
+court-métrage,high,intérieur,Blackmagic URSA Mini Pro 12K,Sony G Master 35mm f/1.4,Aputure 300x,255237
+court-métrage,low,extérieur,Panasonic G7,Yongnuo 35mm f/2,Ring Light,3400
+pub,low,intérieur,Sony A6400,Yongnuo 35mm f/2,Ring Light,2116
+pub,low,intérieur,Panasonic G7,Meike 25mm T2.2,GVM LED RGB,2462
+documentaire,low,intérieur,Canon M50,Yongnuo 35mm f/2,Ring Light,3562
+court-métrage,low,extérieur,Sony A6400,Canon 50mm f/1.8,Andoer 660 LED,3810
+interview,medium,extérieur,Fujifilm X-H2,Sigma 24-70mm f/2.8,Godox SL60W,6425
+documentaire,medium,studio,Fujifilm X-H2,Tokina 11-20mm f/2.8,Nanlite PavoTube 6C,7773
+clip,low,extérieur,Nikon Z30,Sigma 16mm f/1.4,GVM LED RGB,2346
+interview,high,studio,ARRI Alexa Mini,ARRI Signature Prime 35mm,Litepanels Gemini 2x1,485819
+documentaire,high,studio,Blackmagic URSA Mini Pro 12K,Canon CN-E 85mm T1.3,Creamsource Vortex8,230091
+clip,medium,studio,Nikon Z6 II,Canon RF 24-70mm,Aputure AL-MC RGB,6476
+pub,high,extérieur,Sony FX6,Zeiss CP.3 50mm T2.1,Nanlite Forza 300,87799
+court-métrage,low,extérieur,Canon M50,Kit 18-55mm,Softbox 135W,1566
+pub,medium,extérieur,Panasonic GH6,Tokina 11-20mm f/2.8,Godox SL60W,7777
+documentaire,medium,extérieur,Blackmagic Pocket 4K,Tamron 28-75mm,Aputure AL-MC RGB,9634
+pub,high,studio,ARRI Alexa Mini,Leica Summilux-C 29mm,ARRI SkyPanel S60,228324
+pub,high,extérieur,ARRI Alexa Mini,Zeiss CP.3 50mm T2.1,Nanlite Forza 300,409460
+documentaire,medium,intérieur,Canon R6,Tamron 28-75mm,Godox SL60W,9534
+documentaire,low,studio,Nikon Z30,Kit 18-55mm,Ulanzi VL49,3764
+clip,low,extérieur,Panasonic G7,Kit 18-55mm,GVM LED RGB,1507
+clip,high,intérieur,RED Komodo,Canon CN-E 85mm T1.3,ARRI SkyPanel S60,153317
+pub,medium,extérieur,Canon R6,Tokina 11-20mm f/2.8,Aputure AL-MC RGB,8572
+pub,low,studio,Panasonic G7,Sigma 16mm f/1.4,Softbox 135W,1818
+court-métrage,medium,intérieur,Panasonic GH6,Sigma 24-70mm f/2.8,Aputure AL-MC RGB,5728
+pub,high,studio,Sony FX6,Canon L 24-70mm f/2.8,Creamsource Vortex8,316365
+pub,low,intérieur,Panasonic G7,Canon 50mm f/1.8,Ring Light,2095
+pub,high,studio,RED Komodo,Sony G Master 35mm f/1.4,Astera Titan Tube,430595
+documentaire,high,extérieur,ARRI Alexa Mini,Canon CN-E 85mm T1.3,Astera Titan Tube,24678
+clip,low,extérieur,Sony A6400,Meike 25mm T2.2,Ring Light,3372
+clip,low,intérieur,Canon M50,Viltrox 23mm f/1.4,Ring Light,2883
+clip,low,studio,Fujifilm X-T200,Kit 18-55mm,Ulanzi VL49,1758
+court-métrage,low,studio,Fujifilm X-T200,Kit 18-55mm,Ulanzi VL49,2710
+interview,high,studio,Sony FX6,ARRI Signature Prime 35mm,Aputure 300x,292035
+pub,high,extérieur,RED Komodo,Zeiss CP.3 50mm T2.1,ARRI SkyPanel S60,109549
+pub,low,studio,Sony A6400,Meike 25mm T2.2,Ulanzi VL49,3887
+court-métrage,medium,extérieur,Blackmagic Pocket 4K,Sigma 24-70mm f/2.8,Godox SL60W,7362
+court-métrage,medium,studio,Sony FX30,Tokina 11-20mm f/2.8,Godox SL60W,7845
+pub,medium,studio,Sony A7 IV,Tokina 11-20mm f/2.8,Nanlite PavoTube 6C,8253
+pub,low,intérieur,Sony A6400,Canon 50mm f/1.8,Ring Light,2338
+clip,low,intérieur,Blackmagic Pocket Cinema Camera HD,Canon 50mm f/1.8,Softbox 135W,2153
+interview,high,intérieur,ARRI Alexa Mini,Zeiss CP.3 50mm T2.1,Aputure 300x,77697
+pub,low,studio,Canon M50,Meike 25mm T2.2,Neewer LED Panel,3143
+clip,medium,extérieur,Sony A7 IV,Sony 18-105mm f/4 G,SmallRig RC120B,7725
+court-métrage,low,studio,Blackmagic Pocket Cinema Camera HD,Yongnuo 35mm f/2,Andoer 660 LED,3578
+court-métrage,medium,intérieur,Sony A7 IV,Sigma 24-70mm f/2.8,Nanlite PavoTube 6C,6245
+clip,high,intérieur,Blackmagic URSA Mini Pro 12K,Canon L 24-70mm f/2.8,Astera Titan Tube,375311
+documentaire,high,extérieur,Blackmagic URSA Mini Pro 12K,Canon CN-E 85mm T1.3,Astera Titan Tube,123406
+pub,medium,studio,Nikon Z6 II,Canon RF 24-70mm,FalconEyes RX-18T,4709
+clip,medium,studio,Sony A7 IV,Tamron 28-75mm,Aputure Amaran 100x,8246
+clip,high,extérieur,ARRI Alexa Mini,Sony G Master 35mm f/1.4,Astera Titan Tube,109160
+documentaire,medium,intérieur,Blackmagic Pocket 4K,Sigma 30mm f/1.4,Godox SL60W,6637
+clip,high,studio,Sony FX6,Sony G Master 35mm f/1.4,Litepanels Gemini 2x1,82126
+interview,low,studio,Sony A6400,Yongnuo 35mm f/2,Andoer 660 LED,1949
+interview,low,intérieur,Nikon Z30,Sigma 16mm f/1.4,Ring Light,3105
+pub,medium,studio,Sony FX30,Tamron 28-75mm,Aputure AL-MC RGB,6985
+interview,high,intérieur,Sony VENICE,Canon L 24-70mm f/2.8,Litepanels Gemini 2x1,84017
+interview,low,studio,Nikon Z30,Kit 18-55mm,Ulanzi VL49,3790
+interview,high,intérieur,Sony FX6,Sony G Master 35mm f/1.4,ARRI SkyPanel S60,23430
+interview,low,extérieur,Panasonic G7,Yongnuo 35mm f/2,Neewer LED Panel,2843
+documentaire,medium,studio,Nikon Z6 II,Tamron 28-75mm,Godox SL60W,8844
+clip,medium,extérieur,Panasonic GH6,Sony 18-105mm f/4 G,FalconEyes RX-18T,6996
+interview,medium,extérieur,Nikon Z6 II,Sigma 24-70mm f/2.8,SmallRig RC120B,6676
+pub,medium,extérieur,Sony A7 IV,Tamron 28-75mm,FalconEyes RX-18T,8815
+interview,medium,extérieur,Fujifilm X-H2,Sony 18-105mm f/4 G,Aputure AL-MC RGB,6167
+documentaire,medium,intérieur,Blackmagic Pocket 4K,Sigma 24-70mm f/2.8,FalconEyes RX-18T,4660
+court-métrage,low,intérieur,Nikon Z30,Meike 25mm T2.2,Andoer 660 LED,3377
+clip,high,intérieur,Canon C70,Sony G Master 35mm f/1.4,Aputure 300x,305932
+clip,low,studio,Canon M50,Canon 50mm f/1.8,Softbox 135W,3833
+interview,medium,extérieur,Fujifilm X-H2,Sony 18-105mm f/4 G,Godox SL60W,6605
+interview,low,studio,Panasonic G7,Viltrox 23mm f/1.4,Softbox 135W,2246
+pub,low,extérieur,Canon M50,Sigma 16mm f/1.4,Ring Light,2659
+clip,high,extérieur,ARRI Alexa Mini,Canon CN-E 85mm T1.3,Creamsource Vortex8,249687
+pub,high,extérieur,Blackmagic URSA Mini Pro 12K,Canon L 24-70mm f/2.8,Aputure 300x,215808
+interview,high,extérieur,Sony FX6,ARRI Signature Prime 35mm,ARRI SkyPanel S60,286590
+clip,low,studio,Nikon Z30,Yongnuo 35mm f/2,GVM LED RGB,1805
+pub,medium,studio,Blackmagic Pocket 4K,Sigma 30mm f/1.4,FalconEyes RX-18T,8615
+court-métrage,high,studio,ARRI Alexa Mini,Canon CN-E 85mm T1.3,Astera Titan Tube,40276
+interview,high,extérieur,RED Komodo,Sony G Master 35mm f/1.4,Astera Titan Tube,70223
+interview,medium,extérieur,Fujifilm X-H2,Canon RF 24-70mm,Nanlite PavoTube 6C,5075
+clip,high,extérieur,Blackmagic URSA Mini Pro 12K,Zeiss CP.3 50mm T2.1,Nanlite Forza 300,97723
+pub,medium,studio,Canon R6,Sony 18-105mm f/4 G,Nanlite PavoTube 6C,5325
+pub,low,studio,Fujifilm X-T200,Kit 18-55mm,Ulanzi VL49,2871
+documentaire,medium,studio,Blackmagic Pocket 4K,Tokina 11-20mm f/2.8,FalconEyes RX-18T,5212
+documentaire,low,intérieur,Nikon Z30,Kit 18-55mm,Andoer 660 LED,2546
+court-métrage,high,studio,Sony VENICE,Canon CN-E 85mm T1.3,ARRI SkyPanel S60,78935
+court-métrage,medium,extérieur,Sony FX30,Canon RF 24-70mm,Godox SL60W,7822
+clip,high,extérieur,RED Komodo,ARRI Signature Prime 35mm,Litepanels Gemini 2x1,74934
+pub,low,intérieur,Panasonic G7,Sigma 16mm f/1.4,Andoer 660 LED,3650
+interview,low,studio,Fujifilm X-T200,Kit 18-55mm,Ring Light,3547
+pub,low,intérieur,Canon M50,Canon 50mm f/1.8,Softbox 135W,2294
+documentaire,medium,extérieur,Panasonic GH6,Tamron 28-75mm,Godox SL60W,8412
+clip,low,extérieur,Canon M50,Sigma 16mm f/1.4,Ulanzi VL49,2195
+documentaire,low,studio,Canon M50,Kit 18-55mm,Ring Light,3452
+interview,high,studio,RED Komodo,Zeiss CP.3 50mm T2.1,Creamsource Vortex8,372617
+court-métrage,low,intérieur,Canon M50,Sigma 16mm f/1.4,Ulanzi VL49,2193
+pub,low,studio,Nikon Z30,Canon 50mm f/1.8,Ulanzi VL49,1682
+pub,low,intérieur,Canon M50,Canon 50mm f/1.8,Ring Light,3005
+clip,high,studio,Canon C70,Leica Summilux-C 29mm,Creamsource Vortex8,423051
+court-métrage,medium,studio,Fujifilm X-H2,Canon RF 24-70mm,Aputure Amaran 100x,5434
+interview,medium,extérieur,Blackmagic Pocket 4K,Canon RF 24-70mm,FalconEyes RX-18T,8914
+clip,low,studio,Panasonic G7,Kit 18-55mm,Ulanzi VL49,3423
+interview,medium,extérieur,Sony A7 IV,Tamron 28-75mm,Aputure AL-MC RGB,9868
+court-métrage,low,extérieur,Blackmagic Pocket Cinema Camera HD,Kit 18-55mm,Neewer LED Panel,1764
+documentaire,high,extérieur,RED Komodo,Canon CN-E 85mm T1.3,Litepanels Gemini 2x1,316031
+interview,low,studio,Nikon Z30,Canon 50mm f/1.8,Softbox 135W,2323
+court-métrage,low,intérieur,Panasonic G7,Yongnuo 35mm f/2,Ring Light,3517
+pub,medium,extérieur,Fujifilm X-H2,Canon RF 24-70mm,FalconEyes RX-18T,5726
+clip,medium,intérieur,Canon R6,Sigma 30mm f/1.4,Nanlite PavoTube 6C,5321
+documentaire,high,extérieur,Canon C70,Sony G Master 35mm f/1.4,Nanlite Forza 300,107742
+interview,medium,intérieur,Blackmagic Pocket 4K,Tokina 11-20mm f/2.8,FalconEyes RX-18T,5722
+documentaire,medium,extérieur,Panasonic GH6,Sony 18-105mm f/4 G,SmallRig RC120B,9195
+documentaire,high,extérieur,Sony FX6,ARRI Signature Prime 35mm,Astera Titan Tube,17832
+pub,high,intérieur,ARRI Alexa Mini,Zeiss CP.3 50mm T2.1,Litepanels Gemini 2x1,46449
+pub,medium,intérieur,Nikon Z6 II,Sony 18-105mm f/4 G,Aputure Amaran 100x,7469
+court-métrage,medium,studio,Blackmagic Pocket 4K,Tokina 11-20mm f/2.8,FalconEyes RX-18T,8296
+interview,low,intérieur,Nikon Z30,Meike 25mm T2.2,GVM LED RGB,2562
+court-métrage,medium,studio,Fujifilm X-H2,Sony 18-105mm f/4 G,Nanlite PavoTube 6C,7449
+court-métrage,low,intérieur,Nikon Z30,Sigma 16mm f/1.4,GVM LED RGB,2453
+interview,medium,extérieur,Sony FX30,Sony 18-105mm f/4 G,Aputure AL-MC RGB,9689
+pub,medium,extérieur,Sony A7 IV,Tamron 28-75mm,Nanlite PavoTube 6C,6143
+court-métrage,high,extérieur,Blackmagic URSA Mini Pro 12K,Sony G Master 35mm f/1.4,Astera Titan Tube,385093
+interview,high,intérieur,Blackmagic URSA Mini Pro 12K,Sony G Master 35mm f/1.4,Aputure 300x,86850
+clip,high,extérieur,Canon C70,ARRI Signature Prime 35mm,Nanlite Forza 300,162457
+documentaire,high,intérieur,Canon C70,Sony G Master 35mm f/1.4,Litepanels Gemini 2x1,455817
+clip,medium,intérieur,Nikon Z6 II,Canon RF 24-70mm,Nanlite PavoTube 6C,7873
+pub,medium,studio,Fujifilm X-H2,Tamron 28-75mm,Godox SL60W,5503
+interview,low,intérieur,Blackmagic Pocket Cinema Camera HD,Canon 50mm f/1.8,Andoer 660 LED,2929
+interview,high,studio,Sony FX6,Canon L 24-70mm f/2.8,Nanlite Forza 300,309481
+pub,medium,extérieur,Panasonic GH6,Sony 18-105mm f/4 G,Godox SL60W,7575
+documentaire,medium,intérieur,Blackmagic Pocket 4K,Sigma 30mm f/1.4,Nanlite PavoTube 6C,8170
+pub,medium,studio,Blackmagic Pocket 4K,Tamron 28-75mm,FalconEyes RX-18T,5581
+interview,medium,studio,Panasonic GH6,Tamron 28-75mm,Aputure AL-MC RGB,9077
+interview,medium,intérieur,Blackmagic Pocket 4K,Tokina 11-20mm f/2.8,Nanlite PavoTube 6C,6922
+documentaire,low,intérieur,Canon M50,Sigma 16mm f/1.4,GVM LED RGB,2483
+documentaire,low,studio,Blackmagic Pocket Cinema Camera HD,Meike 25mm T2.2,GVM LED RGB,2425
+interview,low,intérieur,Sony A6400,Sigma 16mm f/1.4,GVM LED RGB,2408
+pub,high,intérieur,ARRI Alexa Mini,Leica Summilux-C 29mm,Nanlite Forza 300,361873
+interview,low,extérieur,Sony A6400,Meike 25mm T2.2,Softbox 135W,2076
+clip,low,extérieur,Nikon Z30,Meike 25mm T2.2,Ring Light,1934
+clip,medium,extérieur,Sony FX30,Sony 18-105mm f/4 G,Nanlite PavoTube 6C,8478
+court-métrage,low,extérieur,Nikon Z30,Yongnuo 35mm f/2,Softbox 135W,2941
+clip,medium,intérieur,Fujifilm X-H2,Sony 18-105mm f/4 G,SmallRig RC120B,8664
+pub,high,studio,RED Komodo,Leica Summilux-C 29mm,Litepanels Gemini 2x1,49814
+clip,low,intérieur,Nikon Z30,Kit 18-55mm,Neewer LED Panel,2377
+interview,medium,studio,Nikon Z6 II,Tokina 11-20mm f/2.8,SmallRig RC120B,6763
+pub,low,intérieur,Blackmagic Pocket Cinema Camera HD,Kit 18-55mm,Neewer LED Panel,1824
+documentaire,high,intérieur,Sony FX6,ARRI Signature Prime 35mm,ARRI SkyPanel S60,69598
+interview,low,intérieur,Panasonic G7,Kit 18-55mm,Andoer 660 LED,2143
+interview,high,studio,RED Komodo,Sony G Master 35mm f/1.4,Creamsource Vortex8,325227
+pub,low,intérieur,Canon M50,Meike 25mm T2.2,Ring Light,2719
+documentaire,medium,extérieur,Blackmagic Pocket 4K,Sigma 24-70mm f/2.8,Godox SL60W,8250
+clip,low,intérieur,Blackmagic Pocket Cinema Camera HD,Viltrox 23mm f/1.4,Softbox 135W,3375
+pub,low,extérieur,Sony A6400,Kit 18-55mm,Andoer 660 LED,2782
+court-métrage,high,intérieur,Sony FX6,Canon L 24-70mm f/2.8,Litepanels Gemini 2x1,340511
+court-métrage,low,extérieur,Nikon Z30,Canon 50mm f/1.8,Ulanzi VL49,2541
+documentaire,medium,studio,Canon R6,Sigma 24-70mm f/2.8,SmallRig RC120B,8032
+documentaire,medium,intérieur,Canon R6,Sigma 24-70mm f/2.8,SmallRig RC120B,5506
+clip,high,extérieur,Blackmagic URSA Mini Pro 12K,Leica Summilux-C 29mm,Creamsource Vortex8,416072
+clip,medium,intérieur,Nikon Z6 II,Sigma 30mm f/1.4,Aputure Amaran 100x,6957
+documentaire,medium,intérieur,Nikon Z6 II,Sigma 24-70mm f/2.8,SmallRig RC120B,8560
+court-métrage,high,extérieur,Canon C70,Zeiss CP.3 50mm T2.1,Nanlite Forza 300,419025
+interview,high,intérieur,Sony VENICE,Zeiss CP.3 50mm T2.1,Aputure 300x,166626
+court-métrage,high,intérieur,ARRI Alexa Mini,Canon L 24-70mm f/2.8,Nanlite Forza 300,273809
+court-métrage,high,intérieur,Blackmagic URSA Mini Pro 12K,Canon CN-E 85mm T1.3,Aputure 300x,179545
+interview,low,studio,Nikon Z30,Kit 18-55mm,Andoer 660 LED,2723
+documentaire,high,extérieur,Sony FX6,Canon L 24-70mm f/2.8,Aputure 300x,245464
+clip,low,studio,Blackmagic Pocket Cinema Camera HD,Meike 25mm T2.2,Ring Light,2854
+pub,low,intérieur,Canon M50,Viltrox 23mm f/1.4,Neewer LED Panel,3565
+pub,high,studio,RED Komodo,Zeiss CP.3 50mm T2.1,Litepanels Gemini 2x1,288567
+clip,low,studio,Nikon Z30,Yongnuo 35mm f/2,Ring Light,3309
+court-métrage,low,studio,Panasonic G7,Kit 18-55mm,Andoer 660 LED,3276
+court-métrage,low,intérieur,Sony A6400,Sigma 16mm f/1.4,Andoer 660 LED,1565
+clip,medium,extérieur,Canon R6,Tamron 28-75mm,Aputure Amaran 100x,5273
+documentaire,low,extérieur,Canon M50,Canon 50mm f/1.8,Andoer 660 LED,1780
+clip,high,extérieur,Blackmagic URSA Mini Pro 12K,Zeiss CP.3 50mm T2.1,Nanlite Forza 300,348571
+court-métrage,high,intérieur,Sony FX6,Canon L 24-70mm f/2.8,Nanlite Forza 300,208219
+documentaire,high,studio,Blackmagic URSA Mini Pro 12K,Canon L 24-70mm f/2.8,ARRI SkyPanel S60,461245
+court-métrage,low,intérieur,Sony A6400,Sigma 16mm f/1.4,Andoer 660 LED,3077
+documentaire,low,intérieur,Blackmagic Pocket Cinema Camera HD,Viltrox 23mm f/1.4,Neewer LED Panel,3924
+clip,medium,intérieur,Sony FX30,Tamron 28-75mm,SmallRig RC120B,8431
+documentaire,high,extérieur,Canon C70,Canon CN-E 85mm T1.3,Creamsource Vortex8,374383
+interview,low,intérieur,Sony A6400,Kit 18-55mm,GVM LED RGB,3267
+pub,low,extérieur,Fujifilm X-T200,Meike 25mm T2.2,Softbox 135W,3994
+court-métrage,high,extérieur,Sony FX6,Canon L 24-70mm f/2.8,Litepanels Gemini 2x1,22890
+interview,high,studio,Blackmagic URSA Mini Pro 12K,Canon L 24-70mm f/2.8,Litepanels Gemini 2x1,322723
+pub,high,intérieur,Blackmagic URSA Mini Pro 12K,Zeiss CP.3 50mm T2.1,Creamsource Vortex8,497583
+documentaire,medium,extérieur,Sony FX30,Tamron 28-75mm,Aputure Amaran 100x,9227
+clip,medium,studio,Sony A7 IV,Sigma 24-70mm f/2.8,Nanlite PavoTube 6C,9121
+documentaire,medium,intérieur,Sony A7 IV,Sony 18-105mm f/4 G,FalconEyes RX-18T,9011
+court-métrage,medium,studio,Panasonic GH6,Sigma 24-70mm f/2.8,Aputure AL-MC RGB,9880
+clip,high,intérieur,Sony FX6,Leica Summilux-C 29mm,Creamsource Vortex8,154099
+interview,high,intérieur,Canon C70,Canon CN-E 85mm T1.3,Astera Titan Tube,198369
+documentaire,high,extérieur,Sony VENICE,ARRI Signature Prime 35mm,Nanlite Forza 300,438175
+clip,low,extérieur,Sony A6400,Viltrox 23mm f/1.4,Softbox 135W,3588
+pub,medium,extérieur,Canon R6,Sigma 24-70mm f/2.8,SmallRig RC120B,7949
+interview,high,extérieur,Sony VENICE,Canon CN-E 85mm T1.3,Litepanels Gemini 2x1,340688
+clip,low,studio,Sony A6400,Viltrox 23mm f/1.4,Softbox 135W,1970
+court-métrage,medium,studio,Nikon Z6 II,Tokina 11-20mm f/2.8,Aputure AL-MC RGB,9280
+interview,low,intérieur,Nikon Z30,Sigma 16mm f/1.4,GVM LED RGB,2845
+clip,high,studio,ARRI Alexa Mini,Leica Summilux-C 29mm,Astera Titan Tube,98093
+interview,low,studio,Sony A6400,Viltrox 23mm f/1.4,Ulanzi VL49,2517
+pub,high,extérieur,Sony VENICE,Canon L 24-70mm f/2.8,Nanlite Forza 300,113009
+court-métrage,low,studio,Fujifilm X-T200,Viltrox 23mm f/1.4,Andoer 660 LED,2890
+clip,low,extérieur,Fujifilm X-T200,Kit 18-55mm,Andoer 660 LED,2440
+interview,medium,studio,Sony A7 IV,Canon RF 24-70mm,Aputure AL-MC RGB,6821
+documentaire,low,studio,Fujifilm X-T200,Yongnuo 35mm f/2,Andoer 660 LED,3866
+interview,medium,studio,Fujifilm X-H2,Tamron 28-75mm,Aputure Amaran 100x,7465
+court-métrage,high,studio,ARRI Alexa Mini,ARRI Signature Prime 35mm,ARRI SkyPanel S60,104093
+pub,medium,studio,Sony FX30,Tamron 28-75mm,Aputure AL-MC RGB,6339
+documentaire,medium,studio,Nikon Z6 II,Tokina 11-20mm f/2.8,Aputure Amaran 100x,6700
+clip,low,intérieur,Fujifilm X-T200,Meike 25mm T2.2,Ring Light,3205
+clip,high,studio,Blackmagic URSA Mini Pro 12K,ARRI Signature Prime 35mm,Aputure 300x,460167
+clip,low,studio,Nikon Z30,Meike 25mm T2.2,Ring Light,2620
+court-métrage,high,studio,Canon C70,ARRI Signature Prime 35mm,Litepanels Gemini 2x1,59431
+court-métrage,high,studio,Blackmagic URSA Mini Pro 12K,Zeiss CP.3 50mm T2.1,Astera Titan Tube,418629
+interview,low,intérieur,Canon M50,Yongnuo 35mm f/2,Ring Light,2824
+clip,medium,extérieur,Panasonic GH6,Sigma 24-70mm f/2.8,Nanlite PavoTube 6C,7486
+interview,high,intérieur,RED Komodo,Canon CN-E 85mm T1.3,Astera Titan Tube,292594
+interview,high,studio,Sony FX6,Canon CN-E 85mm T1.3,Aputure 300x,289408
+documentaire,low,intérieur,Blackmagic Pocket Cinema Camera HD,Canon 50mm f/1.8,Andoer 660 LED,1732
+documentaire,low,studio,Blackmagic Pocket Cinema Camera HD,Viltrox 23mm f/1.4,Andoer 660 LED,3880
+clip,low,studio,Nikon Z30,Meike 25mm T2.2,Softbox 135W,3998
+documentaire,low,intérieur,Panasonic G7,Canon 50mm f/1.8,Ring Light,2008
+court-métrage,medium,studio,Nikon Z6 II,Sigma 30mm f/1.4,Aputure AL-MC RGB,5958
+clip,low,intérieur,Nikon Z30,Yongnuo 35mm f/2,Ulanzi VL49,3524
+pub,medium,studio,Canon R6,Tamron 28-75mm,Aputure AL-MC RGB,9871
+court-métrage,low,studio,Canon M50,Meike 25mm T2.2,Andoer 660 LED,1775
+court-métrage,low,extérieur,Sony A6400,Yongnuo 35mm f/2,Softbox 135W,3504
+court-métrage,low,extérieur,Blackmagic Pocket Cinema Camera HD,Sigma 16mm f/1.4,GVM LED RGB,3074
+interview,medium,extérieur,Blackmagic Pocket 4K,Tamron 28-75mm,FalconEyes RX-18T,8688
+clip,high,studio,Canon C70,ARRI Signature Prime 35mm,Creamsource Vortex8,386046
+pub,medium,intérieur,Canon R6,Tamron 28-75mm,Nanlite PavoTube 6C,5177
+court-métrage,low,studio,Nikon Z30,Kit 18-55mm,Softbox 135W,3383
+interview,low,studio,Panasonic G7,Sigma 16mm f/1.4,Andoer 660 LED,2911
+interview,medium,intérieur,Nikon Z6 II,Tamron 28-75mm,Godox SL60W,5761
+court-métrage,medium,extérieur,Canon R6,Canon RF 24-70mm,Aputure AL-MC RGB,7507
+court-métrage,low,intérieur,Canon M50,Sigma 16mm f/1.4,Softbox 135W,3462
+court-métrage,medium,intérieur,Sony A7 IV,Sigma 30mm f/1.4,Aputure Amaran 100x,5619
+documentaire,medium,studio,Blackmagic Pocket 4K,Canon RF 24-70mm,FalconEyes RX-18T,4798
+court-métrage,high,extérieur,Canon C70,Canon L 24-70mm f/2.8,Astera Titan Tube,132035
+court-métrage,high,studio,Canon C70,Leica Summilux-C 29mm,Nanlite Forza 300,42021
+documentaire,medium,intérieur,Panasonic GH6,Canon RF 24-70mm,SmallRig RC120B,6895
+court-métrage,low,intérieur,Fujifilm X-T200,Kit 18-55mm,Softbox 135W,2431
+documentaire,high,intérieur,RED Komodo,Sony G Master 35mm f/1.4,Aputure 300x,383001
+interview,high,extérieur,Sony VENICE,Zeiss CP.3 50mm T2.1,Litepanels Gemini 2x1,434418
+clip,medium,extérieur,Blackmagic Pocket 4K,Tokina 11-20mm f/2.8,Aputure AL-MC RGB,6628
+documentaire,low,extérieur,Blackmagic Pocket Cinema Camera HD,Kit 18-55mm,Ring Light,3652
+interview,high,extérieur,Sony FX6,Canon L 24-70mm f/2.8,Astera Titan Tube,376532
+pub,medium,extérieur,Fujifilm X-H2,Canon RF 24-70mm,SmallRig RC120B,9381
+clip,medium,extérieur,Sony FX30,Sigma 24-70mm f/2.8,Aputure AL-MC RGB,6776
+pub,medium,studio,Blackmagic Pocket 4K,Sigma 30mm f/1.4,Aputure Amaran 100x,6984
+documentaire,high,studio,ARRI Alexa Mini,ARRI Signature Prime 35mm,Aputure 300x,52162
+documentaire,low,studio,Sony A6400,Yongnuo 35mm f/2,GVM LED RGB,3670
+clip,high,extérieur,RED Komodo,Leica Summilux-C 29mm,Litepanels Gemini 2x1,479659
+documentaire,medium,studio,Blackmagic Pocket 4K,Tamron 28-75mm,Aputure Amaran 100x,8595
+clip,high,extérieur,ARRI Alexa Mini,Sony G Master 35mm f/1.4,Creamsource Vortex8,19210
+interview,high,intérieur,Sony VENICE,Sony G Master 35mm f/1.4,Aputure 300x,297082
+clip,medium,extérieur,Canon R6,Sigma 24-70mm f/2.8,FalconEyes RX-18T,5104
+court-métrage,medium,intérieur,Canon R6,Sigma 30mm f/1.4,SmallRig RC120B,7212
+interview,low,studio,Sony A6400,Kit 18-55mm,Softbox 135W,3794
+interview,high,extérieur,Blackmagic URSA Mini Pro 12K,Leica Summilux-C 29mm,Aputure 300x,164664
+interview,low,intérieur,Nikon Z30,Canon 50mm f/1.8,Andoer 660 LED,3604
+clip,medium,intérieur,Sony FX30,Sigma 30mm f/1.4,Godox SL60W,7387
+pub,high,intérieur,Canon C70,Canon CN-E 85mm T1.3,Astera Titan Tube,357099
+interview,low,extérieur,Blackmagic Pocket Cinema Camera HD,Canon 50mm f/1.8,Ring Light,2332
+pub,low,intérieur,Nikon Z30,Yongnuo 35mm f/2,Andoer 660 LED,3944
+court-métrage,low,intérieur,Canon M50,Viltrox 23mm f/1.4,Neewer LED Panel,2741
+interview,high,intérieur,Canon C70,Canon L 24-70mm f/2.8,Aputure 300x,279492
+interview,high,extérieur,Sony FX6,ARRI Signature Prime 35mm,ARRI SkyPanel S60,142572
+documentaire,medium,extérieur,Nikon Z6 II,Tamron 28-75mm,Nanlite PavoTube 6C,5199
+interview,low,intérieur,Fujifilm X-T200,Kit 18-55mm,Andoer 660 LED,3765
+pub,low,studio,Fujifilm X-T200,Kit 18-55mm,Softbox 135W,2433
+interview,low,extérieur,Fujifilm X-T200,Yongnuo 35mm f/2,Ulanzi VL49,3640
+clip,low,studio,Fujifilm X-T200,Meike 25mm T2.2,Ulanzi VL49,2781
+court-métrage,high,extérieur,ARRI Alexa Mini,Sony G Master 35mm f/1.4,Aputure 300x,459331
+clip,high,extérieur,Canon C70,Canon CN-E 85mm T1.3,Astera Titan Tube,489924
+interview,high,intérieur,Canon C70,Leica Summilux-C 29mm,Aputure 300x,326673
+court-métrage,medium,extérieur,Blackmagic Pocket 4K,Sony 18-105mm f/4 G,Aputure Amaran 100x,5052
+clip,high,intérieur,RED Komodo,Sony G Master 35mm f/1.4,Nanlite Forza 300,242453
+documentaire,low,intérieur,Canon M50,Viltrox 23mm f/1.4,GVM LED RGB,3430
+documentaire,medium,intérieur,Fujifilm X-H2,Canon RF 24-70mm,Aputure AL-MC RGB,4632
+pub,medium,studio,Nikon Z6 II,Sigma 24-70mm f/2.8,FalconEyes RX-18T,9205
+interview,low,studio,Canon M50,Sigma 16mm f/1.4,Neewer LED Panel,1779
+pub,low,extérieur,Nikon Z30,Sigma 16mm f/1.4,GVM LED RGB,1855
+documentaire,medium,extérieur,Fujifilm X-H2,Tokina 11-20mm f/2.8,FalconEyes RX-18T,4771
+interview,medium,intérieur,Nikon Z6 II,Tokina 11-20mm f/2.8,Godox SL60W,7682
+court-métrage,high,studio,RED Komodo,Sony G Master 35mm f/1.4,Nanlite Forza 300,71602
+documentaire,medium,extérieur,Panasonic GH6,Canon RF 24-70mm,Nanlite PavoTube 6C,6279
+documentaire,medium,studio,Fujifilm X-H2,Sony 18-105mm f/4 G,Aputure Amaran 100x,4954
+pub,high,extérieur,Sony VENICE,Canon CN-E 85mm T1.3,Aputure 300x,238218
+court-métrage,medium,intérieur,Fujifilm X-H2,Tamron 28-75mm,SmallRig RC120B,7224
+court-métrage,low,studio,Nikon Z30,Viltrox 23mm f/1.4,Ring Light,2815
+interview,medium,intérieur,Blackmagic Pocket 4K,Tokina 11-20mm f/2.8,Godox SL60W,7855
+interview,high,studio,Sony VENICE,Leica Summilux-C 29mm,Nanlite Forza 300,147837
+documentaire,low,extérieur,Sony A6400,Sigma 16mm f/1.4,Andoer 660 LED,3591
+documentaire,low,intérieur,Fujifilm X-T200,Viltrox 23mm f/1.4,Ring Light,3406
+clip,medium,studio,Blackmagic Pocket 4K,Tamron 28-75mm,Aputure AL-MC RGB,6054
+interview,high,studio,Sony FX6,Sony G Master 35mm f/1.4,Aputure 300x,497132
+documentaire,high,intérieur,Sony FX6,Canon L 24-70mm f/2.8,Aputure 300x,463072
+interview,high,intérieur,ARRI Alexa Mini,Zeiss CP.3 50mm T2.1,Astera Titan Tube,443763
+clip,high,studio,Canon C70,Sony G Master 35mm f/1.4,Nanlite Forza 300,375624
+interview,high,extérieur,Blackmagic URSA Mini Pro 12K,Leica Summilux-C 29mm,Litepanels Gemini 2x1,197251
+clip,low,intérieur,Blackmagic Pocket Cinema Camera HD,Sigma 16mm f/1.4,Andoer 660 LED,1771
+documentaire,low,extérieur,Panasonic G7,Canon 50mm f/1.8,Neewer LED Panel,3429
+pub,medium,studio,Sony A7 IV,Sony 18-105mm f/4 G,Aputure Amaran 100x,7893
+pub,medium,intérieur,Nikon Z6 II,Sony 18-105mm f/4 G,Godox SL60W,8725
+court-métrage,high,studio,Sony VENICE,Leica Summilux-C 29mm,Litepanels Gemini 2x1,167273
+court-métrage,low,extérieur,Nikon Z30,Meike 25mm T2.2,Ulanzi VL49,2187
+clip,medium,intérieur,Sony A7 IV,Sigma 30mm f/1.4,SmallRig RC120B,7573
+pub,low,studio,Panasonic G7,Canon 50mm f/1.8,Ulanzi VL49,1754
+documentaire,medium,studio,Sony A7 IV,Tokina 11-20mm f/2.8,Godox SL60W,6418
+pub,high,studio,RED Komodo,Zeiss CP.3 50mm T2.1,Aputure 300x,275101
+clip,high,extérieur,Sony VENICE,Leica Summilux-C 29mm,Litepanels Gemini 2x1,330469
+interview,medium,studio,Blackmagic Pocket 4K,Sigma 24-70mm f/2.8,SmallRig RC120B,8379
+court-métrage,low,extérieur,Canon M50,Sigma 16mm f/1.4,Andoer 660 LED,3253
+court-métrage,high,studio,Canon C70,Sony G Master 35mm f/1.4,Creamsource Vortex8,300287
+court-métrage,low,studio,Sony A6400,Sigma 16mm f/1.4,Neewer LED Panel,3497
+pub,high,extérieur,Sony FX6,Zeiss CP.3 50mm T2.1,Creamsource Vortex8,185961
+interview,low,intérieur,Sony A6400,Viltrox 23mm f/1.4,Softbox 135W,3924
+interview,low,studio,Canon M50,Yongnuo 35mm f/2,GVM LED RGB,1783
+clip,medium,studio,Sony A7 IV,Tamron 28-75mm,Godox SL60W,6654
+pub,low,studio,Nikon Z30,Meike 25mm T2.2,Neewer LED Panel,3111
+documentaire,medium,intérieur,Sony FX30,Tamron 28-75mm,Nanlite PavoTube 6C,5748
+pub,low,studio,Fujifilm X-T200,Kit 18-55mm,Softbox 135W,1534
+documentaire,high,intérieur,Canon C70,Zeiss CP.3 50mm T2.1,Astera Titan Tube,243561
+clip,medium,intérieur,Canon R6,Tokina 11-20mm f/2.8,FalconEyes RX-18T,4747
+pub,low,intérieur,Sony A6400,Kit 18-55mm,GVM LED RGB,3400
+pub,low,studio,Canon M50,Canon 50mm f/1.8,Ring Light,3685
+documentaire,low,studio,Panasonic G7,Viltrox 23mm f/1.4,Neewer LED Panel,1670
+pub,medium,intérieur,Blackmagic Pocket 4K,Sigma 24-70mm f/2.8,FalconEyes RX-18T,6468
+clip,low,studio,Blackmagic Pocket Cinema Camera HD,Sigma 16mm f/1.4,GVM LED RGB,3712
+interview,low,studio,Sony A6400,Yongnuo 35mm f/2,Andoer 660 LED,2150
+interview,high,intérieur,ARRI Alexa Mini,Canon CN-E 85mm T1.3,Aputure 300x,65595
+documentaire,low,extérieur,Fujifilm X-T200,Sigma 16mm f/1.4,GVM LED RGB,1640
+clip,high,intérieur,Sony FX6,Sony G Master 35mm f/1.4,Astera Titan Tube,419856
+court-métrage,high,studio,Sony FX6,Leica Summilux-C 29mm,Nanlite Forza 300,440571
+pub,medium,studio,Fujifilm X-H2,Sigma 24-70mm f/2.8,FalconEyes RX-18T,5679
+court-métrage,low,intérieur,Nikon Z30,Viltrox 23mm f/1.4,Softbox 135W,2203
+pub,high,extérieur,Sony FX6,ARRI Signature Prime 35mm,Astera Titan Tube,149384
+court-métrage,low,intérieur,Canon M50,Kit 18-55mm,Neewer LED Panel,2480
+pub,low,studio,Panasonic G7,Yongnuo 35mm f/2,Andoer 660 LED,3166
+pub,low,intérieur,Sony A6400,Canon 50mm f/1.8,GVM LED RGB,2331
+court-métrage,low,intérieur,Blackmagic Pocket Cinema Camera HD,Sigma 16mm f/1.4,GVM LED RGB,3385
+clip,medium,studio,Canon R6,Canon RF 24-70mm,SmallRig RC120B,5069
+clip,high,extérieur,Canon C70,Leica Summilux-C 29mm,Aputure 300x,55670
+court-métrage,medium,intérieur,Fujifilm X-H2,Canon RF 24-70mm,Aputure AL-MC RGB,6941
+court-métrage,high,intérieur,Canon C70,Canon L 24-70mm f/2.8,Aputure 300x,447194
+pub,medium,extérieur,Canon R6,Sigma 24-70mm f/2.8,Aputure AL-MC RGB,6072
+clip,medium,intérieur,Blackmagic Pocket 4K,Tokina 11-20mm f/2.8,Godox SL60W,9073
+clip,high,studio,RED Komodo,Zeiss CP.3 50mm T2.1,ARRI SkyPanel S60,161758
+interview,medium,intérieur,Blackmagic Pocket 4K,Canon RF 24-70mm,Aputure AL-MC RGB,8774
+pub,high,extérieur,Blackmagic URSA Mini Pro 12K,Canon L 24-70mm f/2.8,Aputure 300x,66839
+interview,low,intérieur,Fujifilm X-T200,Yongnuo 35mm f/2,Softbox 135W,1792
+court-métrage,medium,studio,Sony A7 IV,Sigma 30mm f/1.4,SmallRig RC120B,9744
+court-métrage,high,intérieur,ARRI Alexa Mini,ARRI Signature Prime 35mm,ARRI SkyPanel S60,491465
+interview,high,intérieur,Sony VENICE,Canon CN-E 85mm T1.3,Aputure 300x,390426
+interview,medium,intérieur,Fujifilm X-H2,Tokina 11-20mm f/2.8,FalconEyes RX-18T,6728
+documentaire,high,extérieur,Canon C70,Leica Summilux-C 29mm,ARRI SkyPanel S60,440417
+court-métrage,medium,extérieur,Blackmagic Pocket 4K,Sigma 24-70mm f/2.8,Godox SL60W,4631
+pub,medium,intérieur,Sony FX30,Tokina 11-20mm f/2.8,Nanlite PavoTube 6C,9275
+documentaire,high,intérieur,Canon C70,Canon L 24-70mm f/2.8,ARRI SkyPanel S60,182326
+documentaire,high,studio,Blackmagic URSA Mini Pro 12K,Canon L 24-70mm f/2.8,Nanlite Forza 300,94595
+pub,medium,intérieur,Sony A7 IV,Tamron 28-75mm,Godox SL60W,5040
+pub,low,intérieur,Nikon Z30,Meike 25mm T2.2,Ring Light,3117
+court-métrage,low,studio,Canon M50,Canon 50mm f/1.8,GVM LED RGB,2426
+court-métrage,high,studio,Blackmagic URSA Mini Pro 12K,Canon CN-E 85mm T1.3,Nanlite Forza 300,463069
+clip,low,studio,Canon M50,Canon 50mm f/1.8,Ulanzi VL49,3750
+pub,low,intérieur,Panasonic G7,Viltrox 23mm f/1.4,Softbox 135W,3249
+documentaire,low,studio,Canon M50,Sigma 16mm f/1.4,Ulanzi VL49,3290
+pub,low,extérieur,Panasonic G7,Viltrox 23mm f/1.4,Neewer LED Panel,2327
+interview,medium,studio,Fujifilm X-H2,Canon RF 24-70mm,SmallRig RC120B,6929
+pub,medium,studio,Nikon Z6 II,Canon RF 24-70mm,Nanlite PavoTube 6C,9436
+interview,high,studio,RED Komodo,Canon CN-E 85mm T1.3,Litepanels Gemini 2x1,269711
+interview,low,intérieur,Fujifilm X-T200,Meike 25mm T2.2,GVM LED RGB,3132
+interview,low,extérieur,Blackmagic Pocket Cinema Camera HD,Viltrox 23mm f/1.4,Neewer LED Panel,1908
+interview,medium,extérieur,Panasonic GH6,Tamron 28-75mm,Aputure AL-MC RGB,5815
+documentaire,low,extérieur,Blackmagic Pocket Cinema Camera HD,Kit 18-55mm,Softbox 135W,3721
+interview,high,studio,ARRI Alexa Mini,Canon L 24-70mm f/2.8,Litepanels Gemini 2x1,229270
+clip,medium,intérieur,Sony A7 IV,Sigma 24-70mm f/2.8,Aputure Amaran 100x,9584
+clip,high,extérieur,ARRI Alexa Mini,Zeiss CP.3 50mm T2.1,Litepanels Gemini 2x1,130801
+documentaire,medium,extérieur,Canon R6,Tamron 28-75mm,Aputure AL-MC RGB,5864
+pub,low,intérieur,Panasonic G7,Sigma 16mm f/1.4,Ring Light,3181
+clip,high,studio,Sony FX6,Zeiss CP.3 50mm T2.1,Litepanels Gemini 2x1,441757
+clip,low,studio,Blackmagic Pocket Cinema Camera HD,Yongnuo 35mm f/2,Ulanzi VL49,3162
+clip,high,extérieur,RED Komodo,ARRI Signature Prime 35mm,Litepanels Gemini 2x1,287811
+interview,high,studio,Sony FX6,Canon CN-E 85mm T1.3,Aputure 300x,260652
+pub,high,studio,RED Komodo,ARRI Signature Prime 35mm,Astera Titan Tube,125083
+interview,medium,extérieur,Sony A7 IV,Canon RF 24-70mm,Godox SL60W,5942
+clip,low,extérieur,Sony A6400,Meike 25mm T2.2,Andoer 660 LED,3812
+documentaire,medium,intérieur,Sony FX30,Sony 18-105mm f/4 G,Nanlite PavoTube 6C,5197
+documentaire,medium,studio,Canon R6,Canon RF 24-70mm,Aputure Amaran 100x,7520
+court-métrage,high,extérieur,ARRI Alexa Mini,Zeiss CP.3 50mm T2.1,Creamsource Vortex8,22865
+clip,high,extérieur,Sony FX6,Zeiss CP.3 50mm T2.1,Litepanels Gemini 2x1,137344
+court-métrage,medium,extérieur,Sony FX30,Tokina 11-20mm f/2.8,SmallRig RC120B,8883
+pub,low,studio,Canon M50,Sigma 16mm f/1.4,Ring Light,3925
+documentaire,low,extérieur,Panasonic G7,Canon 50mm f/1.8,Neewer LED Panel,2666
+documentaire,medium,studio,Canon R6,Sigma 24-70mm f/2.8,Aputure AL-MC RGB,4840
+clip,high,extérieur,RED Komodo,Canon CN-E 85mm T1.3,Aputure 300x,231874
+documentaire,medium,studio,Sony A7 IV,Sigma 30mm f/1.4,Nanlite PavoTube 6C,7198
+documentaire,low,intérieur,Nikon Z30,Viltrox 23mm f/1.4,Softbox 135W,2970
+interview,medium,intérieur,Blackmagic Pocket 4K,Tamron 28-75mm,Aputure AL-MC RGB,9568
+documentaire,medium,extérieur,Panasonic GH6,Tamron 28-75mm,FalconEyes RX-18T,6185
+pub,low,intérieur,Blackmagic Pocket Cinema Camera HD,Canon 50mm f/1.8,Neewer LED Panel,2601
+interview,medium,intérieur,Canon R6,Sony 18-105mm f/4 G,Aputure Amaran 100x,4929
+documentaire,medium,intérieur,Fujifilm X-H2,Canon RF 24-70mm,Godox SL60W,5637
+clip,medium,intérieur,Panasonic GH6,Tamron 28-75mm,Godox SL60W,8429
+interview,medium,extérieur,Panasonic GH6,Tokina 11-20mm f/2.8,Godox SL60W,7046
+court-métrage,high,extérieur,Sony VENICE,Sony G Master 35mm f/1.4,Litepanels Gemini 2x1,80793
+interview,medium,extérieur,Panasonic GH6,Sigma 30mm f/1.4,Aputure AL-MC RGB,9094
+pub,high,extérieur,Canon C70,ARRI Signature Prime 35mm,Aputure 300x,320759
+interview,low,intérieur,Sony A6400,Sigma 16mm f/1.4,Ulanzi VL49,1899
+clip,medium,studio,Sony A7 IV,Sony 18-105mm f/4 G,SmallRig RC120B,7053
+clip,low,extérieur,Canon M50,Kit 18-55mm,Ulanzi VL49,2433
+documentaire,high,studio,RED Komodo,Leica Summilux-C 29mm,Nanlite Forza 300,185881
+interview,medium,intérieur,Nikon Z6 II,Canon RF 24-70mm,Nanlite PavoTube 6C,6797
+pub,medium,studio,Fujifilm X-H2,Sigma 30mm f/1.4,Nanlite PavoTube 6C,7700
+court-métrage,medium,intérieur,Sony FX30,Tokina 11-20mm f/2.8,Aputure Amaran 100x,6230
+court-métrage,low,extérieur,Fujifilm X-T200,Canon 50mm f/1.8,Neewer LED Panel,1779
+interview,high,studio,Sony FX6,Canon CN-E 85mm T1.3,Litepanels Gemini 2x1,225404
+clip,high,studio,Sony VENICE,ARRI Signature Prime 35mm,Nanlite Forza 300,382593
+documentaire,medium,studio,Canon R6,Tamron 28-75mm,FalconEyes RX-18T,4946
+interview,medium,extérieur,Canon R6,Sony 18-105mm f/4 G,Aputure AL-MC RGB,9658
+documentaire,medium,intérieur,Canon R6,Sigma 30mm f/1.4,Godox SL60W,4967
+documentaire,high,studio,Canon C70,Canon L 24-70mm f/2.8,Litepanels Gemini 2x1,311714
+interview,low,intérieur,Fujifilm X-T200,Yongnuo 35mm f/2,Ulanzi VL49,3468
+interview,high,studio,Canon C70,Zeiss CP.3 50mm T2.1,ARRI SkyPanel S60,420579
+interview,medium,studio,Fujifilm X-H2,Sigma 30mm f/1.4,Aputure Amaran 100x,6521
+pub,medium,intérieur,Blackmagic Pocket 4K,Canon RF 24-70mm,Aputure AL-MC RGB,7358
+pub,low,intérieur,Blackmagic Pocket Cinema Camera HD,Yongnuo 35mm f/2,Ring Light,3754
+clip,low,studio,Nikon Z30,Yongnuo 35mm f/2,Neewer LED Panel,2711
+court-métrage,low,extérieur,Canon M50,Canon 50mm f/1.8,Softbox 135W,3604
+court-métrage,high,extérieur,Sony VENICE,ARRI Signature Prime 35mm,Creamsource Vortex8,289720
+interview,medium,extérieur,Fujifilm X-H2,Canon RF 24-70mm,FalconEyes RX-18T,9792
+documentaire,medium,extérieur,Nikon Z6 II,Sony 18-105mm f/4 G,Aputure Amaran 100x,6068
+clip,medium,studio,Panasonic GH6,Sigma 24-70mm f/2.8,Godox SL60W,6783
+clip,high,intérieur,Canon C70,Canon CN-E 85mm T1.3,Astera Titan Tube,451042
+court-métrage,medium,intérieur,Nikon Z6 II,Sigma 30mm f/1.4,SmallRig RC120B,8184
+interview,medium,intérieur,Sony FX30,Canon RF 24-70mm,Nanlite PavoTube 6C,6377
+interview,medium,intérieur,Sony FX30,Sigma 24-70mm f/2.8,FalconEyes RX-18T,9286
+pub,low,studio,Sony A6400,Sigma 16mm f/1.4,Neewer LED Panel,1924
+court-métrage,medium,studio,Sony A7 IV,Tamron 28-75mm,SmallRig RC120B,9550
+interview,high,intérieur,Sony FX6,Canon CN-E 85mm T1.3,Nanlite Forza 300,80195
+pub,medium,studio,Blackmagic Pocket 4K,Sony 18-105mm f/4 G,FalconEyes RX-18T,5595
+clip,low,studio,Fujifilm X-T200,Meike 25mm T2.2,Ring Light,2316
+documentaire,medium,studio,Canon R6,Sigma 30mm f/1.4,Nanlite PavoTube 6C,9113
+pub,medium,extérieur,Nikon Z6 II,Canon RF 24-70mm,Godox SL60W,7145
+clip,medium,extérieur,Panasonic GH6,Canon RF 24-70mm,SmallRig RC120B,9046
+pub,medium,studio,Blackmagic Pocket 4K,Tokina 11-20mm f/2.8,FalconEyes RX-18T,7293
+clip,high,extérieur,Blackmagic URSA Mini Pro 12K,Canon CN-E 85mm T1.3,Creamsource Vortex8,189820
+court-métrage,medium,extérieur,Sony A7 IV,Sigma 30mm f/1.4,Aputure Amaran 100x,6160
+court-métrage,high,studio,RED Komodo,Sony G Master 35mm f/1.4,Litepanels Gemini 2x1,347058
+court-métrage,high,studio,Canon C70,Canon L 24-70mm f/2.8,ARRI SkyPanel S60,147851
+clip,medium,intérieur,Sony FX30,Canon RF 24-70mm,FalconEyes RX-18T,9401
+clip,low,studio,Panasonic G7,Kit 18-55mm,Andoer 660 LED,3325
+interview,low,studio,Canon M50,Sigma 16mm f/1.4,Neewer LED Panel,3391
+documentaire,low,intérieur,Panasonic G7,Yongnuo 35mm f/2,Ring Light,1875
+documentaire,low,extérieur,Fujifilm X-T200,Kit 18-55mm,Neewer LED Panel,2749
+pub,low,intérieur,Nikon Z30,Yongnuo 35mm f/2,Softbox 135W,1568
+court-métrage,medium,intérieur,Nikon Z6 II,Canon RF 24-70mm,Aputure AL-MC RGB,9359
+clip,high,extérieur,Canon C70,Leica Summilux-C 29mm,ARRI SkyPanel S60,300004
+clip,high,studio,Sony VENICE,Leica Summilux-C 29mm,Creamsource Vortex8,270575
+court-métrage,high,extérieur,Blackmagic URSA Mini Pro 12K,Canon L 24-70mm f/2.8,Creamsource Vortex8,252750
+clip,high,extérieur,Sony VENICE,Leica Summilux-C 29mm,Astera Titan Tube,268020
+interview,medium,extérieur,Fujifilm X-H2,Sigma 24-70mm f/2.8,FalconEyes RX-18T,9521
+pub,medium,studio,Sony FX30,Tokina 11-20mm f/2.8,SmallRig RC120B,5161

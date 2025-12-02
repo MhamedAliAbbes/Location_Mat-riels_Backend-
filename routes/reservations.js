@@ -15,6 +15,14 @@ router.get(
   reservationController.getReservationStats
 );
 
+// POST /api/reservations/cleanup (Admin only) - Manual cleanup trigger
+router.post(
+  '/cleanup',
+  authenticateToken,
+  requireAdmin,
+  reservationController.triggerCleanup
+);
+
 // GET /api/reservations (Get all reservations for a user, or all for admin)
 router.get(
   '/',
@@ -65,22 +73,13 @@ router.patch(
   reservationController.cancelReservation
 );
 
-// PATCH /api/reservations/:id/active (Admin marks a reservation as active)
-router.patch(
-  '/:id/active',
+// DELETE /api/reservations/:id (Admin deletes a reservation)
+router.delete(
+  '/:id',
   authenticateToken,
   requireAdmin,
   validation.validateObjectId('id'),
-  reservationController.markReservationActive
-);
-
-// PATCH /api/reservations/:id/complete (Admin completes a reservation)
-router.patch(
-  '/:id/complete',
-  authenticateToken,
-  requireAdmin,
-  validation.validateObjectId('id'),
-  reservationController.completeReservation
+  reservationController.deleteReservation
 );
 
 module.exports = router;
